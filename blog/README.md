@@ -6,7 +6,7 @@
 - 2026-09-17 [亚马逊 sp-api 中国开发者大会 2026 会议资料-截图](amazon-ai/2026-09-17-sp-api-2026.md)
 - 2026-09-02 [如何给自己的Claude或者codex工具一个纯净的国外IP环境](amazon-ai/2026-09-02-claude-codex-ip.md)
 
-## 亚马逊SC (27)
+## 亚马逊SC (28)
 
 - 2026-10-19 [亚马逊最新着陆页：Contextual Landing Page（上下文语意相关着陆页）](amazon-sc/2026-10-19-contextual-landing-page.md)
 - 2026-10-16 [如果遇到nwd(无批发分销)怎么办？受到了亚马逊的 nwd 限制如何处理，完整策略](amazon-sc/2026-10-16-nwd-nwd.md)
@@ -35,6 +35,7 @@
 - 2026-08-21 [亚马逊选品 -商机探测器- 亚马逊官方推出了一个新功能——选品模拟器 (Validate Product Idea)。](amazon-sc/2026-08-21-validate-product-idea.md)
 - 2026-08-20 [第一章 亚马逊a9算法全解析-·- 亚马逊高阶训练营笔记分享](amazon-sc/2026-08-20-a9.md)
 - 2026-08-20 [Hello!第二次发帖！亚马逊账号关联（案例分析+详细介绍）+ 店铺体检报告](amazon-sc/2026-08-20-hello.md)
+- 2026-08-20 [Hello!第三次发帖！亚马逊关键词广告市场曝光量的计算方法](amazon-sc/2026-08-20-hello-32.md)
 
 ## 亚马逊选品 (5)
 
@@ -58,7 +59,7 @@
 - 2026-08-18 [欢迎来到 天机跨境论坛！:wave:](general/2026-08-18-5.md)
 - 2026-08-18 [关于你，有哪些有趣的小事？谢谢大家的支持！谢谢](general/2026-08-18-7.md)
 
-## 亚马逊VC (15)
+## 亚马逊VC (16)
 
 - 2026-10-21 [亚马逊VC条款可选性分析（“Agreements” ）](amazon-vc/2026-10-21-vc-agreements.md)
 - 2026-10-18 [亚马逊新功能Amazon Curated里面147指标 Add or change metrics and dimensions](amazon-vc/2026-10-18-amazon-curated-147-add-or-change-metrics-and-dimensions.md)
@@ -66,6 +67,7 @@
 - 2026-10-15 [回答卖家问题： 各位大佬， 我们最近很多销量和价格稳定的asin在会员日后前台零售价突然提高很多是啥问题呀（这些asin以往价格都很稳定） 核心原因分析](amazon-vc/2026-10-15-asin-asin.md)
 - 2026-09-01 [亚马逊vc运营 销量预测分析，截图](amazon-vc/2026-09-01-vc.md)
 - 2026-09-01 [亚马逊vc账号 vm经理资源 字段含义 价值(亚马逊视角下的盈利能力（如 cm、ppm）以及供应链成本上。)](amazon-vc/2026-09-01-vc-vm-cm-ppm.md)
+- 2026-08-28 [亚马逊vc的流程 整理集合（前期准备和注意事项）](amazon-vc/2026-08-28-vc-79.md)
 - 2026-08-28 [亚马逊VC前台异常 问题分析，①MSRP异常分析②VC Offer丢失 异常分析③VC库存异常分析](amazon-vc/2026-08-28-vc-msrp-vc-offer-vc.md)
 - 2026-08-28 [《亚马逊vc订单异常分析与解决方案》](amazon-vc/2026-08-28-vc.md)
 - 2026-08-28 [Bd提报规则，问题分析 vc bd活动提报](amazon-vc/2026-08-28-bd-vc-bd.md)
