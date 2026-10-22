@@ -1,0 +1,62 @@
+---
+title: "美国VC创建货件发货流程 三"
+feishu_url: https://my.feishu.cn/wiki/KQUfwyDLhivKnekH9oecTOr3nSc
+obj_type: docx
+obj_token: LNWedQjkYosU8uxZXfQct4EtnMb
+updated: 2024-09-26T16:03:48+08:00
+---
+
+# 美国VC创建货件发货流程 三
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_XGrbbKoWjo.jpg)
+
+美国VC创建货件发货流程：
+
+创建货件之前，需要完成①产品管理，完成报价，获得eSKU  ②Listing列表,上架VC offer （需要绑定UPC,没有UPC的需要”批量上传“ 模板去刷新）文档[如何获取和刷新UPC/EAN条码](https://spotterio.feishu.cn/wiki/O0n1wH3yfimFdTkSRyPcbpvAnpc)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_JFcsb6tQOo.jpg)
+
+现在进入第三步，创建发货（举例，eSKU:00131-1610-0390   UPC:700433218835）
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_KB8Gbb4jRo.jpg)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_KWifbwUBzo.jpg)
+
+700433218835
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_NFkbblSHHo.jpg)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_LRmybDTHAo.png)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_ZlsEbvXXgo.png)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_TO2IbXjCdo.png)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_OBD9b3RZlo.jpg)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_OpRQbT4huo.jpg)
+
+SSP62GJ0N5O 下载箱唛
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_TvJkbzzy9o.png)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_FyCxbcfKco.png)
+
+把发货数据  发给鹤鹤
+
+UPC刷新 绑定ASIN   https://online-barcode-generator.net/
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_KLfrbUhFbo.png)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_Cg7CbSDtOo.jpg)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_E6axbim6Go.jpg)
+
+https://online-barcode-generator.net/
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_TET8bV2tGo.jpg)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_MBHybBV7io.jpg)
+
+![](assets/%E7%BE%8E%E5%9B%BDVC%E5%88%9B%E5%BB%BA%E8%B4%A7%E4%BB%B6%E5%8F%91%E8%B4%A7%E6%B5%81%E7%A8%8B%20%E4%B8%89_BOMWb9ULSo.jpg)
+

@@ -1,0 +1,32 @@
+---
+title: "VC发货 生成产品条形码，产品条码"
+feishu_url: https://my.feishu.cn/wiki/FX5Hw0Ww0iX294k21jicHsRwnsh
+obj_type: docx
+obj_token: QcmadxxC9o4e0xxDx9pc05zUnbe
+updated: 2024-10-14T21:29:46+08:00
+---
+
+# VC发货 生成产品条形码，产品条码
+
+生成产品条形码，产品条码
+
+https://www.iamwawa.cn/barcode.html
+
+![](assets/VC%E5%8F%91%E8%B4%A7%20%E7%94%9F%E6%88%90%E4%BA%A7%E5%93%81%E6%9D%A1%E5%BD%A2%E7%A0%81%EF%BC%8C%E4%BA%A7%E5%93%81%E6%9D%A1%E7%A0%81_GNoabNjy9o.jpg)
+
+![](assets/VC%E5%8F%91%E8%B4%A7%20%E7%94%9F%E6%88%90%E4%BA%A7%E5%93%81%E6%9D%A1%E5%BD%A2%E7%A0%81%EF%BC%8C%E4%BA%A7%E5%93%81%E6%9D%A1%E7%A0%81_IGp2b7OXWo.jpg)
+
+![](assets/VC%E5%8F%91%E8%B4%A7%20%E7%94%9F%E6%88%90%E4%BA%A7%E5%93%81%E6%9D%A1%E5%BD%A2%E7%A0%81%EF%BC%8C%E4%BA%A7%E5%93%81%E6%9D%A1%E7%A0%81_Xnnmbrz9Go.jpg)
+
+barcode_745978420169
+
+![](assets/VC%E5%8F%91%E8%B4%A7%20%E7%94%9F%E6%88%90%E4%BA%A7%E5%93%81%E6%9D%A1%E5%BD%A2%E7%A0%81%EF%BC%8C%E4%BA%A7%E5%93%81%E6%9D%A1%E7%A0%81_ZbrTb7jPro.png)
+
+PS  PDF
+
+![](assets/VC%E5%8F%91%E8%B4%A7%20%E7%94%9F%E6%88%90%E4%BA%A7%E5%93%81%E6%9D%A1%E5%BD%A2%E7%A0%81%EF%BC%8C%E4%BA%A7%E5%93%81%E6%9D%A1%E7%A0%81_OZHfbrUYOo.jpg)
+
+![](assets/VC%E5%8F%91%E8%B4%A7%20%E7%94%9F%E6%88%90%E4%BA%A7%E5%93%81%E6%9D%A1%E5%BD%A2%E7%A0%81%EF%BC%8C%E4%BA%A7%E5%93%81%E6%9D%A1%E7%A0%81_I1XobQEAmo.jpg)
+
+![](assets/VC%E5%8F%91%E8%B4%A7%20%E7%94%9F%E6%88%90%E4%BA%A7%E5%93%81%E6%9D%A1%E5%BD%A2%E7%A0%81%EF%BC%8C%E4%BA%A7%E5%93%81%E6%9D%A1%E7%A0%81_LGiQbI9Gso.jpg)
+
