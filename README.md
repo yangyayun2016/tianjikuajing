@@ -38,6 +38,7 @@
 | [`resources/`](resources/README.md) | **资源对接**：公开资源导航与供需登记 |
 | [`cases/`](cases/README.md) | **案例**：索引、写作要求、案例模板 |
 | [`wall/`](wall/README.md) | **战报墙**：一线真实结果的短记录 |
+| [`feishu/`](feishu/README.md) | **飞书知识库**：阳亚运的知识库导出（文档、表格与附件） |
 
 ## 核心方法论
 

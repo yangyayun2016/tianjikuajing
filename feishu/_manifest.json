@@ -1,0 +1,5496 @@
+{
+ "space_id": "7592104357470981323",
+ "generated": "2026-10-22T14:14:52+08:00",
+ "nodes": [
+  {
+   "node_token": "YrlvwdFYDiSEalkRU7Vc3BkfnBt",
+   "obj_token": "VwlVd0UxGoyuG2xSRvvcQlIvnA1",
+   "type": "docx",
+   "title": "知识库介绍",
+   "path": "知识库介绍.md",
+   "obj_edit_time": "1770340675",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Fw1WwJ5kuiVb31kEPilcXM31nBd",
+   "obj_token": "Gh9BbImlLovwZPx4mWPc8S1knnc",
+   "type": "file",
+   "title": "OpenClaw知识库.doc",
+   "path": "知识库介绍/OpenClaw知识库.doc",
+   "obj_edit_time": "1773197894",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "HEcjwwYiuimSYpkGJ4xct9iTned",
+   "obj_token": "NwHtdTIdWo49auxEqe2cibISnVg",
+   "type": "docx",
+   "title": "01：认识OpenClaw",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/01：认识OpenClaw.md",
+   "obj_edit_time": "1779372175",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "Et57wtVHniI2t8kwBXncQpAYnqh",
+   "obj_token": "M3C9d7RkFot5xnxaCQqclVumnbf",
+   "type": "docx",
+   "title": "03-云服务器安装：腾讯云部署完整指南（onboard版本）",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/03-云服务器安装：腾讯云部署完整指南（onboard版本）.md",
+   "obj_edit_time": "1773384167",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "LVxOw3NZOiHGpkk85VVczDsqnnc",
+   "obj_token": "WAm2dR2cNoWfWIxCLYscx9fPnFh",
+   "type": "docx",
+   "title": "05-接入飞书：详细配置指南",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/05-接入飞书：详细配置指南.md",
+   "obj_edit_time": "1773384173",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "V0ezwqZACipUIukS9QncWqu3nJe",
+   "obj_token": "LfR4dsCzZoZyT7xpvXCcYe94nle",
+   "type": "docx",
+   "title": "基于Agent智能客服项目",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/基于Agent智能客服项目.md",
+   "obj_edit_time": "1773384186",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "LU9ew6hhyiizSKkkUi2cOMUPnLh",
+   "obj_token": "YSoCd8K9YojGn4xDQOAcqSYHnOd",
+   "type": "docx",
+   "title": "第8章 Skills扩展：让AI从\"能说\"到\"能做\"",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/第8章 Skills扩展：让AI从_能说_到_能做_.md",
+   "obj_edit_time": "1773384192",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "QlKQwsYI2ieCnBkHGhNcNEmunGl",
+   "obj_token": "LfgxdSKp9otNOax836ZcEptFn4e",
+   "type": "docx",
+   "title": "第1章：认识OpenClaw 前沿agent技术",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/第1章：认识OpenClaw 前沿agent技术.md",
+   "obj_edit_time": "1773384198",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "GOJhwfVzpiHCtHkQ7EOcXhc7nse",
+   "obj_token": "JEuLbNakBaILHRsAWekcE5uXnnd",
+   "type": "bitable",
+   "title": "精品运营全链路",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/精品运营全链路.xlsx",
+   "obj_edit_time": "1785202612",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "TCvqwAYABi8bKwkns3zcr1nxnXc",
+   "obj_token": "AB2fbyHauobMuPxXYa0c95cunud",
+   "type": "file",
+   "title": "1.1 OpenClaw项目生态全景.pdf",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/1.1 OpenClaw项目生态全景.pdf",
+   "obj_edit_time": "1773994032",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "A10mwtlxAi5OA3kEGRLcOqncnug",
+   "obj_token": "Aofnbo770olJ4LxVtDPcHCK4nQe",
+   "type": "file",
+   "title": "1.2 OpenClaw部署环境比较.pdf",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/1.2 OpenClaw部署环境比较.pdf",
+   "obj_edit_time": "1773994033",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "NToowqzeriA7zRkZw1DcSBUdnsh",
+   "obj_token": "VXt2bIzU9oCIZux4OqFcL3GKnQg",
+   "type": "file",
+   "title": "1.3 OpenClaw主流场景费用分析.pdf",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/1.3 OpenClaw主流场景费用分析.pdf",
+   "obj_edit_time": "1773994034",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "NFh2wdanfiIYk7ks7lpcZocqn4c",
+   "obj_token": "OnoLbkfF3oEptfxFu4GcGufmn2c",
+   "type": "file",
+   "title": "2.1 OpenClaw本地部署流程.pdf",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/2.1 OpenClaw本地部署流程.pdf",
+   "obj_edit_time": "1773994036",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "DqJEwMfF0iXXYgkpqbCcS2DYnBf",
+   "obj_token": "VhCabh2g9oBaU3x0HsScppFCned",
+   "type": "file",
+   "title": "2.2 OpenClaw配置与记忆修改.pdf",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/2.2 OpenClaw配置与记忆修改.pdf",
+   "obj_edit_time": "1773994039",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "OXk2wHlg5ijBJJkuHeecl0mpneb",
+   "obj_token": "RBP8bhTdEogcTKxbzF6c3BVfnbf",
+   "type": "file",
+   "title": "2.3 OpenClaw安全防护入门.pdf",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/2.3 OpenClaw安全防护入门.pdf",
+   "obj_edit_time": "1773994040",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "KldswjV06ilgECktlxjclZwenYg",
+   "obj_token": "OJjpbjReIohVlHxp1cfcpfYvnEh",
+   "type": "file",
+   "title": "2.4 OpenClaw Skills入门实操.pdf",
+   "path": "知识库介绍/OpenClaw知识库.doc_子页面/2.4 OpenClaw Skills入门实操.pdf",
+   "obj_edit_time": "1773994042",
+   "depth": 2,
+   "parent": "Fw1WwJ5kuiVb31kEPilcXM31nBd"
+  },
+  {
+   "node_token": "LICxw0iWnietUvkGXXOcOE4Nnxg",
+   "obj_token": "BdfKd9vhKoTpQix0XUEcJJbfnig",
+   "type": "docx",
+   "title": "第1章：  环境搭建 OpenClaw前沿agent技术",
+   "path": "知识库介绍/第1章：  环境搭建 OpenClaw前沿agent技术.md",
+   "obj_edit_time": "1792140212",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "VPOmwHuROi9kKskqCbPczK84nSg",
+   "obj_token": "LAW9das94oTy8rxsl3OcxQ5MnBf",
+   "type": "docx",
+   "title": "01-快速了解OpenClaw，OpenClaw 是什么？3分钟快速了解",
+   "path": "知识库介绍/01-快速了解OpenClaw，OpenClaw 是什么？3分钟快速了解.md",
+   "obj_edit_time": "1773993787",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "O1iawa6lpiVSFukbADQcXiPOnoc",
+   "obj_token": "WLsude3Hxot9bdxmZiicpQSBnme",
+   "type": "docx",
+   "title": "02-本地安装-Windows-Mac-详细步骤",
+   "path": "知识库介绍/02-本地安装-Windows-Mac-详细步骤.md",
+   "obj_edit_time": "1773993801",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "HBrxwSaiwi0hzqk2p09csMkOnzc",
+   "obj_token": "FqhudZJmQoaM86xO8RqcIv6mnWd",
+   "type": "docx",
+   "title": "04-接入 Telegram：详细配置指南",
+   "path": "知识库介绍/04-接入 Telegram：详细配置指南.md",
+   "obj_edit_time": "1773993814",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "ES3dwbqCNi6CthkCVBvcrDBanFg",
+   "obj_token": "Im2pdDEIooxHiQx0DMsc2MpYnYK",
+   "type": "docx",
+   "title": "06-腾讯云+飞书+ MiniMax全流程配置指南（3月6日）",
+   "path": "知识库介绍/06-腾讯云+飞书+ MiniMax全流程配置指南（3月6日）.md",
+   "obj_edit_time": "1773198513",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "OPk1wag7oiMLwakTexCcJMuZnpg",
+   "obj_token": "B8JcdbJZ9o5Ou3xKow2cqhjLnMb",
+   "type": "docx",
+   "title": "07-接入 QQ Bot ：详细配置指南（支持本地&腾讯云）",
+   "path": "知识库介绍/07-接入 QQ Bot ：详细配置指南（支持本地&腾讯云）.md",
+   "obj_edit_time": "1773198506",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "F32QwpT3OiQ4r5kcHLxcIGoGn7e",
+   "obj_token": "BaLCdR0pjo9BwnxYnAtcYaAJnmc",
+   "type": "docx",
+   "title": "09-初次体验：与 openclaw 的第一次对话",
+   "path": "知识库介绍/09-初次体验：与 openclaw 的第一次对话.md",
+   "obj_edit_time": "1772776792",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "EMoMwAfaGiEhlRkTpOrc91Q2nMh",
+   "obj_token": "WsxCds4cxoAFfXx8Ee3c7QySn2b",
+   "type": "docx",
+   "title": "10-OpenClaw 目录深度解析：每个文件夹都在干嘛？",
+   "path": "知识库介绍/10-OpenClaw 目录深度解析：每个文件夹都在干嘛？.md",
+   "obj_edit_time": "1773198497",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "HV6bw3C0PiHsSYkR6ynczJVHnwJ",
+   "obj_token": "RegDdVIDFoYGyRxyBxJcGiIQnfb",
+   "type": "docx",
+   "title": "11-AI 助手的记忆系统：它是如何记住你的？ ",
+   "path": "知识库介绍/11-AI 助手的记忆系统：它是如何记住你的？.md",
+   "obj_edit_time": "1773198492",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "NUe0wfsC0imY2YkZMakcgqqTnKe",
+   "obj_token": "FOtIdyUdQogETix6b2tcBaeMnqg",
+   "type": "docx",
+   "title": "12-赋予AI人格与灵魂：OpenClaw从工具到伙伴转变的技巧",
+   "path": "知识库介绍/12-赋予AI人格与灵魂：OpenClaw从工具到伙伴转变的技巧.md",
+   "obj_edit_time": "1773198487",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "KqK9wgpTgin7WRkKQm7cH82tn3b",
+   "obj_token": "TZ12dlq3To9peGxvaYdcwdsCnDh",
+   "type": "docx",
+   "title": "13-亚马逊AI 助手的Skills系统：怎样扩展智能体额外能力",
+   "path": "知识库介绍/13-亚马逊AI 助手的Skills系统：怎样扩展智能体额外能力.md",
+   "obj_edit_time": "1772954513",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "XIo7wngyzie4StkWCS6c6flinff",
+   "obj_token": "GgeUdR1fSo92OfxM1aEcqTRknyf",
+   "type": "docx",
+   "title": "15-多Agent团队协作系列教程（二）：使用子智能体实现协作过程清晰可见",
+   "path": "知识库介绍/15-多Agent团队协作系列教程（二）：使用子智能体实现协作过程清晰可见.md",
+   "obj_edit_time": "1773198478",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "JVF0wvNmsi3MhakmO8LcAjR0nOd",
+   "obj_token": "O2FYdxSaeowkwwxDsegcXHJOnSe",
+   "type": "docx",
+   "title": "14-多Agent团队协作系列教程（一）：搭建你的 AI 梦之队",
+   "path": "知识库介绍/14-多Agent团队协作系列教程（一）：搭建你的 AI 梦之队.md",
+   "obj_edit_time": "1775006014",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "OyxGwhFxMi1g2KkRhNfcikA8noN",
+   "obj_token": "FJCbdRpyPoyoHYxFZShcETyzn3L",
+   "type": "docx",
+   "title": "16-多Agent团队协作系列教程（三）：两种协作方式如何选择？",
+   "path": "知识库介绍/16-多Agent团队协作系列教程（三）：两种协作方式如何选择？.md",
+   "obj_edit_time": "1773198435",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "BkOWwhiLdiq9Qrk46GAcFfv7nNc",
+   "obj_token": "KODedGQ0loLUyRxHgjhceQ5dn6d",
+   "type": "docx",
+   "title": "17-定时任务与自动化：让 AI 在你睡觉的时候也能工作",
+   "path": "知识库介绍/17-定时任务与自动化：让 AI 在你睡觉的时候也能工作.md",
+   "obj_edit_time": "1773198429",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "GCDAw9FFWiUSYtkaGjPcbm1tnNe",
+   "obj_token": "IebRdwq6Po9SjexkZFAci4ygnIb",
+   "type": "docx",
+   "title": "【本系列教程帮助 零基础 用户】OpenClaw训练SOP",
+   "path": "知识库介绍/【本系列教程帮助 零基础 用户】OpenClaw训练SOP.md",
+   "obj_edit_time": "1773995517",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "ZJKywyjWpijb4dkjfkocilYgnqc",
+   "obj_token": "FF5NdC0Cjo3Z4ZxUIdQcKK52nGh",
+   "type": "docx",
+   "title": "19-实战案例-每日 AI 新闻早报：热点监控，手机自动接收日报",
+   "path": "知识库介绍/19-实战案例-每日 AI 新闻早报：热点监控，手机自动接收日报.md",
+   "obj_edit_time": "1773198417",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "V3YBwYA8RixtTwkklw7cG7Ggnmb",
+   "obj_token": "Zt1ad38jVoZJUfxleZocnUbznzf",
+   "type": "docx",
+   "title": "24-避坑指南：小白常见问题与官方FAQ遗漏详解",
+   "path": "知识库介绍/24-避坑指南：小白常见问题与官方FAQ遗漏详解.md",
+   "obj_edit_time": "1773198410",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "SPRbwVktRimrSmk6cOacuOlTnxe",
+   "obj_token": "DQjedJKNnog4aMxbeJ1cUFYcnKc",
+   "type": "docx",
+   "title": "25-用叶动助手解决OpenClaw在Windows上安装卡点",
+   "path": "知识库介绍/25-用叶动助手解决OpenClaw在Windows上安装卡点.md",
+   "obj_edit_time": "1773198405",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "DLi3w3Rb2iBVY6krG4UcgsqAn2e",
+   "obj_token": "D5yBd5qnsoyHmOx1mHrcRmlwnW2",
+   "type": "docx",
+   "title": "【老师】OpenClaw Telegram 插件启用指南",
+   "path": "知识库介绍/【老师】OpenClaw Telegram 插件启用指南.md",
+   "obj_edit_time": "1773384255",
+   "depth": 1,
+   "parent": "YrlvwdFYDiSEalkRU7Vc3BkfnBt"
+  },
+  {
+   "node_token": "WAjwwpb0li9obxkwUr5cyLbsnkh",
+   "obj_token": "W07ddyFcTouaVAx2CWCcqP3fnPg",
+   "type": "docx",
+   "title": "总结 - - 发帖合集Hello!",
+   "path": "总结 - - 发帖合集Hello!.md",
+   "obj_edit_time": "1767680615",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "TvHkwiJ25iyqBJk0XOMczQC0nOg",
+   "obj_token": "doccnNvZEAjSL1F9W1aS2NGl4L9",
+   "type": "doc",
+   "title": "Hello!第一次发帖！认真讲解《注册亚马逊美国站账号全过程（最新版）纯实操》",
+   "path": "总结 - - 发帖合集Hello!/Hello!第一次发帖！认真讲解《注册亚马逊美国站账号全过程（最新版）纯实操》.md",
+   "obj_edit_time": "1785202853",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "QiIxwWztQiR3yPkxnlpcSjKMnvg",
+   "obj_token": "doccn9VI42d27JxCPZCSCGeNkJd",
+   "type": "doc",
+   "title": "Hello!第二次发帖！亚马逊账号关联（案例分析+详细介绍）",
+   "path": "总结 - - 发帖合集Hello!/Hello!第二次发帖！亚马逊账号关联（案例分析+详细介绍）.md",
+   "obj_edit_time": "1787218041",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "KQVcwRwNMiEhyIkYQcMcZkIdnGd",
+   "obj_token": "doccnfXcNP6U0Um8InD0NvSB8Wc",
+   "type": "doc",
+   "title": "Hello!第三次发帖！亚马逊如何算利润",
+   "path": "总结 - - 发帖合集Hello!/Hello!第三次发帖！亚马逊如何算利润.md",
+   "obj_edit_time": "1787881747",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "PKB7wGmIsisCygklUDkcmnCPnng",
+   "obj_token": "doccnbqGZOOoJhggOUO8nVGynEe",
+   "type": "doc",
+   "title": "Hello!第四次发帖！品牌分析，插件，全部功能讲解课程",
+   "path": "总结 - - 发帖合集Hello!/Hello!第四次发帖！品牌分析，插件，全部功能讲解课程.md",
+   "obj_edit_time": "1785203038",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "Cvv3wQDE8iw3y2kUrOxc1G6Cnle",
+   "obj_token": "SYbAdW2C5oiEmixYPVccwOsQnRg",
+   "type": "docx",
+   "title": "Hello！第五次发帖！《完整的亚马逊运营SOP》",
+   "path": "总结 - - 发帖合集Hello!/Hello！第五次发帖！《完整的亚马逊运营SOP》.md",
+   "obj_edit_time": "1785203106",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "NHmiwRKlGiqWHNkxJTicLuLVn2y",
+   "obj_token": "Q6APdg2C3o83UPx8CYLczuLUnCc",
+   "type": "docx",
+   "title": "Hello！第六次发帖！如何提高自然订单，熟悉亚马逊eCPM（提高自然关键词在自然位置，和自然流量)",
+   "path": "总结 - - 发帖合集Hello!/Hello！第六次发帖！如何提高自然订单，熟悉亚马逊eCPM（提高自然关键词在自然位置，和自然流量).md",
+   "obj_edit_time": "1787218176",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "BA6GwepDGioq8pkQvpucOVd2n4d",
+   "obj_token": "M6f6dMsEGomgw3xtvHDcgXiJndh",
+   "type": "docx",
+   "title": "Hello！第七次发帖！亚马逊新功能 买家历程分析 ",
+   "path": "总结 - - 发帖合集Hello!/Hello！第七次发帖！亚马逊新功能 买家历程分析.md",
+   "obj_edit_time": "1767679552",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "OEvLw0K78i9OSAkan4zc6RwxnWd",
+   "obj_token": "VGpOd7DQFoXwy3xCBY1cOC6PnIb",
+   "type": "docx",
+   "title": "Hello！第八次发帖！ Amz销量加速器：AI电商视频从0到1指南",
+   "path": "总结 - - 发帖合集Hello!/Hello！第八次发帖！ Amz销量加速器：AI电商视频从0到1指南.md",
+   "obj_edit_time": "1785203433",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "Aj0KwHFpViUflxk5tMjckKXrnqO",
+   "obj_token": "GK3Zdym1HoTIuZxfRn2cC1KYnnc",
+   "type": "docx",
+   "title": "Hello！第九次发帖！Rufus其实是只🐶？亚马逊Rufus 全解析",
+   "path": "总结 - - 发帖合集Hello!/Hello！第九次发帖！Rufus其实是只🐶？亚马逊Rufus 全解析.md",
+   "obj_edit_time": "1785203466",
+   "depth": 1,
+   "parent": "WAjwwpb0li9obxkwUr5cyLbsnkh"
+  },
+  {
+   "node_token": "SsSDw3xrZiJuPVksNOTcpa0fnhc",
+   "obj_token": "GYpyd4OxmoIbJfxbVWQcRO6wnuf",
+   "type": "docx",
+   "title": "总结 -- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1790648332",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "IqUswykWLigSiakFftPcXS6qngc",
+   "obj_token": "NARrdQJuFomLkYxF7NOcw0q4nhe",
+   "type": "docx",
+   "title": "第一章 亚马逊A9算法全解析-·- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第一章 亚马逊A9算法全解析-·- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1787214393",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "SpO2wuqwXiXiMbkWreIcdJTWnms",
+   "obj_token": "HTQLdEAXQoIWktxuuQ3ckBfDnoh",
+   "type": "docx",
+   "title": "第二章 Listing详细讲解（上）-- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第二章 Listing详细讲解（上）-- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1785203683",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "Bpk1wFNjsitmAVk08bNcvn9Rnbc",
+   "obj_token": "SWe0d1Vuqo2vUbxYHoocYYUhnEe",
+   "type": "docx",
+   "title": "第三章 Listing详细讲解（中）-- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第三章 Listing详细讲解（中）-- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1785203738",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "Z1yuwGnwPiPX78kno3QcklTnnmf",
+   "obj_token": "JVtidrgPiooG8HxietbcxXXdnUc",
+   "type": "docx",
+   "title": "第四章 Listing详细讲解（下）-- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第四章 Listing详细讲解（下）-- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1785203783",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "QZOGwTm6HiSme3kaO7McrPA4nIe",
+   "obj_token": "VLVOdZBM9o8XRQxscdQcnZC4nib",
+   "type": "docx",
+   "title": "第五章 玩转亚马逊广告（上）-- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第五章 玩转亚马逊广告（上）-- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1785203868",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "FnP7wm6j0igJdlkOE7ScN77cnJe",
+   "obj_token": "MtURd2wLRo9OSMx09pNcIra4nBQ",
+   "type": "docx",
+   "title": "第六章 玩转亚马逊广告（中）-- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第六章 玩转亚马逊广告（中）-- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1785204022",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "OUJgwCBoliEvVBkLhWtckEXLnWg",
+   "obj_token": "H5jXdlMMsolkh4xDWtAc1R9VnUc",
+   "type": "docx",
+   "title": "第七章 玩转亚马逊广告（下）-- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第七章 玩转亚马逊广告（下）-- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1785204085",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "DHJ1wgGFqigXiHkMNThcoRDYn9g",
+   "obj_token": "PatOdinxxoM2t5xeIiwcxUtdn7f",
+   "type": "docx",
+   "title": "第九章 行动计划-- 亚马逊高阶训练营笔记分享",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/第九章 行动计划-- 亚马逊高阶训练营笔记分享.md",
+   "obj_edit_time": "1785204168",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "GAjswBN28iDBmpkHv5DcJ9BjnQX",
+   "obj_token": "QhWvdlO6jokTLExncKpcrlpBnCc",
+   "type": "docx",
+   "title": "亚马逊运营高阶训练营笔记分享-欧阳亚运-Owen2023.12.28",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/亚马逊运营高阶训练营笔记分享-欧阳亚运-Owen2023.12.28.md",
+   "obj_edit_time": "1785204332",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "SxSAwPxOgizpx9kjVSjcwOsunBf",
+   "obj_token": "LuGfbHXWsok7rzx5mvncKNiQnke",
+   "type": "file",
+   "title": "亚马逊高阶训练营笔记分享(大卖家  James)阿冬-Cris 2021.8.pdf",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/亚马逊高阶训练营笔记分享(大卖家  James)阿冬-Cris 2021.8.pdf",
+   "obj_edit_time": "1767680731",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "YfQKwPm7ri2AwvkxmrucxH5RnOb",
+   "obj_token": "MDEGbOW8HoieYyxqIfOcWyaAnZe",
+   "type": "file",
+   "title": "亚马逊高阶训练营笔记分享.pdf",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/亚马逊高阶训练营笔记分享.pdf",
+   "obj_edit_time": "1703647640",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "Dozcwd4BHikeBykhGetcSZo5nmb",
+   "obj_token": "IyQ2boqlRoosIJxHMXicVoF6nfd",
+   "type": "file",
+   "title": "亚马逊高阶训练营笔记分享(大卖家  James).pdf",
+   "path": "总结 -- 亚马逊高阶训练营笔记分享/亚马逊高阶训练营笔记分享(大卖家  James).pdf",
+   "obj_edit_time": "1703305512",
+   "depth": 1,
+   "parent": "SsSDw3xrZiJuPVksNOTcpa0fnhc"
+  },
+  {
+   "node_token": "JYqewMVZzi2wMBklYEjceRl9nyf",
+   "obj_token": "S65qdCzPaoBJWFxWx8TcxyVEnOc",
+   "type": "docx",
+   "title": "I    亚马逊运营",
+   "path": "I    亚马逊运营.md",
+   "obj_edit_time": "1767682044",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "F0G4wLz22iasgaktcldcCWKWnsb",
+   "obj_token": "FxiLb8dygoe6lxxbq5DcWhIan3c",
+   "type": "file",
+   "title": "亚马逊行业内卷之下，如何通过站内站外加速推新.pdf",
+   "path": "I    亚马逊运营/亚马逊行业内卷之下，如何通过站内站外加速推新.pdf",
+   "obj_edit_time": "1767683702",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Q2i2weju2i1swCkCFldc4WrHnXg",
+   "obj_token": "TNbadrfYZoCbWcxVhDtcNmS4nhh",
+   "type": "docx",
+   "title": "一、亚马逊新品上架前的精雕细琢 运营技巧 EASY简介",
+   "path": "I    亚马逊运营/一、亚马逊新品上架前的精雕细琢 运营技巧 EASY简介.md",
+   "obj_edit_time": "1785204577",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "FLKFwTdIei7CVpklkPNcY187nkg",
+   "obj_token": "NBhRd5Fojou4B1xIDWDchbw8nZd",
+   "type": "docx",
+   "title": "亚马逊产品定位 SOP",
+   "path": "I    亚马逊运营/亚马逊产品定位 SOP.md",
+   "obj_edit_time": "1785204641",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "S5eGwbQ3eitV2BkRWimclgOQnhb",
+   "obj_token": "CEPvdqPzDosFRHxP4U9cJ5mmnSc",
+   "type": "docx",
+   "title": "亚马逊算法原理之一 产品相关性",
+   "path": "I    亚马逊运营/亚马逊算法原理之一 产品相关性.md",
+   "obj_edit_time": "1785204764",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "FSLMwtOUGin8Ajk4GeTcTcuAnec",
+   "obj_token": "GIGxdiL8poWMcNxAvhpckaLcn1S",
+   "type": "docx",
+   "title": "亚马逊站内十大流量入口",
+   "path": "I    亚马逊运营/亚马逊站内十大流量入口.md",
+   "obj_edit_time": "1785204817",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "HNGLwDiyHi20RFkZhfkcfm1PnSd",
+   "obj_token": "TJihbfhluoFrtdxwf86c6yUxndx",
+   "type": "file",
+   "title": "3.2关键词库搭建.xlsx",
+   "path": "I    亚马逊运营/3.2关键词库搭建.xlsx",
+   "obj_edit_time": "1742796653",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "HU2fwEUZbiZ2UMkuinacFdCenWf",
+   "obj_token": "Cwjbd6W9roXZlTxt1r4cv7cpnwg",
+   "type": "docx",
+   "title": "基于2024的总结和2025的思考 ",
+   "path": "I    亚马逊运营/基于2024的总结和2025的思考.md",
+   "obj_edit_time": "1773803591",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Cwu4wtOSQiOPjZkLNMCc4plfnNb",
+   "obj_token": "Izstdsv1SoLxrMxZTMecLaS5n7c",
+   "type": "docx",
+   "title": "【SOP】AI打造Listing & Rufus全解析- Part 1",
+   "path": "I    亚马逊运营/【SOP】AI打造Listing & Rufus全解析- Part 1.md",
+   "obj_edit_time": "1770796077",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "T79owCmhEiw5GDkhhPocCqn0nAd",
+   "obj_token": "YtGYdY4G0oULFQx88lrc7K77nLb",
+   "type": "docx",
+   "title": "【SOP】AI打造Listing & Rufus全解析- Part 2",
+   "path": "I    亚马逊运营/【SOP】AI打造Listing & Rufus全解析- Part 2.md",
+   "obj_edit_time": "1766019186",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "V2wCwweNDiWi3pkjMkNcaHlDnhe",
+   "obj_token": "OPfqdXiPJovW9YxKP4bc4CsKnkf",
+   "type": "docx",
+   "title": "亚马逊新设计软件SOP，针对AI RUFUS设计 质检员",
+   "path": "I    亚马逊运营/亚马逊新设计软件SOP，针对AI RUFUS设计 质检员.md",
+   "obj_edit_time": "1765765863",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "A6yHw1AbHiEY8Hk2FnbckmPgndd",
+   "obj_token": "Hv3IdAYucoa7sQx62RHcAzP3n6C",
+   "type": "docx",
+   "title": "丨上篇《新品推广计划全链路SOP-附流程图》",
+   "path": "I    亚马逊运营/丨上篇《新品推广计划全链路SOP-附流程图》.md",
+   "obj_edit_time": "1785205101",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Udd4wuDZqikvumkuUimcOu9mn6g",
+   "obj_token": "YYeNdzrUloX90kxmVG7c4pDNnTd",
+   "type": "docx",
+   "title": "亚马逊账号注册流程-全流程-实操-欢迎入驻亚马逊 | Welcome to Amazon",
+   "path": "I    亚马逊运营/亚马逊账号注册流程-全流程-实操-欢迎入驻亚马逊 _ Welcome to Amazon.md",
+   "obj_edit_time": "1785205134",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Vcg0w0ndfiJEfXkek59cqHJPnpe",
+   "obj_token": "HgIvdLtKPoLhkrxKxW5cYDc8npd",
+   "type": "docx",
+   "title": "站外冷启动打收录方式推新品",
+   "path": "I    亚马逊运营/站外冷启动打收录方式推新品.md",
+   "obj_edit_time": "1785205148",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "ZCe0wPxk2iHbvmkvZPYcgYzJnSe",
+   "obj_token": "UXXQdwHWCoiAWqxB6lXcdgGankf",
+   "type": "docx",
+   "title": "站外冷启动打收录方式推新品",
+   "path": "I    亚马逊运营/站外冷启动打收录方式推新品_2.md",
+   "obj_edit_time": "1733745781",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "EE2zw0AcliBzrSkFAZUcDRmmnvd",
+   "obj_token": "Jf7Oban1MoiMZqxiKQiccBAmnfb",
+   "type": "file",
+   "title": "站外冷启动打收录方式推新品.docx",
+   "path": "I    亚马逊运营/站外冷启动打收录方式推新品.docx",
+   "obj_edit_time": "1736432147",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "WpiMw0JxqicruAkr6Kcc1gMentb",
+   "obj_token": "GktAddx4IossoMxPO6TcoBvxnXc",
+   "type": "docx",
+   "title": "亚马逊新上线 Benchmarks 功能：直观对比同行 CPC 和 CTR ！还有CPA,CPM, 新客购买率 和品牌新客购买占比 6大核心维度数据",
+   "path": "I    亚马逊运营/亚马逊新上线 Benchmarks 功能：直观对比同行 CPC 和 CTR ！还有CPA,CPM, 新客购买率 和品牌新客购买占比 6大核心维度数据.md",
+   "obj_edit_time": "1767712749",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Vo9FwRrElizyylk6idxcoWObnig",
+   "obj_token": "XZPKb2OGNo6muExNJGNcaXVFnTg",
+   "type": "file",
+   "title": "如何提升亚马逊链接的自然订单占比.docx",
+   "path": "I    亚马逊运营/如何提升亚马逊链接的自然订单占比.docx",
+   "obj_edit_time": "1768096061",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "JAPCwZNobirjOYkKHRpcJe5KnkW",
+   "obj_token": "UbYtdAE3BoVtXPx9Bmlcm3Yonbb",
+   "type": "docx",
+   "title": "Frequently returned item处理办法",
+   "path": "I    亚马逊运营/Frequently returned item处理办法.md",
+   "obj_edit_time": "1785205224",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "X5PpwmCNgitgfPkN6mPcPr4ZnGd",
+   "obj_token": "KpcIdKJOgoiXfCx4wwFcx4RRneH",
+   "type": "docx",
+   "title": "从熬夜推品到佛系爆单，A9 到 Cosmo 算法更迭下的亚马逊运营新法则\\推荐算法",
+   "path": "I    亚马逊运营/从熬夜推品到佛系爆单，A9 到 Cosmo 算法更迭下的亚马逊运营新法则_推荐算法.md",
+   "obj_edit_time": "1785205381",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Uk58wk5jXiz89RkBdsscaonUnRf",
+   "obj_token": "ND6Md00R3oUydaxLSatcH70Tnrg",
+   "type": "docx",
+   "title": "图片如何“视觉埋词”，从而迎合亚马逊COSMO算法的推荐机制",
+   "path": "I    亚马逊运营/图片如何“视觉埋词”，从而迎合亚马逊COSMO算法的推荐机制.md",
+   "obj_edit_time": "1785205417",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Z9OZwA9SrietZ4kQ9jZcsnzRn0b",
+   "obj_token": "SX4SdJoEJoTGsUxO2Oscl0mLnge",
+   "type": "docx",
+   "title": "亚马逊 CDQv3 产品listing质量打分系统 PRD，亚马逊AI：用IT思维做运营 - 由点到面打收录方式推新品",
+   "path": "I    亚马逊运营/亚马逊 CDQv3 产品listing质量打分系统 PRD，亚马逊AI：用IT思维做运营 - 由点到面打收录方式推新品.md",
+   "obj_edit_time": "1787640866",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "DhKSwrDN3iimA0kI1ILc7PkEnyf",
+   "obj_token": "TRevd74ieoYZ4xx7z3JcKiYmnTh",
+   "type": "docx",
+   "title": "完整亚马逊运营SOP手动的",
+   "path": "I    亚马逊运营/完整亚马逊运营SOP手动的.md",
+   "obj_edit_time": "1785205478",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "D5nRwdSGxi3DH6kf3oUcZspznBc",
+   "obj_token": "HFZfdxAXkow60uxEYAycfiktn6g",
+   "type": "docx",
+   "title": "基于2024的总结和2025的思考 -蜂爪 副本",
+   "path": "I    亚马逊运营/基于2024的总结和2025的思考 -蜂爪 副本.md",
+   "obj_edit_time": "1765726425",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "T5jNwRczmiGjlCknxmKcAjEynyh",
+   "obj_token": "UnXObsT86oXJF0xMP1Uc5EaInBg",
+   "type": "file",
+   "title": "IT思维做运营 - 由点到面打收录方式推新品.docx",
+   "path": "I    亚马逊运营/IT思维做运营 - 由点到面打收录方式推新品.docx",
+   "obj_edit_time": "1736432109",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Kqesw8HSBiQYvBkxFNccbtV0nwh",
+   "obj_token": "UgcLdIlTXooly0xS4fXcpc0unEc",
+   "type": "docx",
+   "title": "IT思维做运营 - 由点到面打收录方式推新品",
+   "path": "I    亚马逊运营/IT思维做运营 - 由点到面打收录方式推新品.md",
+   "obj_edit_time": "1735530925",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "EBNswenpNiEdDPkDeOAcvUyxnUg",
+   "obj_token": "RnEOdR42IolVsJxKuPuc3OqWnTT",
+   "type": "docx",
+   "title": "亚马逊产品定位sop 副本",
+   "path": "I    亚马逊运营/亚马逊产品定位sop 副本.md",
+   "obj_edit_time": "1765726141",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "UBaewsAKeiKfP9kiec6c8T8JnPe",
+   "obj_token": "KlVIdXEUQoPY66xnmGucHExZn8c",
+   "type": "docx",
+   "title": "亚马逊产品定位sop 副本",
+   "path": "I    亚马逊运营/亚马逊产品定位sop 副本_2.md",
+   "obj_edit_time": "1765726255",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "C7W7wsPK7iP1WOk1m8ocgeBZnjn",
+   "obj_token": "MXSZb6qm7oamtwxmoticIha3nnc",
+   "type": "file",
+   "title": "IT思维做运营 - 由点到面打收录方式推新品.pdf",
+   "path": "I    亚马逊运营/IT思维做运营 - 由点到面打收录方式推新品.pdf",
+   "obj_edit_time": "1736432111",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "YeL0wchCpigcyZky0m2cVIbGnyg",
+   "obj_token": "RW38dqW7Eo2Qkfxy9LPcpLJ5nOc",
+   "type": "docx",
+   "title": "文字记录：阳 维正测试 2025年12月13日",
+   "path": "I    亚马逊运营/文字记录：阳 维正测试 2025年12月13日.md",
+   "obj_edit_time": "1765614007",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "F0Pbwvvw0iZaafkaCp6cVQnCn3E",
+   "obj_token": "JJ7YsRXwThxueYtOubKcJHlPn6f",
+   "type": "sheet",
+   "title": "新品推广Owen",
+   "path": "I    亚马逊运营/新品推广Owen.xlsx",
+   "obj_edit_time": "1767694373",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "I62wwj9mYiIy8nkrpHYcwZGAnlb",
+   "obj_token": "LXBKseXgihlycetqxOPcea2Mnid",
+   "type": "sheet",
+   "title": "3.2关键词库搭建Owen",
+   "path": "I    亚马逊运营/3.2关键词库搭建Owen.xlsx",
+   "obj_edit_time": "1767694600",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "UnEowF1TBi9n6HkYiG3cTCbznyh",
+   "obj_token": "R44CbodrOoOtfCxfZBscc76rnFc",
+   "type": "file",
+   "title": "上篇《新品推广计划全链路SOP-附流程图》.docx",
+   "path": "I    亚马逊运营/上篇《新品推广计划全链路SOP-附流程图》.docx",
+   "obj_edit_time": "1772780154",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "ZsJcwlxgmi47bfkUzVEc0qwxnJd",
+   "obj_token": "AkIXdlf86oIidAx4HPYcs9ZDnXf",
+   "type": "docx",
+   "title": "流量地图",
+   "path": "I    亚马逊运营/流量地图.md",
+   "obj_edit_time": "1772789179",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "HL65wJK4aiT81KkWEXXcpc1cnA2",
+   "obj_token": "UgMWsg9kAhA1ytt3WR1cCrgZn1d",
+   "type": "sheet",
+   "title": "推广计划— 利润 ROI测算— 晓华分享",
+   "path": "I    亚马逊运营/推广计划— 利润 ROI测算— 晓华分享.xlsx",
+   "obj_edit_time": "1785205580",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "NMpwwkB7FiU941kGmMbclC4wnVg",
+   "obj_token": "GPf0sNSPohqs9Wt64cRcQtmsnzb",
+   "type": "sheet",
+   "title": "亚马逊业务工作体系流程表",
+   "path": "I    亚马逊运营/亚马逊业务工作体系流程表.xlsx",
+   "obj_edit_time": "1785205612",
+   "depth": 1,
+   "parent": "JYqewMVZzi2wMBklYEjceRl9nyf"
+  },
+  {
+   "node_token": "Q0mawcM3Zi0q32k679oc1jTnnfk",
+   "obj_token": "QYkLdaGtEook2BxJyLbcl1Fknxf",
+   "type": "docx",
+   "title": "II  亚马逊选品",
+   "path": "II  亚马逊选品.md",
+   "obj_edit_time": "1767682029",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Z2fbwEILQiQ6S4kZUjbcjtrFnXg",
+   "obj_token": "BPAPdy0x4otVodxnXyQcK9cZnHg",
+   "type": "docx",
+   "title": "hozo竞品分析 HOZO 亚马逊市场分析与创新",
+   "path": "II  亚马逊选品/hozo竞品分析 HOZO 亚马逊市场分析与创新.md",
+   "obj_edit_time": "1765415337",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "T218wmM3wie5swkX96cce5jan5n",
+   "obj_token": "EyEzddnvEotVdGx1ly0cW2zfned",
+   "type": "docx",
+   "title": "如何利用Rufus Ai 选出小众蓝海产品 -任佳伟.pdf",
+   "path": "II  亚马逊选品/如何利用Rufus Ai 选出小众蓝海产品 -任佳伟.pdf.md",
+   "obj_edit_time": "1765725725",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "L97awLVBgi5Jtokk0gBcphsmnwf",
+   "obj_token": "Kiz4bLK27opZ9wx4v1KcOh66nJf",
+   "type": "file",
+   "title": "选品报告 0610.pdf",
+   "path": "II  亚马逊选品/选品报告 0610.pdf",
+   "obj_edit_time": "1736432236",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "EdOMwYEEeiCJlekTER5cRYgFnqc",
+   "obj_token": "boxcngXb5p9MDtzlhWiCjKFSB0g",
+   "type": "file",
+   "title": " 拐杖商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/拐杖商机探测器-选品数据.doc",
+   "obj_edit_time": "1658127339",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "NfZSwIe7vikP1QkT2TdcqQTInud",
+   "obj_token": "boxcnW3tQP2N5JKvrNGPljTfRie",
+   "type": "file",
+   "title": "束腰带机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/束腰带机探测器-选品数据.doc",
+   "obj_edit_time": "1657871474",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "EsXUww78tidNvckjQeFcZyljnoc",
+   "obj_token": "boxcnhOkKVKpTtybXtQMyE0G64e",
+   "type": "file",
+   "title": "手套商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/手套商机探测器-选品数据.doc",
+   "obj_edit_time": "1657868973",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "GUsewTquuivg9nkTaLlc5jrgn4g",
+   "obj_token": "boxcn3gj4OWq3VKLqHySbmxTmdg",
+   "type": "file",
+   "title": "胎心仪商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/胎心仪商机探测器-选品数据.doc",
+   "obj_edit_time": "1657761796",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "QIiow2zbXiUS4DknfUPc5THinYc",
+   "obj_token": "boxcnvM5vef3lYpwLnoM7wUeUxe",
+   "type": "file",
+   "title": "静脉曲张袜 商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/静脉曲张袜 商机探测器-选品数据.doc",
+   "obj_edit_time": "1658126540",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "HIXQw9dqTiLMi7k0MXjc4MTznNh",
+   "obj_token": "boxcnjuxyukaPm5ce1DWnPI8SOb",
+   "type": "file",
+   "title": "鼻腔喷雾商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/鼻腔喷雾商机探测器-选品数据.doc",
+   "obj_edit_time": "1658126881",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "AAq6we7cmimWYZk1MiRcPkOhnke",
+   "obj_token": "boxcnEY31U5dcbINu3Uv6Qo1tDO",
+   "type": "file",
+   "title": "手部固定器探测器-选品数据.doc",
+   "path": "II  亚马逊选品/手部固定器探测器-选品数据.doc",
+   "obj_edit_time": "1657872349",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "BFHAwoArAioBfSk208lcVWUmnQe",
+   "obj_token": "boxcn146oWLEW1WKkxxObkzgoFF",
+   "type": "file",
+   "title": "雾化器商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/雾化器商机探测器-选品数据.doc",
+   "obj_edit_time": "1657764149",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "IbFcwyK1SiWuunkA8DJcaS7enWf",
+   "obj_token": "boxcnLHs7dc5WOemOatjv5Wf3Ff",
+   "type": "file",
+   "title": "坐厕椅商机探测器-选品数据文档.doc",
+   "path": "II  亚马逊选品/坐厕椅商机探测器-选品数据文档.doc",
+   "obj_edit_time": "1658105194",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "VBCJwsgx6iAHUQkKkjjccMK5n8e",
+   "obj_token": "boxcnxyhza6opPEuP2RAAzHj1ic",
+   "type": "file",
+   "title": "血氧仪 商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/血氧仪 商机探测器-选品数据.doc",
+   "obj_edit_time": "1657782620",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "VSYNwm2oriZJRokjvFIcOVFSn50",
+   "obj_token": "boxcnexex3ydTZ9EJDTYjvFxkVc",
+   "type": "file",
+   "title": "口罩商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/口罩商机探测器-选品数据.doc",
+   "obj_edit_time": "1657875012",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "NPeRwEU2wiXuC4kNkt6cyRkhnMg",
+   "obj_token": "doxcnEUksQB9RZaJJ61WMSoi2Oc",
+   "type": "docx",
+   "title": "酒精棉片商机探测器-选品数据",
+   "path": "II  亚马逊选品/酒精棉片商机探测器-选品数据.md",
+   "obj_edit_time": "1657703731",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "FuJowu76kisf8ik0gYicbvFPnKd",
+   "obj_token": "doxcnhNv7YQeX12WcVW5VgfWo2g",
+   "type": "docx",
+   "title": "血压计商机探测器-选品数据",
+   "path": "II  亚马逊选品/血压计商机探测器-选品数据.md",
+   "obj_edit_time": "1658125905",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "ECSFwWKTqiO07nkKkCycBKlLnth",
+   "obj_token": "boxcnkqvpMcpXurGFKn6NyoiPDf",
+   "type": "file",
+   "title": "成人护理垫商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/成人护理垫商机探测器-选品数据.doc",
+   "obj_edit_time": "1658107687",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "UMppwvliQiA6MFkYLGzcwKTDnOh",
+   "obj_token": "doxcn1HmncusSYuS7JUPFluV1KI",
+   "type": "docx",
+   "title": "额温枪商机探测器-选品数据",
+   "path": "II  亚马逊选品/额温枪商机探测器-选品数据.md",
+   "obj_edit_time": "1658108598",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Fa0EwjmGMiIa5Mkz1ROcBFjunte",
+   "obj_token": "boxcng1BtV8TMVBzxnYmncwpSoe",
+   "type": "file",
+   "title": "助行器商机探测器-选品数据.doc",
+   "path": "II  亚马逊选品/助行器商机探测器-选品数据.doc",
+   "obj_edit_time": "1657788623",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "TKwLwI1ewiKug3kKpZ9cDg1in5e",
+   "obj_token": "MWOOdbNzeo8URKxvqSIcgAzenxh",
+   "type": "docx",
+   "title": "2025.5.10 亚马逊品类深耕大会-01品类机会发现-Rita贺（V3）",
+   "path": "II  亚马逊选品/2025.5.10 亚马逊品类深耕大会-01品类机会发现-Rita贺（V3）.md",
+   "obj_edit_time": "1765726063",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Gr0FwEJghicIy7k93LUchapendS",
+   "obj_token": "FRbidbomzoWWvRxja0QcFJNZn5g",
+   "type": "docx",
+   "title": "2025.5.10 亚马逊品类深耕大会-01品类机会发现-Rita贺（V3）",
+   "path": "II  亚马逊选品/2025.5.10 亚马逊品类深耕大会-01品类机会发现-Rita贺（V3）_2.md",
+   "obj_edit_time": "1775629383",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Qwpew1VQjiIqgLkzEUxcMudtnHc",
+   "obj_token": "FkWPdf4jHoedxHxFsR3c8Tmwnye",
+   "type": "docx",
+   "title": "2025.5.10 亚马逊品类深耕大会-01品类机会发现-Rita贺（V3）",
+   "path": "II  亚马逊选品/2025.5.10 亚马逊品类深耕大会-01品类机会发现-Rita贺（V3）_3.md",
+   "obj_edit_time": "1765725924",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "RE3ywveopipAv8kAEiRcPIlxnz5",
+   "obj_token": "OLdxdP1ZloXz3Mx61F6cOJJLnid",
+   "type": "docx",
+   "title": "如何完整复盘亚马逊竞争对手竞品的推广过程+拆解分析",
+   "path": "II  亚马逊选品/如何完整复盘亚马逊竞争对手竞品的推广过程+拆解分析.md",
+   "obj_edit_time": "1743989529",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "HXBFwLqGXicoS7kar5RcDijInpc",
+   "obj_token": "CLyadN6c2oEpIfxGwe1c6cCnn2g",
+   "type": "docx",
+   "title": "亚马逊关键词 属性词分析 分类草稿",
+   "path": "II  亚马逊选品/亚马逊关键词 属性词分析 分类草稿.md",
+   "obj_edit_time": "1765181600",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "AizWwcMvNi59mckI15ecYid4njb",
+   "obj_token": "TpQQd2D9Xonnoyx2KelchDIpnod",
+   "type": "docx",
+   "title": "四维度深度竞品调研",
+   "path": "II  亚马逊选品/四维度深度竞品调研.md",
+   "obj_edit_time": "1729924861",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Dq67wGJ4CihUmpkHqe4csnONnSh",
+   "obj_token": "KU8Gs3PQfhloEbtWoX8cHAqjnyS",
+   "type": "sheet",
+   "title": "德国除螨仪竞品分析",
+   "path": "II  亚马逊选品/德国除螨仪竞品分析.xlsx",
+   "obj_edit_time": "1742788416",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "OxxlwFbCMiVxLokuFAfckG4knpf",
+   "obj_token": "N9xkdvXLWoD8GAxWrhMcf9cTnbd",
+   "type": "docx",
+   "title": "深度研究亚马逊广告后台基准功能（-benchmark-data）， 品牌指标，选品指南针 商机探测器",
+   "path": "II  亚马逊选品/深度研究亚马逊广告后台基准功能（-benchmark-data）， 品牌指标，选品指南针 商机探测器.md",
+   "obj_edit_time": "1767602188",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "AcOWwsS3aiaNEXkmalAc3DvUn9g",
+   "obj_token": "VMV0dCeSRolz4exWTbLcJ8PTnid",
+   "type": "docx",
+   "title": "竞品ASIN后台参数分析",
+   "path": "II  亚马逊选品/竞品ASIN后台参数分析.md",
+   "obj_edit_time": "1778067908",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "HvJ0wrQdFixeVdkJS95c77Qlnzg",
+   "obj_token": "BnaddTCz9o23djxILHqcNALfn0f",
+   "type": "docx",
+   "title": "第八章 如何通过售后去提高Listing权重-- 亚马逊高阶训练营笔记分享(大卖家  Owen)",
+   "path": "II  亚马逊选品/第八章 如何通过售后去提高Listing权重-- 亚马逊高阶训练营笔记分享(大卖家  Owen).md",
+   "obj_edit_time": "1767680031",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "UYmywBTF6i0mNOkpuZccYiIHnIe",
+   "obj_token": "KuF2dUyT3oSbmrxouCqcn07gnge",
+   "type": "docx",
+   "title": "跨境 AI 消费者洞察分析报告模版",
+   "path": "II  亚马逊选品/跨境 AI 消费者洞察分析报告模版.md",
+   "obj_edit_time": "1767372492",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Qw1NwtPK6iyei4ktY6NcIq0pn7b",
+   "obj_token": "Mpwodss3uoldWmx79hlcVIYhnTf",
+   "type": "docx",
+   "title": "美国亚马逊超声波刀片-市场调研ultrasonic+cutter",
+   "path": "II  亚马逊选品/美国亚马逊超声波刀片-市场调研ultrasonic+cutter.md",
+   "obj_edit_time": "1765247567",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "NLtww2Fl7i2MmRkKL9ycnoo7nzg",
+   "obj_token": "U3DPdIU9NoBAnfx40IZcHwQHnBd",
+   "type": "docx",
+   "title": "SIF 革命性工具：如何完整复盘竞品推广过程",
+   "path": "II  亚马逊选品/SIF 革命性工具：如何完整复盘竞品推广过程.md",
+   "obj_edit_time": "1704337788",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Lbjhw575LivkPbk6KnIc1KU4nMe",
+   "obj_token": "LikhdhuWWowUg7xAy3pcHx2hnUf",
+   "type": "docx",
+   "title": "跨境数据飞轮：用 Capalyze AI从数据采集到洞察",
+   "path": "II  亚马逊选品/跨境数据飞轮：用 Capalyze AI从数据采集到洞察.md",
+   "obj_edit_time": "1765643260",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Oz2Iwq0Oxi2QOnkblmacBxWonlc",
+   "obj_token": "NnDCdvMXfo5T9Fx5yMVcTzGanEc",
+   "type": "docx",
+   "title": "UK英国超声波刀片，市场调研数据",
+   "path": "II  亚马逊选品/UK英国超声波刀片，市场调研数据.md",
+   "obj_edit_time": "1765358475",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "U6psw3od6iBbqWkU9VhcMX9tnPc",
+   "obj_token": "V2ZWdUwnyoPXnDxXX5ZcRBBRnHd",
+   "type": "docx",
+   "title": "DE德国超声波刀片，市场调研数据",
+   "path": "II  亚马逊选品/DE德国超声波刀片，市场调研数据.md",
+   "obj_edit_time": "1765338698",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "SnN9wORXvihuIrkzklWcAhY4nkc",
+   "obj_token": "Za6SdigBnoTk4Exa06BczZ5znud",
+   "type": "docx",
+   "title": "英国市场调研与产品创新策略：手动螺丝刀套装",
+   "path": "II  亚马逊选品/英国市场调研与产品创新策略：手动螺丝刀套装.md",
+   "obj_edit_time": "1765266146",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "HBVywGUSzio7aIkKw0UcQEv3nkh",
+   "obj_token": "Wq3WdK02yoRGHnxh6VNcGH18nph",
+   "type": "docx",
+   "title": "意大利市场调研手动螺丝批",
+   "path": "II  亚马逊选品/意大利市场调研手动螺丝批.md",
+   "obj_edit_time": "1765268104",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Rhdcwn168ioBXbk7wUUcHFfxn4L",
+   "obj_token": "FtcxsZDNnhtQuWtz8PfcrzBYndd",
+   "type": "sheet",
+   "title": "生长灯植物架市场调研 (1)",
+   "path": "II  亚马逊选品/生长灯植物架市场调研 (1).xlsx",
+   "obj_edit_time": "1742790499",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "PeqSw3ezYiyjZFkGuBZcjVppnmc",
+   "obj_token": "MIpvbDKDDoGe3dxcSjLcYzpEnub",
+   "type": "file",
+   "title": "生长灯植物架市场调研 (1).xlsx",
+   "path": "II  亚马逊选品/生长灯植物架市场调研 (1).xlsx",
+   "obj_edit_time": "1736433473",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "O27MwtkaUi6OlwkNn5fc9wZonKf",
+   "obj_token": "RYv1dy4NPoAVmIxhh8DcQrARnng",
+   "type": "docx",
+   "title": "西班牙市调 手动螺丝批",
+   "path": "II  亚马逊选品/西班牙市调 手动螺丝批.md",
+   "obj_edit_time": "1765268252",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "GwZrwXxHoigFQ9kF2qlcspY8nSe",
+   "obj_token": "EB1xdZt5EoqCssxshyAcbRe4nRe",
+   "type": "docx",
+   "title": "way to AIC 维正 共创文档",
+   "path": "II  亚马逊选品/way to AIC 维正 共创文档.md",
+   "obj_edit_time": "1775142035",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "MEk2wGiiiiHBE8kDJZOcKLfVnQf",
+   "obj_token": "QBxudRtqMo84rZx5gWlcIrpXn8g",
+   "type": "docx",
+   "title": "德国亚马逊手动螺丝批套装市调",
+   "path": "II  亚马逊选品/德国亚马逊手动螺丝批套装市调.md",
+   "obj_edit_time": "1765266899",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "C5T7wCQ82iy69RkAGTGcNXmcnLe",
+   "obj_token": "WKDkdyQxsoeFyExCyRgcix7infd",
+   "type": "docx",
+   "title": "亚马逊思维框架",
+   "path": "II  亚马逊选品/亚马逊思维框架.md",
+   "obj_edit_time": "1703663024",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "ADzOweTwMiPo8NkJHOEctKyBnKd",
+   "obj_token": "SrkZdhGVwoJEbhxVkMFc7BYKnBc",
+   "type": "docx",
+   "title": "运营岗位任职需求及对应行为标准",
+   "path": "II  亚马逊选品/运营岗位任职需求及对应行为标准.md",
+   "obj_edit_time": "1727596098",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "OHaFwbcEui1cGAkt5zqcND4vnbd",
+   "obj_token": "OwJqdLAVrofpDnxNh4tc4kZkneb",
+   "type": "docx",
+   "title": "运营岗位任职需求及对应行为标准",
+   "path": "II  亚马逊选品/运营岗位任职需求及对应行为标准_2.md",
+   "obj_edit_time": "1727596194",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "M2mLwK6NBiZTC3kmN13c1tJinKd",
+   "obj_token": "UhKndKEzrooS5vxslEocJ3Z7nKh",
+   "type": "docx",
+   "title": "亚马逊思维框架-带新人(1)",
+   "path": "II  亚马逊选品/亚马逊思维框架-带新人(1).md",
+   "obj_edit_time": "1690813103",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "OxGMwmuEyiFXOAkNLdgcgWTtnEd",
+   "obj_token": "NnfPdOkfyo55jFxbqt3clJzHn4b",
+   "type": "docx",
+   "title": "消费者需求洞察",
+   "path": "II  亚马逊选品/消费者需求洞察.md",
+   "obj_edit_time": "1751938520",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Eid1wq9RsiSDrzkw1qNccBZfn7e",
+   "obj_token": "HvzGdTK2Aocw3hxJhWFcmaFon1d",
+   "type": "docx",
+   "title": "空净卖点统计分析",
+   "path": "II  亚马逊选品/空净卖点统计分析.md",
+   "obj_edit_time": "1764222873",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "L67owaWadieyjpknsE1c9dE2n9f",
+   "obj_token": "BbUpdRynGo2WfNxR6hocaEYUnog",
+   "type": "docx",
+   "title": "Sif的运营时光机·数据处理策略",
+   "path": "II  亚马逊选品/Sif的运营时光机·数据处理策略.md",
+   "obj_edit_time": "1744165531",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "TGuuwikXaiszckkhUgOcPM2znAe",
+   "obj_token": "P9E3dYGhVo4pCmxn9zPc61Smnrd",
+   "type": "docx",
+   "title": "站外七大流量入口解析",
+   "path": "II  亚马逊选品/站外七大流量入口解析.md",
+   "obj_edit_time": "1743838751",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "MN5ywIauQiFmGlkoGDJcxYjHnBe",
+   "obj_token": "N3pTdQsEio26LIxiCXGcIpJ6n4c",
+   "type": "docx",
+   "title": "你的产品卖点被AI说对了吗？教你利用亚马逊新功能，反向优化Listing超越竞品",
+   "path": "II  亚马逊选品/你的产品卖点被AI说对了吗？教你利用亚马逊新功能，反向优化Listing超越竞品.md",
+   "obj_edit_time": "1790655933",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Jvbzw6QkpicBKekyMbOcxGYhnGb",
+   "obj_token": "GjTsb4okKooOjUxnjHKcLaG8nrV",
+   "type": "file",
+   "title": "Listing后台全属性填写标准.docx",
+   "path": "II  亚马逊选品/Listing后台全属性填写标准.docx",
+   "obj_edit_time": "1744074051",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "PleCwl8s9iQxTOkpeBLcF67pnxc",
+   "obj_token": "POU7ddaTDofLVDxJKRXcwdQYnNc",
+   "type": "docx",
+   "title": "亚马逊新功能 买家历程分析",
+   "path": "II  亚马逊选品/亚马逊新功能 买家历程分析.md",
+   "obj_edit_time": "1745560064",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "YutGwkiRIisMXnkva6NcRHw7njh",
+   "obj_token": "TJTtdhCqQozsfWx8ewac0eb0nsc",
+   "type": "docx",
+   "title": "亚马逊 IMA新功能 买家历程分析",
+   "path": "II  亚马逊选品/亚马逊 IMA新功能 买家历程分析.md",
+   "obj_edit_time": "1745302337",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "X0HdwZwVHi73MbkkEZkc7L1enXq",
+   "obj_token": "NPZodTZJlojlIdxfHUlc1KppnHf",
+   "type": "docx",
+   "title": "亚马逊收录技巧 亚马逊百分百收录技巧",
+   "path": "II  亚马逊选品/亚马逊收录技巧 亚马逊百分百收录技巧.md",
+   "obj_edit_time": "1745559965",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "AOUewTBnViX91tkqzG7ccbdVnmf",
+   "obj_token": "Zq6AdPELwoS0QHxR7S1cGFYZnUe",
+   "type": "docx",
+   "title": "亚马逊推荐专栏专有名词解释",
+   "path": "II  亚马逊选品/亚马逊推荐专栏专有名词解释.md",
+   "obj_edit_time": "1744123011",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "GqmnwMIpgiyHvukhhqKcjDzunYS",
+   "obj_token": "AG19dZvt0oQ7UJx0WcccmvvKnHg",
+   "type": "docx",
+   "title": "有一个课题亚马逊推荐流量",
+   "path": "II  亚马逊选品/有一个课题亚马逊推荐流量.md",
+   "obj_edit_time": "1745196811",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "FLwwwBRWxiCZDlk06Jfcy1hInNd",
+   "obj_token": "OgLid0UcWoqBKQx1fnYcUgH0nIe",
+   "type": "docx",
+   "title": "星期三问SIF的问题整理",
+   "path": "II  亚马逊选品/星期三问SIF的问题整理.md",
+   "obj_edit_time": "1752658921",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "ThFNwTgCCiwQ6ekoLJbcD2LJnog",
+   "obj_token": "FgkUdpD43oGc6ExVoGIcnYK1nbb",
+   "type": "docx",
+   "title": "\"流量时光机\"的底层逻辑与数据指标详解 阳亚运",
+   "path": "II  亚马逊选品/_流量时光机_的底层逻辑与数据指标详解 阳亚运.md",
+   "obj_edit_time": "1744106363",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "IgmLwYmF1iDB0MkD40Hcj5lfnNe",
+   "obj_token": "boxcn9qO0FlC8wRgNJu23jzzxlf",
+   "type": "file",
+   "title": "棉片商机探测器-选品数据.docx",
+   "path": "II  亚马逊选品/棉片商机探测器-选品数据.docx",
+   "obj_edit_time": "1657777963",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "VrJSwcbpyizU7Akfjo5cqvoanTf",
+   "obj_token": "IF8hdDU71oviQaxiIvVcBx2Pncc",
+   "type": "docx",
+   "title": "欧洲布艺清洗机全部使用场景分析+调研数据",
+   "path": "II  亚马逊选品/欧洲布艺清洗机全部使用场景分析+调研数据.md",
+   "obj_edit_time": "1787302134",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "RXfuwo3xxiYuNukHzA5ccxuunWc",
+   "obj_token": "EqqUdhS2bozmjWxR1OBcF99zngg",
+   "type": "docx",
+   "title": "亚马逊选品VOC评论分析系统设计消费洞察选品skills",
+   "path": "II  亚马逊选品/亚马逊选品VOC评论分析系统设计消费洞察选品skills.md",
+   "obj_edit_time": "1772789302",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Gi4Dw6W9GipUEKkfd7ycwIzNnWB",
+   "obj_token": "LG5cdCYD5okhvPxafRxcsNo3nRf",
+   "type": "docx",
+   "title": "亚运的think所学所想-AI选品软件分析维度-精品选品工具",
+   "path": "II  亚马逊选品/亚运的think所学所想-AI选品软件分析维度-精品选品工具.md",
+   "obj_edit_time": "1775729126",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Zh9kw4VE1ibuyqkaz9QcUO2SnGc",
+   "obj_token": "RWTndIdb1ohMvUxH6H1cF1aVncd",
+   "type": "docx",
+   "title": "8.8-选品分析 skill",
+   "path": "II  亚马逊选品/8.8-选品分析 skill.md",
+   "obj_edit_time": "1773127245",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "SBSYwCLqAi6xjVkD8t4cf05dnAg",
+   "obj_token": "CvPtdNUmxor1wmxdWAico1bZnUe",
+   "type": "docx",
+   "title": "选品skills  李俊亚马逊市场调研终极版",
+   "path": "II  亚马逊选品/选品skills  李俊亚马逊市场调研终极版.md",
+   "obj_edit_time": "1773217073",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "VtnXwZFhzi5N5lkkRlCcV4cRnrh",
+   "obj_token": "MshYd05npoApHmxt93vcVf6qnpf",
+   "type": "docx",
+   "title": "选品的思路 skills 手稿 方法论讲解+经验分享",
+   "path": "II  亚马逊选品/选品的思路 skills 手稿 方法论讲解+经验分享.md",
+   "obj_edit_time": "1774434192",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Lf8Jw5vFjimkXlkfsboc4mJJn3f",
+   "obj_token": "W76UdoyXWoxrp0xCfVvcY4a1n1f",
+   "type": "docx",
+   "title": "选品skills亚马逊市场调研，细分市场调研.",
+   "path": "II  亚马逊选品/选品skills亚马逊市场调研，细分市场调研.md",
+   "obj_edit_time": "1773131729",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "HntXwApO2ia7Otk7l43cLtCqnGe",
+   "obj_token": "KfPqdlMIdolRx4xgwPRccx26nvd",
+   "type": "docx",
+   "title": "亚马逊选品skills使用手册12大选品方法论+经验",
+   "path": "II  亚马逊选品/亚马逊选品skills使用手册12大选品方法论+经验.md",
+   "obj_edit_time": "1774434260",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Y6NcwGATViHhL5khW63cARADnHh",
+   "obj_token": "Fb5sdmvkBoHnjMxjB1LcvG1yntb",
+   "type": "docx",
+   "title": "sorftime 选品实战案例 examples",
+   "path": "II  亚马逊选品/sorftime 选品实战案例 examples.md",
+   "obj_edit_time": "1773133131",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "E3evwGrp5ibDQmkbSrzcUqQXnyg",
+   "obj_token": "GchtdfACooItK2x2Mypc8Kl0nyh",
+   "type": "docx",
+   "title": "sorftime 选品 SKILL",
+   "path": "II  亚马逊选品/sorftime 选品 SKILL.md",
+   "obj_edit_time": "1773134215",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "KotWwRWNviVlPtkuKRMcNWalnKc",
+   "obj_token": "ZQlTdPiSFo8DljxvWMicgwIsnDg",
+   "type": "docx",
+   "title": "AI选品软件维度整理AI选品软件维度整理",
+   "path": "II  亚马逊选品/AI选品软件维度整理AI选品软件维度整理.md",
+   "obj_edit_time": "1773217021",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "IirnwZktyiAmyukkrztch35znSc",
+   "obj_token": "AaaodTbRFodSrSxDPGzcTUiPnhh",
+   "type": "docx",
+   "title": "分享资深选品",
+   "path": "II  亚马逊选品/分享资深选品.md",
+   "obj_edit_time": "1771416071",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "T3LQwKUdYin48ekpcNpcYZT0nHc",
+   "obj_token": "SJn5dfx0EoZjTixASXpcndMnnme",
+   "type": "docx",
+   "title": "亚马逊选品新思路：“元素迁移”法实战指南AI COMMERCE EVOLUTION",
+   "path": "II  亚马逊选品/亚马逊选品新思路：“元素迁移”法实战指南AI COMMERCE EVOLUTION.md",
+   "obj_edit_time": "1772794752",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "GNhhwg19pi9eAykgECXclu6wnoy",
+   "obj_token": "PJWId9BBBor2YGx3qkVcG6s4ncf",
+   "type": "docx",
+   "title": "亚马逊选品的思路 skills心得 公众号",
+   "path": "II  亚马逊选品/亚马逊选品的思路 skills心得 公众号.md",
+   "obj_edit_time": "1772794848",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "Z3UOwrWKFixWonkV225cLdyDnHZ",
+   "obj_token": "OXn2dbR8moNhVHx5Zr8cMr8UnCe",
+   "type": "docx",
+   "title": "亚马逊选品skills   竞争对抗分析_Skill内容",
+   "path": "II  亚马逊选品/亚马逊选品skills   竞争对抗分析_Skill内容.md",
+   "obj_edit_time": "1773132252",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "TgpswSU2EiTO4pkh0Mhcb1i1n0g",
+   "obj_token": "Fx4nbYKdbouvmRxUyX9cPhoXnWb",
+   "type": "file",
+   "title": "分享资深选品.docx",
+   "path": "II  亚马逊选品/分享资深选品.docx",
+   "obj_edit_time": "1771410210",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "P7SEwwwWZiAt4Qko0XbcBWRNnlG",
+   "obj_token": "QAIHdk6rvoC2ooxikj1cBYrinud",
+   "type": "docx",
+   "title": "选品的思路 skills",
+   "path": "II  亚马逊选品/选品的思路 skills.md",
+   "obj_edit_time": "1773133047",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "QPrlw4F33i9H1wkQUypcLKRonbb",
+   "obj_token": "Ibh7dKMieocubFx3cd4cpiwVnWd",
+   "type": "docx",
+   "title": "亚马逊选品skills使用手册",
+   "path": "II  亚马逊选品/亚马逊选品skills使用手册.md",
+   "obj_edit_time": "1773133075",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "ALv3wRmGIiEWNwkeijocbcqhnPd",
+   "obj_token": "EBvhdZuiAoiGUtxIyLxc3UGhn8g",
+   "type": "docx",
+   "title": "选品分析报告Untitled-1",
+   "path": "II  亚马逊选品/选品分析报告Untitled-1.md",
+   "obj_edit_time": "1773133084",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "CJC9wBSdqidyN4kncYacbPFanqf",
+   "obj_token": "Fa3HskWnShNpNit3x4RcG6Egnsh",
+   "type": "sheet",
+   "title": "2025欧洲listing SOP流程",
+   "path": "II  亚马逊选品/2025欧洲listing SOP流程.xlsx",
+   "obj_edit_time": "1779967197",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "W1onwYlACiEUqOkhEOMcp0rSnGh",
+   "obj_token": "ZCOCduZRqoHsRLxy0QlcxMFnnOs",
+   "type": "docx",
+   "title": "上篇《新品推广计划全链路SOP-附流程图》",
+   "path": "II  亚马逊选品/上篇《新品推广计划全链路SOP-附流程图》.md",
+   "obj_edit_time": "1773290022",
+   "depth": 1,
+   "parent": "Q0mawcM3Zi0q32k679oc1jTnnfk"
+  },
+  {
+   "node_token": "FGHZwn89ri9f7EkTxO5cCdhCnym",
+   "obj_token": "JucUdmD8qomZ2GxNijLcVSsKnhh",
+   "type": "docx",
+   "title": "III 亚马逊广告",
+   "path": "III 亚马逊广告.md",
+   "obj_edit_time": "1767682013",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "HlyVwPlfSiNs5tkUPjwczQbNngc",
+   "obj_token": "XztKd9IyAogU6Hx4AGBclP2UnGb",
+   "type": "docx",
+   "title": "拆解竞品--亿级投手的竞品广告暴力拆解",
+   "path": "III 亚马逊广告/拆解竞品--亿级投手的竞品广告暴力拆解.md",
+   "obj_edit_time": "1788254134",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "YIp4wiVewigs6vk9YL8czWnjn1f",
+   "obj_token": "Lssid2GHCoM0m9xKPTZclkHTnUh",
+   "type": "docx",
+   "title": "拆解竞品--亿级投手的竞品广告暴力拆解",
+   "path": "III 亚马逊广告/拆解竞品--亿级投手的竞品广告暴力拆解_2.md",
+   "obj_edit_time": "1764053019",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "XOxQw6aSHidYcKkHoJMckJBknCg",
+   "obj_token": "PUWjs8V3HhjTDftkdtzcA00cnHg",
+   "type": "sheet",
+   "title": "核心场景+需求痛点 广告",
+   "path": "III 亚马逊广告/核心场景+需求痛点 广告.xlsx",
+   "obj_edit_time": "1763622728",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "H4YqwOztyiwcljk7Pomc8wNrneh",
+   "obj_token": "CgipsVeBfhly0MtrfJNcNA4jnXf",
+   "type": "sheet",
+   "title": "核心场景+需求痛点 广告SOP",
+   "path": "III 亚马逊广告/核心场景+需求痛点 广告/核心场景+需求痛点 广告SOP.xlsx",
+   "obj_edit_time": "1763981277",
+   "depth": 2,
+   "parent": "XOxQw6aSHidYcKkHoJMckJBknCg"
+  },
+  {
+   "node_token": "IewowsPDxidlw7k0pLBcp216nlc",
+   "obj_token": "W7Pwdka35o9aYjxw9VJcZqmWnoA",
+   "type": "docx",
+   "title": "广告捡漏打法",
+   "path": "III 亚马逊广告/广告捡漏打法.md",
+   "obj_edit_time": "1743781054",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "J8W2wUDIuiXSoIkMxjuctGORn2b",
+   "obj_token": "GWW8d5F7moiNgOxbIOWcfiWxnDc",
+   "type": "docx",
+   "title": "亚马逊SD广告功能总结",
+   "path": "III 亚马逊广告/亚马逊SD广告功能总结.md",
+   "obj_edit_time": "1744033570",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "PjtqwvNLyipCk4kx2mvcNm6tnfc",
+   "obj_token": "WuNtdF0UXoYjYBxTVRrcYxLUnbd",
+   "type": "docx",
+   "title": "亚马逊SOP--9 亚马逊广告培训体系SOP大纲优化版（初级-中级-高级）",
+   "path": "III 亚马逊广告/亚马逊SOP--9 亚马逊广告培训体系SOP大纲优化版（初级-中级-高级）.md",
+   "obj_edit_time": "1785205695",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "ScLew6buciYAttk1LUQcD5zFn1A",
+   "obj_token": "Lu58dQlvAocqobx23yRcXGO2n2b",
+   "type": "docx",
+   "title": "亚马逊广告结构及分析优化",
+   "path": "III 亚马逊广告/亚马逊广告结构及分析优化.md",
+   "obj_edit_time": "1785205716",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "Ck5dwxwDbiX7m7kbSN5cu3y3nLb",
+   "obj_token": "VtiSdyqFuoV5cox5bWvccPsBnZe",
+   "type": "docx",
+   "title": "重磅：改变亚马逊广告格局的新发现",
+   "path": "III 亚马逊广告/重磅：改变亚马逊广告格局的新发现.md",
+   "obj_edit_time": "1785205749",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "VZIUw7NCuioejhkK23qcABe1ncc",
+   "obj_token": "Bcb4bKNR5o9X7Lx1hEHcplHvnBh",
+   "type": "file",
+   "title": "海王广告打法sop 亚马逊广告.pdf",
+   "path": "III 亚马逊广告/海王广告打法sop 亚马逊广告.pdf",
+   "obj_edit_time": "1767686225",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "Zgejw0pHzikR9XkgL7EcU4s2nig",
+   "obj_token": "O0qFdoZcQo7OEpxyN9Zc4DSgnJg",
+   "type": "docx",
+   "title": "亚马逊广告点击影响因素的详细总结分析",
+   "path": "III 亚马逊广告/亚马逊广告点击影响因素的详细总结分析.md",
+   "obj_edit_time": "1787881284",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "NM2iwSyuniP6XJkaWnecNipHnfb",
+   "obj_token": "EZhfddY9zotDJHxnDJ6cOZbxnb1",
+   "type": "docx",
+   "title": "亚马逊广告否定案例",
+   "path": "III 亚马逊广告/亚马逊广告否定案例.md",
+   "obj_edit_time": "1785205816",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "I4TUwYJ8bidrLkkUUXQcdfY5nEg",
+   "obj_token": "ROEVdxchQo1ul0xe9YZcvXF1n8c",
+   "type": "docx",
+   "title": "深度解读，亚马逊广告开始“谷歌向”了！",
+   "path": "III 亚马逊广告/深度解读，亚马逊广告开始“谷歌向”了！.md",
+   "obj_edit_time": "1743995616",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "WVsgwpwlaiSmfjk5CMAcJRqCnzb",
+   "obj_token": "W5h6dDTqmot7KhxZpn8cMvtWnch",
+   "type": "docx",
+   "title": "亚马逊CPC广告（总结） by Owen",
+   "path": "III 亚马逊广告/亚马逊CPC广告（总结） by Owen.md",
+   "obj_edit_time": "1785205836",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "AwFNwArvOigkHXkKoAOcxGFdnEW",
+   "obj_token": "KNVFdufOgo9CmDxkzlicGFICnif",
+   "type": "docx",
+   "title": "亚马逊SOP-  CPC亚马逊广告否定",
+   "path": "III 亚马逊广告/亚马逊SOP-  CPC亚马逊广告否定.md",
+   "obj_edit_time": "1690513928",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "MtfSwdmWpilkLBkF0ylcY5uvnzd",
+   "obj_token": "LIClbUZEWohPifxmfXHcMk6Jnag",
+   "type": "file",
+   "title": "1_广告打法策略.docx",
+   "path": "III 亚马逊广告/1_广告打法策略.docx",
+   "obj_edit_time": "1736432241",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "Eg9FwPz7WihvNIkyfDCcatYrnod",
+   "obj_token": "Hw6vdfmxzoNSJ8x0K9kcbByQnqx",
+   "type": "docx",
+   "title": "不同类型的产品对应不同的广告打法",
+   "path": "III 亚马逊广告/不同类型的产品对应不同的广告打法.md",
+   "obj_edit_time": "1785205885",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "D3s6wox75i9PzXkHt0RcYmZ0n0c",
+   "obj_token": "SdMAdzxJroA2PWx5Wh3cxBOynMf",
+   "type": "docx",
+   "title": "ZK广告后台品牌绩效截图",
+   "path": "III 亚马逊广告/ZK广告后台品牌绩效截图.md",
+   "obj_edit_time": "1785205908",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "YccbwaVOGilPGfkG8fRco64rnEe",
+   "obj_token": "CyGEbKuUjoDTtQxrTZScCuFcnah",
+   "type": "file",
+   "title": "天机跨境  特征词分析工具-广告词根及属性数据分析.xlsm",
+   "path": "III 亚马逊广告/天机跨境  特征词分析工具-广告词根及属性数据分析.xlsm",
+   "obj_edit_time": "1776667194",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "Q7H8wPg8gi9YGxkxZjVcui5qnPf",
+   "obj_token": "RZMNbwoiGodziMxqHQOcwTssn5e",
+   "type": "file",
+   "title": "海王广告打法sop.pdf",
+   "path": "III 亚马逊广告/海王广告打法sop.pdf",
+   "obj_edit_time": "1736432145",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "WiutwjL7eifSEmkAo8lcdqxbnxb",
+   "obj_token": "Hj82dunxfopwrWxVIXIcpSZPnCf",
+   "type": "docx",
+   "title": "我比较关注几个数据线【详细讲讲】分别解释以下4个广告优化的数据线 1. CVR警戒线 2. 竞价效率底线 3. 有效流量线 4. 成本容错线",
+   "path": "III 亚马逊广告/我比较关注几个数据线【详细讲讲】分别解释以下4个广告优化的数据线 1. CVR警戒线 2. 竞价效率底线 3. 有效流量线 4. 成本容错线.md",
+   "obj_edit_time": "1785205951",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "FndTwqZG7iMKwrkVM07c82vRnIh",
+   "obj_token": "KyPcdhCAwodoVYx03Bccupu4nve",
+   "type": "docx",
+   "title": "SEO如何做外链的推广?",
+   "path": "III 亚马逊广告/SEO如何做外链的推广_.md",
+   "obj_edit_time": "1690439405",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "UNsNwAgnHikDm0kNRAFcSv8Vn6c",
+   "obj_token": "BuoQduMhMovR5Lxk95pcCH5Wnxh",
+   "type": "docx",
+   "title": "优化TODOLIST",
+   "path": "III 亚马逊广告/优化TODOLIST.md",
+   "obj_edit_time": "1763640577",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "P4z1wuAzMiR7ymk1Ugicfeq9ntc",
+   "obj_token": "JvxwdiyBSoV2uDx6QeUc83q8nud",
+   "type": "docx",
+   "title": "亚马逊优化广告思路框架+心得重要资料 xmind--咕噜公园的 思维导图xmind",
+   "path": "III 亚马逊广告/亚马逊优化广告思路框架+心得重要资料 xmind--咕噜公园的 思维导图xmind.md",
+   "obj_edit_time": "1787881546",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "ZNX8wj3zhi6EF2kZyxsc6oBSnPg",
+   "obj_token": "HXtid9uNuo9sGux9iN3co2BBnLg",
+   "type": "docx",
+   "title": "广告策略",
+   "path": "III 亚马逊广告/广告策略.md",
+   "obj_edit_time": "1763954286",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "HW7RwGzFyi6IIkk8zaNc2cZqncf",
+   "obj_token": "OzmfdIKi6oJYItxy2Fmcb8OLnVe",
+   "type": "docx",
+   "title": "李俊德国广告数据分析总结",
+   "path": "III 亚马逊广告/李俊德国广告数据分析总结.md",
+   "obj_edit_time": "1785208947",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "KydkwEBOTiPjDFkSAOjc9HSJnId",
+   "obj_token": "STvZdlQLPoenVYxQtXPcESTmnUf",
+   "type": "docx",
+   "title": "广告投放 挑词逻辑",
+   "path": "III 亚马逊广告/广告投放 挑词逻辑.md",
+   "obj_edit_time": "1773132301",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "KW7IwGDahihNgxkj8fXcZLSxnZc",
+   "obj_token": "G1jYdWx3xoEagtxcqmRcevmvnWg",
+   "type": "docx",
+   "title": "海王广告全解析",
+   "path": "III 亚马逊广告/海王广告全解析.md",
+   "obj_edit_time": "1772984161",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "NeIwwF3qDiazk1kga9UcbFvvnSd",
+   "obj_token": "DAiWdG8eQoLVkOxD8SZcLMwknIb",
+   "type": "docx",
+   "title": "空气净化器 广告位和自然位的坑位分析",
+   "path": "III 亚马逊广告/空气净化器 广告位和自然位的坑位分析.md",
+   "obj_edit_time": "1769394126",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "JOM8weKetioAHDkzqWscFKiHnJg",
+   "obj_token": "RLTSdCEbxo6eyQxSn1Dcyw42nZc",
+   "type": "docx",
+   "title": "亚马逊站内广告打法策略全面解析",
+   "path": "III 亚马逊广告/亚马逊站内广告打法策略全面解析.md",
+   "obj_edit_time": "1743428355",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "Lq6bwGA6OiWSeakkYaXcsMvfnAc",
+   "obj_token": "VfdUdDZx5oBdo9xqxGycHvilnwd",
+   "type": "docx",
+   "title": "今天讲讲亚马逊选品,运营,广告 一些常用模板Costway 副本",
+   "path": "III 亚马逊广告/今天讲讲亚马逊选品,运营,广告 一些常用模板Costway 副本.md",
+   "obj_edit_time": "1769419398",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "ZCcUwESHriBjVBkna0FcB0QenW8",
+   "obj_token": "QZkRdV1mQoHxmQxG7EoceC7Tn2M",
+   "type": "docx",
+   "title": "深度研究亚马逊广告后台基准功能（-benchmark-data）， 品牌指标，选品指南针 商机探测器",
+   "path": "III 亚马逊广告/深度研究亚马逊广告后台基准功能（-benchmark-data）， 品牌指标，选品指南针 商机探测器.md",
+   "obj_edit_time": "1773290298",
+   "depth": 1,
+   "parent": "FGHZwn89ri9f7EkTxO5cCdhCnym"
+  },
+  {
+   "node_token": "TckTwWj8FimRNDkEanHcA7Gan0K",
+   "obj_token": "TOrQdELkSoQ2ZfxrIE9cohdnn5b",
+   "type": "docx",
+   "title": "IV Rufus 亚马逊prompt广告",
+   "path": "IV Rufus 亚马逊prompt广告.md",
+   "obj_edit_time": "1767686588",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Djebwb9wjiNh15kEO4VctF9VnMb",
+   "obj_token": "RQsid0VijoW4zrxp2qJcKJmXn9d",
+   "type": "docx",
+   "title": "GEO-Rufus 混合评分系统",
+   "path": "IV Rufus 亚马逊prompt广告/GEO-Rufus 混合评分系统.md",
+   "obj_edit_time": "1767889799",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "FG2NwXFh4iQrTUktVqnciuaZn3g",
+   "obj_token": "PWz5db5MWoHBhhxIzLAcz5LEnyc",
+   "type": "docx",
+   "title": "GEO-Rufus评分标准系统",
+   "path": "IV Rufus 亚马逊prompt广告/GEO-Rufus评分标准系统.md",
+   "obj_edit_time": "1769013099",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "DzMOwMV9Wi8qb0kZB0gcUmCRnNE",
+   "obj_token": "CK9QdHW6Jo8WPNx7ODVcGUKGnhe",
+   "type": "docx",
+   "title": "亚马逊 Rufus AI使用指南（Rufus国外博主解释，非常有借鉴意义）",
+   "path": "IV Rufus 亚马逊prompt广告/亚马逊 Rufus AI使用指南（Rufus国外博主解释，非常有借鉴意义）.md",
+   "obj_edit_time": "1788333438",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "Mxl9wrSlVih9myk2YAycUIpanGf",
+   "obj_token": "MbDudR3gloZyiKxy8FXcj0ycndg",
+   "type": "docx",
+   "title": "一份针对**亚马逊AI时代（Rufus, COSMO算法）**的Listing深度优化指南",
+   "path": "IV Rufus 亚马逊prompt广告/一份针对__亚马逊AI时代（Rufus, COSMO算法）__的Listing深度优化指南.md",
+   "obj_edit_time": "1767372623",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "DS0MwPJLJimTC8kkBYicoiPQns4",
+   "obj_token": "TaiYdyNh2olPPHxKkRwc5WOSnWg",
+   "type": "docx",
+   "title": "Rufus广告来了！广告可能直接放进买家问答里，传统搜索广告将被颠覆？",
+   "path": "IV Rufus 亚马逊prompt广告/Rufus广告来了！广告可能直接放进买家问答里，传统搜索广告将被颠覆？.md",
+   "obj_edit_time": "1767372361",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "BlhwwPhTJixiRUkWfZ5cO5VsnFg",
+   "obj_token": "PxzUdEAbuo7c96xXZCucHZjPnFf",
+   "type": "docx",
+   "title": "亚马逊 Rufus 最新解释公布！三大变化重新定义流量分发，影响卖家运营 ",
+   "path": "IV Rufus 亚马逊prompt广告/亚马逊 Rufus 最新解释公布！三大变化重新定义流量分发，影响卖家运营.md",
+   "obj_edit_time": "1767795255",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "EAYywEVEFiq2aNkfTTmcMA8SnUd",
+   "obj_token": "A9EzdthAzoTHYExCsIqcA0n9nqh",
+   "type": "docx",
+   "title": "如何利用COSMO与Rufus算法优化亚马逊文案提升自然流量实战技巧",
+   "path": "IV Rufus 亚马逊prompt广告/如何利用COSMO与Rufus算法优化亚马逊文案提升自然流量实战技巧.md",
+   "obj_edit_time": "1764517692",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "X1FbwtkCtiHo2lkS5xgcio0kn7d",
+   "obj_token": "QGRed0TvBof6dpxNqFHcvejVnFh",
+   "type": "docx",
+   "title": "询问亚马逊Rufus指令prompt",
+   "path": "IV Rufus 亚马逊prompt广告/询问亚马逊Rufus指令prompt.md",
+   "obj_edit_time": "1766040690",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "EvUOweJ5AiqJwukVwYac4U43nhe",
+   "obj_token": "Paandw0ycoy3VIxstpMcd844n4c",
+   "type": "docx",
+   "title": "关于Rufus的一些独特思考，结合GEO（最新论文）  & 亚马逊prompt（如何用Rufus优化listing和广告的）&如何用Rufus 优化你的amazon商品详情页（详细解析和实操）",
+   "path": "IV Rufus 亚马逊prompt广告/关于Rufus的一些独特思考，结合GEO（最新论文）  & 亚马逊prompt（如何用Rufus优化listing和广告的）&如何用Rufus 优化你的amaz.md",
+   "obj_edit_time": "1773997892",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "S7cSwgeYGi0e1vk8xT9cpdfBnuc",
+   "obj_token": "KBdzd9L49ojJhtxyxgFcl24Knpe",
+   "type": "docx",
+   "title": "关于Rufus的一些独特思考&亚马逊prompt（如何用Rufus优化listing和广告的)",
+   "path": "IV Rufus 亚马逊prompt广告/关于Rufus的一些独特思考&亚马逊prompt（如何用Rufus优化listing和广告的).md",
+   "obj_edit_time": "1767374465",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "PKaAwCgkOiHjITkjGxdc4KbQntf",
+   "obj_token": "WdqDdYN42oqieVxSVgnceJEdnbc",
+   "type": "docx",
+   "title": "针对空气净化器这一家居用品讲解 结合Rufus",
+   "path": "IV Rufus 亚马逊prompt广告/针对空气净化器这一家居用品讲解 结合Rufus.md",
+   "obj_edit_time": "1766418662",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "TCtawAoymiblWDkdY7wcoSxOnxf",
+   "obj_token": "BCqld0KW1o0Fszx17chcR1aEnuf",
+   "type": "docx",
+   "title": "用Rufus优化逆袭反超Anker,他们是这样用Rufus优化listing和广告的",
+   "path": "IV Rufus 亚马逊prompt广告/用Rufus优化逆袭反超Anker,他们是这样用Rufus优化listing和广告的.md",
+   "obj_edit_time": "1766500829",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "TLczwgfVViUrdFkx6cYc9SDinUb",
+   "obj_token": "SF53dBddGoezS6xMFvZcUbB8naf",
+   "type": "docx",
+   "title": "亚马逊prompt提示词广告解释",
+   "path": "IV Rufus 亚马逊prompt广告/亚马逊prompt提示词广告解释.md",
+   "obj_edit_time": "1767511951",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "S9Iow6olIiBqsrkjvEIc6aW9nuY",
+   "obj_token": "LgOId9PProYiJrxjGNAckq8HnIx",
+   "type": "docx",
+   "title": "《完整的亚马逊运营SOP》",
+   "path": "IV Rufus 亚马逊prompt广告/《完整的亚马逊运营SOP》.md",
+   "obj_edit_time": "1765724944",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "E4KJwKDkoinMdykQeyCcwWrXnwg",
+   "obj_token": "CGb8dOQcpoEKHTxvPPLcBdKunig",
+   "type": "docx",
+   "title": "亚马逊新功能Prompt实测，流量分配大变动!",
+   "path": "IV Rufus 亚马逊prompt广告/亚马逊新功能Prompt实测，流量分配大变动!.md",
+   "obj_edit_time": "1767371335",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "Js4qwJA3bi5rMikrAvmcsayfnmh",
+   "obj_token": "ZBYvd38q6o5x1uxKo7ocBWcinnh",
+   "type": "docx",
+   "title": "VOSEA / VOSEA AI 跨境消费者洞察",
+   "path": "IV Rufus 亚马逊prompt广告/VOSEA _ VOSEA AI 跨境消费者洞察.md",
+   "obj_edit_time": "1767851940",
+   "depth": 1,
+   "parent": "TckTwWj8FimRNDkEanHcA7Gan0K"
+  },
+  {
+   "node_token": "CUwrwVhqEiYg8rk7Z05cyAwcnmc",
+   "obj_token": "L7PJdAPQ2o4rnnx4c6LcnnMun10",
+   "type": "docx",
+   "title": "V 亚马逊VC",
+   "path": "V 亚马逊VC.md",
+   "obj_edit_time": "1767682764",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "WN6iwUqAtiaMeVk863Mc7S2FnUb",
+   "obj_token": "XHKFdSiTBoTLyCx0kvncfZZonyc",
+   "type": "docx",
+   "title": "别再用SC思维玩VC！2025年亚马逊VC卖家必看的4个“降维打击”策略",
+   "path": "V 亚马逊VC/别再用SC思维玩VC！2025年亚马逊VC卖家必看的4个“降维打击”策略.md",
+   "obj_edit_time": "1767682497",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "O8ZywFZz1ijMj3knLDQcUdl8nVf",
+   "obj_token": "Y1D1dCrR2osGjyxmbCpcqW9rn4e",
+   "type": "docx",
+   "title": "亚马逊爆款运营战略手册：基于Vine+Woot+VC资源的三维增长模型",
+   "path": "V 亚马逊VC/亚马逊爆款运营战略手册：基于Vine+Woot+VC资源的三维增长模型.md",
+   "obj_edit_time": "1767682536",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "RTQyw6DgkisUIgkn8JRcsnrAn1f",
+   "obj_token": "Fy9Wd0BXJozlPOxNc3fcL8hVn8g",
+   "type": "docx",
+   "title": "别再用SC思维玩VC！2025亚马逊VC卖家必看的4个“降维打击”策略2",
+   "path": "V 亚马逊VC/别再用SC思维玩VC！2025亚马逊VC卖家必看的4个“降维打击”策略2.md",
+   "obj_edit_time": "1767682565",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "St3zwarqeidXuxkmFbgc3dLDnFh",
+   "obj_token": "DfBldYC00oZyXOxF4I1cDZoyndc",
+   "type": "docx",
+   "title": "VC SC财务分析",
+   "path": "V 亚马逊VC/VC SC财务分析.md",
+   "obj_edit_time": "1765858703",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "Wc6vwIYpGithYhk8kFDc3RP3npd",
+   "obj_token": "X6S0dohc5ogOGkxUPz5cwfQhnhc",
+   "type": "docx",
+   "title": "亚马逊VC报错以及问题 解决方案",
+   "path": "V 亚马逊VC/亚马逊VC报错以及问题 解决方案.md",
+   "obj_edit_time": "1743518075",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "YWN2wUQzKiju3fkUVvycaRVKnTh",
+   "obj_token": "P0ZmdRgFQo9otXxeAa7cmXt0nOb",
+   "type": "docx",
+   "title": "VC + SC运营端流程梳理",
+   "path": "V 亚马逊VC/VC + SC运营端流程梳理.md",
+   "obj_edit_time": "1742567196",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "NkYwwih15i5NPYkYa6UcmoCRnhg",
+   "obj_token": "DZzedmonUozfqwxk53EcgEJgn1e",
+   "type": "docx",
+   "title": "亚马逊VC运营笔记 高级运用技巧分享",
+   "path": "V 亚马逊VC/亚马逊VC运营笔记 高级运用技巧分享.md",
+   "obj_edit_time": "1786691777",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "CaSFwEPf4iA6gIkSzWbc8Yc1nhc",
+   "obj_token": "CqD7dDqnQoLHwJx5gDrcwcnXnne",
+   "type": "docx",
+   "title": "亚马逊VC deal新规则",
+   "path": "V 亚马逊VC/亚马逊VC deal新规则.md",
+   "obj_edit_time": "1743641896",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "IvffwMOEriLncjkS8y8cdZTXnSg",
+   "obj_token": "GxGIdUFEcoJnR3x0WHIc8IxsnSc",
+   "type": "docx",
+   "title": "VC长期项目方案与执行（含里程碑看板）",
+   "path": "V 亚马逊VC/VC长期项目方案与执行（含里程碑看板）.md",
+   "obj_edit_time": "1743322418",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "RnkfwzglZiO0FEkvfPycRLAYnRd",
+   "obj_token": "X3sEd6I1rok4j8xkOhDcFCDunng",
+   "type": "docx",
+   "title": "亚马逊VC报价与推广策略总结",
+   "path": "V 亚马逊VC/亚马逊VC报价与推广策略总结.md",
+   "obj_edit_time": "1743568550",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "JcOawDR6Ri7xmtk2lpxcK0ifnjd",
+   "obj_token": "WGg4dnyrSoDb8Px0R0FcwDfmnNf",
+   "type": "docx",
+   "title": "亚马逊VC清洗机VC报价案例分析",
+   "path": "V 亚马逊VC/亚马逊VC清洗机VC报价案例分析.md",
+   "obj_edit_time": "1743782656",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "NTDzweOuNiFbk2kU2zmc1PjZnfb",
+   "obj_token": "UYpqb1ybeoZhBex3svLclntXn7e",
+   "type": "file",
+   "title": "VC问题汇总.docx",
+   "path": "V 亚马逊VC/VC问题汇总.docx",
+   "obj_edit_time": "1729924377",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "UaEbwTgFsif8tTkAUQocvF1inLf",
+   "obj_token": "ACp2dQe1do9SvNxLclEc7UZJnnb",
+   "type": "docx",
+   "title": "亚马逊VC 销售预测与来单校验表,即VC库存备货 缺口逻辑分析",
+   "path": "V 亚马逊VC/亚马逊VC 销售预测与来单校验表,即VC库存备货 缺口逻辑分析.md",
+   "obj_edit_time": "1743597107",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "O4F8w1LEwi0zwckta5aclnQFngf",
+   "obj_token": "QaATdbBIFoMstExIN1Mcxfranfd",
+   "type": "docx",
+   "title": "VC问题汇总",
+   "path": "V 亚马逊VC/VC问题汇总.md",
+   "obj_edit_time": "1729924423",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "Tr1RwoksfiUKrgk67nNcEJF9nTe",
+   "obj_token": "OWG7dbl1yoxRaIxiuaDcGpmZnOe",
+   "type": "docx",
+   "title": "亚马逊VC高级运用技巧分享--亚马逊VC PO来单20个维度分享VC BD乱价原因分析",
+   "path": "V 亚马逊VC/亚马逊VC高级运用技巧分享--亚马逊VC PO来单20个维度分享VC BD乱价原因分析.md",
+   "obj_edit_time": "1787198872",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "VJR7wIJb7ih5O7kA2Cychr4CnMb",
+   "obj_token": "OBQIdbbXbo4A8NxYEA4c6YU0n0f",
+   "type": "docx",
+   "title": "亚马逊VC后台界面详解分析",
+   "path": "V 亚马逊VC/亚马逊VC后台界面详解分析.md",
+   "obj_edit_time": "1786691517",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "WPIJwAbbvil5ohkFVbAc4fYFnie",
+   "obj_token": "IT2gdIWgHooiCfx6hQ6ccbMFn0f",
+   "type": "docx",
+   "title": "电商运营策略VC  SC",
+   "path": "V 亚马逊VC/电商运营策略VC  SC.md",
+   "obj_edit_time": "1743569480",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "Kx7jwKyAPiw21IkYQT2c9hhsnXg",
+   "obj_token": "LuaFdT8viotATTxTakHcjqQ4nle",
+   "type": "docx",
+   "title": "亚马逊A9算法及运营策略详解 核心算法原理Past Search Patterns（历史搜索模式）解析",
+   "path": "V 亚马逊VC/亚马逊A9算法及运营策略详解 核心算法原理Past Search Patterns（历史搜索模式）解析.md",
+   "obj_edit_time": "1743858682",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "IRNMwRtupixdG4kvrBlc5Z86nNh",
+   "obj_token": "DRS4dadsFosyIvxaUC6clvbdnFb",
+   "type": "docx",
+   "title": "美国VC账号产品上架及推广流程梳理",
+   "path": "V 亚马逊VC/美国VC账号产品上架及推广流程梳理.md",
+   "obj_edit_time": "1727582327",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "KQUfwyDLhivKnekH9oecTOr3nSc",
+   "obj_token": "LNWedQjkYosU8uxZXfQct4EtnMb",
+   "type": "docx",
+   "title": "美国VC创建货件发货流程 三",
+   "path": "V 亚马逊VC/美国VC创建货件发货流程 三.md",
+   "obj_edit_time": "1727337828",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "DyCHw5y7hiKGYmk7f36cw7L9nIb",
+   "obj_token": "EmuQdXRuCoSCo0xDDtzcnbbjn2b",
+   "type": "docx",
+   "title": "第三方VC账号发货流程，创建货件截图 00131-1610-0740",
+   "path": "V 亚马逊VC/第三方VC账号发货流程，创建货件截图 00131-1610-0740.md",
+   "obj_edit_time": "1742569027",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "Jrr7wGp2hijFXJkcvxDcq31AnCg",
+   "obj_token": "XfXAstATHhHchItToaTcSc2unhd",
+   "type": "sheet",
+   "title": "英国空净AP100 - 项目跟进表-20260204",
+   "path": "V 亚马逊VC/英国空净AP100 - 项目跟进表-20260204.xlsx",
+   "obj_edit_time": "1773654307",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "WSHkw0KTgiaq4XkzmAScWPp8nnf",
+   "obj_token": "Rc63sIHQNhvtRStAkzOcitd0nmg",
+   "type": "sheet",
+   "title": "英国空净AP100 - 项目跟进表-20260204 副本李俊",
+   "path": "V 亚马逊VC/英国空净AP100 - 项目跟进表-20260204 副本李俊.xlsx",
+   "obj_edit_time": "1772585983",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "FX5Hw0Ww0iX294k21jicHsRwnsh",
+   "obj_token": "QcmadxxC9o4e0xxDx9pc05zUnbe",
+   "type": "docx",
+   "title": "VC发货 生成产品条形码，产品条码",
+   "path": "V 亚马逊VC/VC发货 生成产品条形码，产品条码.md",
+   "obj_edit_time": "1728912586",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "D7eQwHdVuizU8ukZgdrcCYvTnY7",
+   "obj_token": "AFeJsl3NTh2QGWtJiuUcLzs6nCf",
+   "type": "sheet",
+   "title": "欧洲空净100EU - 项目跟进表-阳亚运-20251224",
+   "path": "V 亚马逊VC/欧洲空净100EU - 项目跟进表-阳亚运-20251224.xlsx",
+   "obj_edit_time": "1769410499",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "U14bwADHuii1KwkzRkOcAZZEnLe",
+   "obj_token": "ApvkbehlrojF5UxI1qbcc9xFn4k",
+   "type": "file",
+   "title": "VC + SC运营端流程梳理.docx",
+   "path": "V 亚马逊VC/VC + SC运营端流程梳理.docx",
+   "obj_edit_time": "1736432116",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "TioJwiY70iPY1nkP9Nucr1ARnsc",
+   "obj_token": "O2Tjs5Ut2hSH65tQN7McRiQRnfe",
+   "type": "sheet",
+   "title": "2025欧洲listing SOP流程 副本",
+   "path": "V 亚马逊VC/2025欧洲listing SOP流程 副本.xlsx",
+   "obj_edit_time": "1768183331",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "Qb8XwhjAfiYNnokuCFYc8i0RnIb",
+   "obj_token": "X8didpHhZo95Zrx5u3YchmsWn9f",
+   "type": "docx",
+   "title": "欧洲德国VC 利润核算，报价",
+   "path": "V 亚马逊VC/欧洲德国VC 利润核算，报价.md",
+   "obj_edit_time": "1727582256",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "Zvztwn5IdinVyPkyE4ccQtaVn5f",
+   "obj_token": "LiL9dDTAboAx2Sx4ev7cxbxOnod",
+   "type": "docx",
+   "title": "美国VC创建货件--发货流程 三 精华版本",
+   "path": "V 亚马逊VC/美国VC创建货件--发货流程 三 精华版本.md",
+   "obj_edit_time": "1727354542",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "E9B5wqgVjiOg5XkKJ97cdwPFn2e",
+   "obj_token": "XAAxbhFjCaguAwsAcJRcj1winzh",
+   "type": "bitable",
+   "title": "英国空净AP100 - 项目跟进表-阳亚运-20251224",
+   "path": "V 亚马逊VC/英国空净AP100 - 项目跟进表-阳亚运-20251224.xlsx",
+   "obj_edit_time": "1766542134",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "A2AFwIjh1imXoKkmebdchCRZnUj",
+   "obj_token": "O6Z9dGw1loB0owxNfJ7clYLWnDe",
+   "type": "docx",
+   "title": "探讨 自然流量增加 因素",
+   "path": "V 亚马逊VC/探讨 自然流量增加 因素.md",
+   "obj_edit_time": "1764601414",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "QNgbwuL2piMMowkzkm0cTGjfnOf",
+   "obj_token": "IRGibX31Po8QzCxxGvcc26eZn8U",
+   "type": "file",
+   "title": "02清洗机VC报价案例分析--及经验总结.xls",
+   "path": "V 亚马逊VC/02清洗机VC报价案例分析--及经验总结.xls",
+   "obj_edit_time": "1736432239",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "JWGUw0a6BiPK6Nkx1oMcNsTvnVd",
+   "obj_token": "KFs9sYWBdh6WrrtS2oUcRXtXn3c",
+   "type": "sheet",
+   "title": "2025.11毛利表-家居部 - 前台",
+   "path": "V 亚马逊VC/2025.11毛利表-家居部 - 前台.xlsx",
+   "obj_edit_time": "1765853425",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "VWjnwcspXiEwTakUhb4cnNaznid",
+   "obj_token": "BVC1sKibIhjy3WthmyocvTnynze",
+   "type": "sheet",
+   "title": "智境项目表",
+   "path": "V 亚马逊VC/智境项目表.xlsx",
+   "obj_edit_time": "1766569380",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "C2XswaC8HiA1QUkIpqccazk3nTg",
+   "obj_token": "Gd6fsMzmlhZhc2t1UBWcxVkIn8f",
+   "type": "sheet",
+   "title": "美国X6智能款车载精油香薰灯- 项目跟进表--负责人XXX-20250424",
+   "path": "V 亚马逊VC/美国X6智能款车载精油香薰灯- 项目跟进表--负责人XXX-20250424.xlsx",
+   "obj_edit_time": "1768203878",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "KFlowYDhviu707k51m3cdWVQnIb",
+   "obj_token": "YiHns6FFShdbOKtvPeDc0iJ8nMg",
+   "type": "sheet",
+   "title": "英国吸尘器 - 项目跟进表-阳亚运-20250422(1)",
+   "path": "V 亚马逊VC/英国吸尘器 - 项目跟进表-阳亚运-20250422(1).xlsx",
+   "obj_edit_time": "1767515374",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "IlrWwsU8qia57gkkzIlcuooen68",
+   "obj_token": "QJTXdrt8LoU2GdxD8n0cl9J8nxc",
+   "type": "docx",
+   "title": "亚马逊站外冷启动打收录方式推新品亚马逊",
+   "path": "V 亚马逊VC/亚马逊站外冷启动打收录方式推新品亚马逊.md",
+   "obj_edit_time": "1767683948",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "F657wZAs8inbcrkapjVcOXpknBg",
+   "obj_token": "RvDWs1Wpqh7FyVtQGMscrbx9nph",
+   "type": "sheet",
+   "title": "睿境项目表完成",
+   "path": "V 亚马逊VC/睿境项目表完成.xlsx",
+   "obj_edit_time": "1766570254",
+   "depth": 1,
+   "parent": "CUwrwVhqEiYg8rk7Z05cyAwcnmc"
+  },
+  {
+   "node_token": "LfHow87W7iJDaekBEmkcoqpanBc",
+   "obj_token": "AiJsdosHao3wA5xfiQncV9CZnRW",
+   "type": "docx",
+   "title": "VI 亚马逊AI",
+   "path": "VI 亚马逊AI.md",
+   "obj_edit_time": "1767682907",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "LvJmwviLjiV7vhkeg9IcMtL3nQS",
+   "obj_token": "IeULd608Co1qSAxWZcRcLpXRnmh",
+   "type": "docx",
+   "title": "GLM-4.7发布后，n8n就不用学了！搭个AI Skills一键生成工作流",
+   "path": "VI 亚马逊AI/GLM-4.7发布后，n8n就不用学了！搭个AI Skills一键生成工作流.md",
+   "obj_edit_time": "1769482657",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "NOSXwIxM7iFQeDkp1LmcFjhunb3",
+   "obj_token": "Ad79dUR6aog0aPx3ULbc3Vl5nOq",
+   "type": "docx",
+   "title": "AI电商之路",
+   "path": "VI 亚马逊AI/AI电商之路.md",
+   "obj_edit_time": "1775142610",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "C1bdwpe5diAzfokJLCac5xManIe",
+   "obj_token": "CsYRdr6SLolKYWxTQBpcWjNXndf",
+   "type": "docx",
+   "title": "《全球AI网站增长排行榜》",
+   "path": "VI 亚马逊AI/《全球AI网站增长排行榜》.md",
+   "obj_edit_time": "1765435638",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "OBf3wS1PuieahjkAbghcjOkDnHh",
+   "obj_token": "P0ycdqaEko3ztpxvSirc6SY0n4b",
+   "type": "docx",
+   "title": " Amz销量加速器：AI电商视频从0到1指南",
+   "path": "VI 亚马逊AI/Amz销量加速器：AI电商视频从0到1指南.md",
+   "obj_edit_time": "1765643793",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "VwoXwoGhsiYyhFkrIrgcuxFVn0e",
+   "obj_token": "Hai5dyCXHoHEMExZrrVc6CY9nyc",
+   "type": "docx",
+   "title": "10min搞定视频脚本-AI电商视频（番外篇）",
+   "path": "VI 亚马逊AI/10min搞定视频脚本-AI电商视频（番外篇）.md",
+   "obj_edit_time": "1765642999",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "L3czwoVeLiQjhxkXU0Fcx7gEnkg",
+   "obj_token": "XdqCdbSgooKb2hxjtfUc3yCCnvd",
+   "type": "docx",
+   "title": "结构化提示词系统论述： 构建高性能 Prompt 之路",
+   "path": "VI 亚马逊AI/结构化提示词系统论述： 构建高性能 Prompt 之路.md",
+   "obj_edit_time": "1765725258",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "YGhawClJRipIqBkw1rpcfxYEn0e",
+   "obj_token": "Bdodd2PBooG9b9xYYCDceD2Vnnb",
+   "type": "docx",
+   "title": "【SOP】AI打造Listing & Rufus全解析- Part 3",
+   "path": "VI 亚马逊AI/【SOP】AI打造Listing & Rufus全解析- Part 3.md",
+   "obj_edit_time": "1766019223",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "SzZMwRSabiPO36k9Uo0cAPgrn8b",
+   "obj_token": "UEtRd7TdWoYYpAxw3FrcWXOxnHh",
+   "type": "docx",
+   "title": "10.12《AI+深度应用》-观复研习社线下闭门会第二期",
+   "path": "VI 亚马逊AI/10.12《AI+深度应用》-观复研习社线下闭门会第二期.md",
+   "obj_edit_time": "1765723153",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "ZZMEw0Q0ei0eJakpVyJcqLPynIe",
+   "obj_token": "Mc5md58jKonbkwxSUHXcaZMEn3c",
+   "type": "docx",
+   "title": "AI输出内容深度研究亚马逊广告后台①基准功能（-benchmark-），② 品牌指标，③选品指南针 ④商机探测器",
+   "path": "VI 亚马逊AI/AI输出内容深度研究亚马逊广告后台①基准功能（-benchmark-），② 品牌指标，③选品指南针 ④商机探测器.md",
+   "obj_edit_time": "1764978943",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "PuPzwP0n9ixj03kXPLQcDHqknkf",
+   "obj_token": "QJtzdl75HowM49xSF8KcuSsOntg",
+   "type": "docx",
+   "title": "亚马逊新设计软件SOP，针对AI RUFUS设计 质检员",
+   "path": "VI 亚马逊AI/亚马逊新设计软件SOP，针对AI RUFUS设计 质检员.md",
+   "obj_edit_time": "1765715780",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "Fd0BwaJfGiNPr9kjDG6csQnOn7c",
+   "obj_token": "KO0hd2rFYoIOpmxtpdUcwyjrnBh",
+   "type": "docx",
+   "title": "跨境数据飞轮：用 Capalyze AI从数据采集到洞察0",
+   "path": "VI 亚马逊AI/跨境数据飞轮：用 Capalyze AI从数据采集到洞察0.md",
+   "obj_edit_time": "1770803396",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "ROJ5wFmmpiHHSLkmKUNcn26KnJh",
+   "obj_token": "Ge7sd466zoQLmyx17vpcZp59nzd",
+   "type": "docx",
+   "title": "顾小北 谈AI就跨境变化 太快",
+   "path": "VI 亚马逊AI/顾小北 谈AI就跨境变化 太快.md",
+   "obj_edit_time": "1765520332",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "Yt5TwOuVEiszqbkp8srcsCepnMg",
+   "obj_token": "Syrcdizodo5wPhx7fwAchXEGnPc",
+   "type": "docx",
+   "title": "AI驱动消费者洞察",
+   "path": "VI 亚马逊AI/AI驱动消费者洞察.md",
+   "obj_edit_time": "1769508593",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "QS3iwMmJoiWMwNk0gE2cpGcinrf",
+   "obj_token": "TAW6daBH4o9h7wxSps8cbczsnTc",
+   "type": "docx",
+   "title": "【SOP】AI打造Listing & Rufus全解析- Part 3",
+   "path": "VI 亚马逊AI/【SOP】AI打造Listing & Rufus全解析- Part 3_2.md",
+   "obj_edit_time": "1765620387",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "A3mHwVcmJie1oik5KaacedGYn1d",
+   "obj_token": "RCQDd6VRToNrC7xdrVccPmbDnvc",
+   "type": "docx",
+   "title": "【SOP】AI打造Listing & Rufus全解析- Part 2",
+   "path": "VI 亚马逊AI/【SOP】AI打造Listing & Rufus全解析- Part 2.md",
+   "obj_edit_time": "1765633744",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "X70bwqiUYibEYwkrhiycXKlcnEb",
+   "obj_token": "Pwdzb0230oORerxePaScA5ifnYb",
+   "type": "file",
+   "title": "亚马逊新设计软件SOP，针对AI RUFUS设计 质检员.docx",
+   "path": "VI 亚马逊AI/亚马逊新设计软件SOP，针对AI RUFUS设计 质检员.docx",
+   "obj_edit_time": "1765765913",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "TqSgwDcP7iyOr4kNvoMcW1Yon7c",
+   "obj_token": "N5Ald1l7foFpzGxTFSoc8H41nxe",
+   "type": "docx",
+   "title": "AI电商之路，商业企划方案，初稿",
+   "path": "VI 亚马逊AI/AI电商之路，商业企划方案，初稿.md",
+   "obj_edit_time": "1767366906",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "LNuZwVt31isgTJkZ6gecOWY2nyh",
+   "obj_token": "Mv0ldj1tco8Ya9xi5h5c7dOJneg",
+   "type": "docx",
+   "title": "我自己的一些思考，关于亚马逊和跨境电商，AI智能体学习",
+   "path": "VI 亚马逊AI/我自己的一些思考，关于亚马逊和跨境电商，AI智能体学习.md",
+   "obj_edit_time": "1742607418",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "ZlmMwy7Zuim052kdCLfctLl4nGh",
+   "obj_token": "YIiAdAU6ioLhd6xglTLc6eGknNf",
+   "type": "docx",
+   "title": "跨境电商机会规划",
+   "path": "VI 亚马逊AI/跨境电商机会规划.md",
+   "obj_edit_time": "1764748321",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "Li0zwjXnniP6N6kKH4RcWXqknAc",
+   "obj_token": "MlP3dakhAotfMHxhWJvcoXDGnKc",
+   "type": "docx",
+   "title": "2025年跨境电商卖家将面临什么样的挑战？",
+   "path": "VI 亚马逊AI/2025年跨境电商卖家将面临什么样的挑战？.md",
+   "obj_edit_time": "1744039852",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "AFzew4pTgiTJwGk04XLc9xWmnng",
+   "obj_token": "FhtQdDBZxon4iHxLaGcc6mIYnub",
+   "type": "docx",
+   "title": "跨境版·AI消费者洞察工具",
+   "path": "VI 亚马逊AI/跨境版·AI消费者洞察工具.md",
+   "obj_edit_time": "1763982575",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "ItOrw9FLxij8RZkAJ6AcQj0snIe",
+   "obj_token": "ReBpdzOoRogtnDxJQFtcc9minBh",
+   "type": "docx",
+   "title": "让你的图片自动符合Cosmo算法，提升曝光转化",
+   "path": "VI 亚马逊AI/让你的图片自动符合Cosmo算法，提升曝光转化.md",
+   "obj_edit_time": "1764601826",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "BKczw3Ix4iLN5ekEd18cTuL9naf",
+   "obj_token": "FUabdtDE4oUr6AxTHLecmlQQnpb",
+   "type": "docx",
+   "title": "未来的思考",
+   "path": "VI 亚马逊AI/未来的思考.md",
+   "obj_edit_time": "1767281250",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "GK2twLhxZircPrkRRKScSjjMny9",
+   "obj_token": "X38Obs1qLoDr9pxnwJkcLgL5nuh",
+   "type": "file",
+   "title": "5-AI与亚马逊图片的结合实操.pdf",
+   "path": "VI 亚马逊AI/5-AI与亚马逊图片的结合实操.pdf",
+   "obj_edit_time": "1736432337",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "Jj0Qw1fP2iDParkY4Vdc1Ejynkc",
+   "obj_token": "SpPSdxyyqoNkdcxbp8McMjPenMd",
+   "type": "docx",
+   "title": "场景跨境声量通，",
+   "path": "VI 亚马逊AI/场景跨境声量通，.md",
+   "obj_edit_time": "1767514230",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "Z4HQw3hbdi6Z3pk5wobcGi58nNb",
+   "obj_token": "UiNTd4aykoYEHsxr4VTcnnMJnRh",
+   "type": "docx",
+   "title": "20251218早上八点心里随想记录",
+   "path": "VI 亚马逊AI/20251218早上八点心里随想记录.md",
+   "obj_edit_time": "1766020708",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "TVF9w1rSsid5nskfXyuc88GUnYf",
+   "obj_token": "GIwsdfI1ZosT8kxtzYVcrBngn1d",
+   "type": "docx",
+   "title": "Xflow OS平台 灵鹿",
+   "path": "VI 亚马逊AI/Xflow OS平台 灵鹿.md",
+   "obj_edit_time": "1770174739",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "GRAbw5wydi7wIkk1FSQczeOFnZc",
+   "obj_token": "XrB9bGCgeawSDJsWjkMcYfBhnQb",
+   "type": "bitable",
+   "title": "《全球AI网站增长排行榜》详细数据 全球AI排名",
+   "path": "VI 亚马逊AI/《全球AI网站增长排行榜》详细数据 全球AI排名.xlsx",
+   "obj_edit_time": "1769586061",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "SDcLwFNdFiSqNDkQiWNcmbH6ndc",
+   "obj_token": "CCRIdhDgnojSlJxADpCcVCe1nbc",
+   "type": "docx",
+   "title": "一人公司的简单模型：想",
+   "path": "VI 亚马逊AI/一人公司的简单模型：想.md",
+   "obj_edit_time": "1743782029",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
+   "node_token": "Mi84wQ9xviUlO8kd9ricEWKQnWX",
+   "obj_token": "LlNEdwQe3ouwOSx7aeScY5oxnSf",
+   "type": "docx",
+   "title": "GEO系列",
+   "path": "GEO系列.md",
+   "obj_edit_time": "1768016623",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "KaJGwXt4iivQKrkpSMlci6kMnnd",
+   "obj_token": "SuJ4dOJSPol5wnxiwrncmnh0nwg",
+   "type": "docx",
+   "title": "AI跨境流量之GEO系列 汇总",
+   "path": "GEO系列/AI跨境流量之GEO系列 汇总.md",
+   "obj_edit_time": "1767774496",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "FUcTw9WVbiRr6VkBV72clFHwnUh",
+   "obj_token": "QrT6douUGoMTGfx5eEtcvbaWnPg",
+   "type": "docx",
+   "title": "1. AI跨境流量之GEO1️⃣ 2026流量腰斩真相：你的网站根本没被AI读懂",
+   "path": "GEO系列/1. AI跨境流量之GEO1️⃣ 2026流量腰斩真相：你的网站根本没被AI读懂.md",
+   "obj_edit_time": "1767773962",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "LgWww1Lyxivl7lkuVXQckHUOnxb",
+   "obj_token": "U81fdox1tofVITx32P1clWn0nxo",
+   "type": "docx",
+   "title": "2. AI跨境流量之GEO② 30个pSEO实操技巧：用Excel生成1万个页面，抢夺70%长尾流量",
+   "path": "GEO系列/2. AI跨境流量之GEO② 30个pSEO实操技巧：用Excel生成1万个页面，抢夺70_长尾流量.md",
+   "obj_edit_time": "1767773982",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "HbXiw3ASIiVAXskt93Gc5N88nEY",
+   "obj_token": "Dz7PdK535owyIdxUbpPckMUinjh",
+   "type": "docx",
+   "title": "3. ｜让AI Agent接管你的内容后台，构建AI流量帝国",
+   "path": "GEO系列/3. ｜让AI Agent接管你的内容后台，构建AI流量帝国.md",
+   "obj_edit_time": "1767774000",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "L0YSwbhW6ipQGakhq9UcnrRJnbd",
+   "obj_token": "IxKJdyLBhoaJeox8tTecqUdunBe",
+   "type": "docx",
+   "title": "4. ｜被Google收录不等于被AI推荐：揭秘生成式引擎的“检索-合成”黑盒机制",
+   "path": "GEO系列/4. ｜被Google收录不等于被AI推荐：揭秘生成式引擎的“检索-合成”黑盒机制.md",
+   "obj_edit_time": "1767885572",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "EtgEwU2KjiOI8ykfCYtcivvtn0f",
+   "obj_token": "GQ8PdksRho8xJLxAexXcpNK3nPe",
+   "type": "docx",
+   "title": "5. ｜什么才是AI眼里的好内容？",
+   "path": "GEO系列/5. ｜什么才是AI眼里的好内容？.md",
+   "obj_edit_time": "1767774029",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "H9MPwFlpvioO6okTn8Jcaf3Znke",
+   "obj_token": "SPcbdwKQkoRjmexHTKDcKmtanOd",
+   "type": "docx",
+   "title": "6. ｜Shopify与WordPress 独立站卖家的GEO技术基建指南",
+   "path": "GEO系列/6. ｜Shopify与WordPress 独立站卖家的GEO技术基建指南.md",
+   "obj_edit_time": "1767774045",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "FJBFwNajxiXINJk4B1NcCa63nmd",
+   "obj_token": "JaYLdBQP6oqRWVxGtQVcsBKCnF5",
+   "type": "docx",
+   "title": "GEO硬核技术文章*10 ",
+   "path": "GEO系列/GEO硬核技术文章_10.md",
+   "obj_edit_time": "1767774073",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "UtnrwB3qciIEiVkB6eTcGF2tn1g",
+   "obj_token": "BbeSdHItEofghNxvttccfjISnhc",
+   "type": "docx",
+   "title": "针对AI跨境流量之GEO优化 6个提问",
+   "path": "GEO系列/针对AI跨境流量之GEO优化 6个提问.md",
+   "obj_edit_time": "1767773112",
+   "depth": 1,
+   "parent": "Mi84wQ9xviUlO8kd9ricEWKQnWX"
+  },
+  {
+   "node_token": "JxADwGRtdibYkxkoqWUc3BfZnkc",
+   "obj_token": "V8q1dWs1ZoLAGgxtDb6cNdUXn8b",
+   "type": "docx",
+   "title": "Reddit小报童 付费内容",
+   "path": "Reddit小报童 付费内容.md",
+   "obj_edit_time": "1767781404",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Y3GzwbIF4iN51QkkkqDcPy1ynag",
+   "obj_token": "U8XNdaDLtoqe9axEBwectxmFncD",
+   "type": "docx",
+   "title": "自建 VPS 解决网络问题 副本",
+   "path": "Reddit小报童 付费内容/自建 VPS 解决网络问题 副本.md",
+   "obj_edit_time": "1770344508",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "NYPjwJD5zilyR8krLqvcd1n7nqF",
+   "obj_token": "ZowhdfnjeooiMyxPkHkcI27Kntc",
+   "type": "docx",
+   "title": "用AI浏览器 Comet 玩 Reddit 副本",
+   "path": "Reddit小报童 付费内容/用AI浏览器 Comet 玩 Reddit 副本.md",
+   "obj_edit_time": "1767780238",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "XWFUw5gPUiMdc0kTTpbcOZ1onkh",
+   "obj_token": "N0oCdp4BmoXy07xtC9acMSptn0g",
+   "type": "docx",
+   "title": "Reddit为什么这是你出海的第一站？ 副本",
+   "path": "Reddit小报童 付费内容/Reddit为什么这是你出海的第一站？ 副本.md",
+   "obj_edit_time": "1767780584",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "QSAaw4rMYiWTQEk6WB7cm3m2ngb",
+   "obj_token": "PyuidiH17oIzMqx7yiyczLIYnYe",
+   "type": "docx",
+   "title": "内容技巧 副本",
+   "path": "Reddit小报童 付费内容/内容技巧 副本.md",
+   "obj_edit_time": "1767780605",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "IYtiwPsxmiQVROkmF1NcpGnSnqi",
+   "obj_token": "EFCTdHP7TofgGexbAWFcDYRunKf",
+   "type": "docx",
+   "title": "目录 reddit基础大全 副本",
+   "path": "Reddit小报童 付费内容/目录 reddit基础大全 副本.md",
+   "obj_edit_time": "1768191644",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "Er91wUB9Vihtu9kaAi0cKdgIn1g",
+   "obj_token": "LdrGdEi1CoObwnxPgXzcplmSnCh",
+   "type": "docx",
+   "title": "案例没发 副本",
+   "path": "Reddit小报童 付费内容/案例没发 副本.md",
+   "obj_edit_time": "1767780968",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "BsQGwMPgAiTqevkxWYrcYtTynvc",
+   "obj_token": "ERLodeHbbofN5sxbd1Jc9TSHnCh",
+   "type": "docx",
+   "title": "subreddit 副本",
+   "path": "Reddit小报童 付费内容/subreddit 副本.md",
+   "obj_edit_time": "1767780998",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "XDPLwhGQUit9P9kukvhcpA1NnBh",
+   "obj_token": "LVVod3FSPoZfTpxM7t7ckwOgnMf",
+   "type": "docx",
+   "title": "Reddit的影子禁令 副本",
+   "path": "Reddit小报童 付费内容/Reddit的影子禁令 副本.md",
+   "obj_edit_time": "1767781035",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "LXwywLMyniuHu1kfVdmctITWnwh",
+   "obj_token": "I8LndIq4MoZCQuxCK0JcHzt7nBe",
+   "type": "docx",
+   "title": "reddit的5个品牌 副本",
+   "path": "Reddit小报童 付费内容/reddit的5个品牌 副本.md",
+   "obj_edit_time": "1767781094",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "QemQw4yc3it3ELkyfxBcbh8MnPh",
+   "obj_token": "JN5AdjLWBoFKjuxxIOIccNn0nJb",
+   "type": "docx",
+   "title": "Caliber Reddit广告策略拆解（扩张subreddit） 副本",
+   "path": "Reddit小报童 付费内容/Caliber Reddit广告策略拆解（扩张subreddit） 副本.md",
+   "obj_edit_time": "1767781196",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "LA0DwdItgied9RkFl11cEIXonUb",
+   "obj_token": "M0Fed8mssoayZLxfpr4cxpP8nnd",
+   "type": "docx",
+   "title": "AI 浏览器养 Reddit 副本",
+   "path": "Reddit小报童 付费内容/AI 浏览器养 Reddit 副本.md",
+   "obj_edit_time": "1767781236",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "TUuVwGpYni3JsZk4ZvPcj7iinHb",
+   "obj_token": "D8FddOzfAonOeHxSJMmcaarcnZc",
+   "type": "docx",
+   "title": "ama 副本",
+   "path": "Reddit小报童 付费内容/ama 副本.md",
+   "obj_edit_time": "1767781267",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "OVDzwwOBeiCR1GkSp3mcdtEMnFc",
+   "obj_token": "W12jdVulLoon4Tx4CrDc785GnId",
+   "type": "docx",
+   "title": "小报童快速获取post karma（内含防ai监测提示词） 副本",
+   "path": "Reddit小报童 付费内容/小报童快速获取post karma（内含防ai监测提示词） 副本.md",
+   "obj_edit_time": "1767780352",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "HskpwjFNUicjG2kXTqtc1aFUnuc",
+   "obj_token": "UhuudRBnKoqii0xD8puc1OFqnqA",
+   "type": "docx",
+   "title": "7 【玩法】Reddit需求验证：如何通过互动帖子，验证你的产品想法？ 副本",
+   "path": "Reddit小报童 付费内容/7 【玩法】Reddit需求验证：如何通过互动帖子，验证你的产品想法？ 副本.md",
+   "obj_edit_time": "1767781306",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "KVmZwQR9Ci7QdgkkLivctPeRnbh",
+   "obj_token": "FxI7davP2okmCexlZ3hcxOWBnV1",
+   "type": "docx",
+   "title": "30个pSEO实操技巧：用Excel生成1万个页面，抢夺70%长尾流量 副本",
+   "path": "Reddit小报童 付费内容/30个pSEO实操技巧：用Excel生成1万个页面，抢夺70_长尾流量 副本.md",
+   "obj_edit_time": "1767770971",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "HVrjwtzP7iK4sikRbZjc2oHVnOc",
+   "obj_token": "S97fdTpgdo9bfYxZTEncySVVnDd",
+   "type": "docx",
+   "title": "我用n8n搭了个「Reddit商机雷达」，AI自动挖掘被忽略的真实需求，7x24小时不错过任何风口 副本",
+   "path": "Reddit小报童 付费内容/我用n8n搭了个「Reddit商机雷达」，AI自动挖掘被忽略的真实需求，7x24小时不错过任何风口 副本.md",
+   "obj_edit_time": "1767780399",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "NNPlwJR9hiq914kYXJHc4XMpnzg",
+   "obj_token": "NoZVdQz3HodxAexkUSBcCqzAnDb",
+   "type": "docx",
+   "title": "我用n8n+Scrapeless搭了个「SEO内容引擎」，全自动挖掘高转化选题，解决出海流量难题 副本",
+   "path": "Reddit小报童 付费内容/我用n8n+Scrapeless搭了个「SEO内容引擎」，全自动挖掘高转化选题，解决出海流量难题 副本.md",
+   "obj_edit_time": "1767780448",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "DtO0wGm6Wicp0VkOIezcNbRknwg",
+   "obj_token": "RFhYdJWvgoVPWXx6V6xc63xenLg",
+   "type": "docx",
+   "title": "复盘Pat Walls：一个独立开发者如何用Reddit和SEO撬动千万美金生意？ 副本",
+   "path": "Reddit小报童 付费内容/复盘Pat Walls：一个独立开发者如何用Reddit和SEO撬动千万美金生意？ 副本.md",
+   "obj_edit_time": "1767780746",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "SklDwPYhIi882lkvh7pc1CoEnKg",
+   "obj_token": "Gfe0dVQbGooG94xIkFxcSsh7nIf",
+   "type": "docx",
+   "title": "出海赚美金：用n8n搭建「Reddit商机搜索与洞察」 AI Agent自动化寻找蓝海市场，发现真实痛点 副本",
+   "path": "Reddit小报童 付费内容/出海赚美金：用n8n搭建「Reddit商机搜索与洞察」 AI Agent自动化寻找蓝海市场，发现真实痛点 副本.md",
+   "obj_edit_time": "1767780785",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "PXERwx12KiSWFWk3yAVcnPXpnFh",
+   "obj_token": "NeJvdYZ1EoXnoqxzlROcS6Zfn9f",
+   "type": "docx",
+   "title": "【SOP】Reddit养号实战：3周，从0到高权重的每日任务清单 副本",
+   "path": "Reddit小报童 付费内容/【SOP】Reddit养号实战：3周，从0到高权重的每日任务清单 副本.md",
+   "obj_edit_time": "1767781340",
+   "depth": 1,
+   "parent": "JxADwGRtdibYkxkoqWUc3BfZnkc"
+  },
+  {
+   "node_token": "FpapwzdLtitzqMkTDDMc1CNcnzb",
+   "obj_token": "MkKzd8wxRo6imUxOVQEcg0QknQc",
+   "type": "docx",
+   "title": "VOC学习",
+   "path": "VOC学习.md",
+   "obj_edit_time": "1767781636",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "M9WewAQrlioUtvkjTTVc3d9ZnZc",
+   "obj_token": "QyeOdkQ1ooy4CBxxT5Ec79Zqnlh",
+   "type": "docx",
+   "title": "VOC学习：如何借鉴到Amazon Rufus深度洞察",
+   "path": "VOC学习/VOC学习：如何借鉴到Amazon Rufus深度洞察.md",
+   "obj_edit_time": "1767795533",
+   "depth": 1,
+   "parent": "FpapwzdLtitzqMkTDDMc1CNcnzb"
+  },
+  {
+   "node_token": "Pjv0wIBBti6PWOk51lvcaSirn2e",
+   "obj_token": "Nv13ddEGVoRwrExvuuJc8yjYn2Y",
+   "type": "docx",
+   "title": "Reddit工作 公众号内容",
+   "path": "Reddit工作 公众号内容.md",
+   "obj_edit_time": "1767845344",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Vspjwny11ipix1kKCSZc2pDMnkb",
+   "obj_token": "JufbdtFkRogazLxdi0Bc6uSZnYe",
+   "type": "docx",
+   "title": "个人别做 副本",
+   "path": "Reddit工作 公众号内容/个人别做 副本.md",
+   "obj_edit_time": "1767842625",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "F6UVwTbmaiJNhkkrUXYcsLxBnbb",
+   "obj_token": "GnuBdp2OTo3tYbxMaJTceDsEnyd",
+   "type": "docx",
+   "title": "买号 副本",
+   "path": "Reddit工作 公众号内容/买号 副本.md",
+   "obj_edit_time": "1767843313",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "I2iCw5EBViO6kdkp0y0cHviEnWh",
+   "obj_token": "ZZtsdH25Ko7NupxS3VycDQBnnzd",
+   "type": "docx",
+   "title": "投影仪 副本",
+   "path": "Reddit工作 公众号内容/投影仪 副本.md",
+   "obj_edit_time": "1767844139",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "HwSOwdPyDiMDDOkNlEZcFybbnXc",
+   "obj_token": "FG9cdJufwoWdUFx7sauczTqhnQb",
+   "type": "docx",
+   "title": "学会提问，是成年人最高级的社交能力 副本",
+   "path": "Reddit工作 公众号内容/学会提问，是成年人最高级的社交能力 副本.md",
+   "obj_edit_time": "1767844977",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "VXB3wy5slinaF0kO8AHcICoHnaf",
+   "obj_token": "ZAK3d5jXdoxhwfxADTociXW4nfb",
+   "type": "docx",
+   "title": "转行 副本",
+   "path": "Reddit工作 公众号内容/转行 副本.md",
+   "obj_edit_time": "1767845132",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "OrGywSAwVi01mTkmsU0cn9c2nFF",
+   "obj_token": "AIzidp5sfol3SUxdvemcYLRnnOe",
+   "type": "docx",
+   "title": "准备离职单干的跨境人，先回答一个要命的问题 副本",
+   "path": "Reddit工作 公众号内容/准备离职单干的跨境人，先回答一个要命的问题 副本.md",
+   "obj_edit_time": "1767845177",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "JrjAwT8qViXTNAkJQ0NcuEesn9b",
+   "obj_token": "QljFdDb0joQv7pxRinpcj26Gnae",
+   "type": "docx",
+   "title": "最近总有人问我怎么做Reddit，我一般先甩给他这5个问题 副本",
+   "path": "Reddit工作 公众号内容/最近总有人问我怎么做Reddit，我一般先甩给他这5个问题 副本.md",
+   "obj_edit_time": "1767845259",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "QNezwvGwYio8sqkGRNpcTyVEn9e",
+   "obj_token": "LSJed9IMiorY0PxEpSFcyDHBn6e",
+   "type": "docx",
+   "title": "【SOP】AI打造Listing & Rufus全解析- Part 1 20251218重写 副本",
+   "path": "Reddit工作 公众号内容/【SOP】AI打造Listing & Rufus全解析- Part 1 20251218重写 副本.md",
+   "obj_edit_time": "1785405068",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "HZHIwsBztifEmukxNR0cFnHYnxg",
+   "obj_token": "UiM7dZ3hCoex8YxbD4Lc3pDyn9d",
+   "type": "docx",
+   "title": "公众号排版提示词 副本",
+   "path": "Reddit工作 公众号内容/公众号排版提示词 副本.md",
+   "obj_edit_time": "1767842682",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "FZN1wkhJhiEI6AkCp0ocjobznMh",
+   "obj_token": "NnVFdgogYopmDIxTqHOcBOKinie",
+   "type": "docx",
+   "title": "空气炸锅 副本",
+   "path": "Reddit工作 公众号内容/空气炸锅 副本.md",
+   "obj_edit_time": "1767842944",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "Di1VwYRMLiJsgxkHeG8cDuahn8c",
+   "obj_token": "QTRldZ8wqolBUDxRhNYcviGinjg",
+   "type": "docx",
+   "title": "刘润2025 副本",
+   "path": "Reddit工作 公众号内容/刘润2025 副本.md",
+   "obj_edit_time": "1767843260",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "C1mYwXyIliKhVAks1cQck55znUe",
+   "obj_token": "OsWfdr5Euood1AxacSYc0WmFnRd",
+   "type": "docx",
+   "title": "妈妈测试 副本",
+   "path": "Reddit工作 公众号内容/妈妈测试 副本.md",
+   "obj_edit_time": "1767843290",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "WygLwZzC7ipDlmkA22pc09brnLe",
+   "obj_token": "NOaBdLAwDoNzO8x1zIAcWHjbnxd",
+   "type": "docx",
+   "title": "扫地机在Reddit营销三步走 副本",
+   "path": "Reddit工作 公众号内容/扫地机在Reddit营销三步走 副本.md",
+   "obj_edit_time": "1767843666",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "IQvZwi2apih7pQkTJkYcNPIQnEb",
+   "obj_token": "HMYTdxG9boucyExmMUScpVg0nFf",
+   "type": "docx",
+   "title": "什么人一打眼，就知道工作能力很强的运营 副本",
+   "path": "Reddit工作 公众号内容/什么人一打眼，就知道工作能力很强的运营 副本.md",
+   "obj_edit_time": "1767843933",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "LUWdwbRG2iTQfSkTItBcbPQanUd",
+   "obj_token": "VvLIdCPsfodZ8FxeXPecl18Qnsg",
+   "type": "docx",
+   "title": "世界上一个巨大的草台班子 副本",
+   "path": "Reddit工作 公众号内容/世界上一个巨大的草台班子 副本.md",
+   "obj_edit_time": "1767844072",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "FSn1wuZMHi0Xbskeqb2cj1XRnHe",
+   "obj_token": "QYdHdXvGao2KY2xBHUqcBQKHnYf",
+   "type": "docx",
+   "title": "我们如何在3周内，为新的SaaS产品创造12万美元的收入？ 副本",
+   "path": "Reddit工作 公众号内容/我们如何在3周内，为新的SaaS产品创造12万美元的收入？ 副本.md",
+   "obj_edit_time": "1767844821",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "U0gXwk2WpieUCZkynYmc53gFnUe",
+   "obj_token": "SXCWdkX9goUXGWxThbWcnyednUh",
+   "type": "docx",
+   "title": "我总结了4个骚操作，能让你下一场Reddit AMA效果翻10倍 副本",
+   "path": "Reddit工作 公众号内容/我总结了4个骚操作，能让你下一场Reddit AMA效果翻10倍 副本.md",
+   "obj_edit_time": "1767844863",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "PKItwnhuHikQz2kbJrjchHSAnOW",
+   "obj_token": "T2qfdqRvtog3qTxC6npcenaNnAd",
+   "type": "docx",
+   "title": "亚马逊增长停滞？用AI守住老业务，Reddit寻找新蓝海 副本",
+   "path": "Reddit工作 公众号内容/亚马逊增长停滞？用AI守住老业务，Reddit寻找新蓝海 副本.md",
+   "obj_edit_time": "1767845041",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "SbbHwLL9miai4Nk2jYkcUGp6ncg",
+   "obj_token": "OXFUdtTMGoAe7axAT7Zcxus9nwg",
+   "type": "docx",
+   "title": "卖家-AI驱动亚马逊选品提效和业务增长（含产品调研报告和市场洞察报告案例） 副本",
+   "path": "Reddit工作 公众号内容/卖家-AI驱动亚马逊选品提效和业务增长（含产品调研报告和市场洞察报告案例） 副本.md",
+   "obj_edit_time": "1771484861",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "U8dMwmg4citeROkkLr3ckahCnPg",
+   "obj_token": "XK4TdrW4ZoX0cPxrXqyc4YBxn1d",
+   "type": "docx",
+   "title": "公平逼走你团队里最优秀的人 副本",
+   "path": "Reddit工作 公众号内容/公平逼走你团队里最优秀的人 副本.md",
+   "obj_edit_time": "1767842657",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "IBUsw5h6Wik1ikkw37pcdHeunSB",
+   "obj_token": "AtSgdHrLZosPYGxnzXncxKiZntc",
+   "type": "docx",
+   "title": "关于汽车诊断仪品类的Reddit用户生态复盘 副本",
+   "path": "Reddit工作 公众号内容/关于汽车诊断仪品类的Reddit用户生态复盘 副本.md",
+   "obj_edit_time": "1767842721",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "KVhewHcDSiGdMtkVvU0cUe8UnDg",
+   "obj_token": "X76cdfd0noZBLoxkJRUceErXnTf",
+   "type": "docx",
+   "title": "关于智能猫砂盆的Reddit营销复盘及策略备忘 副本",
+   "path": "Reddit工作 公众号内容/关于智能猫砂盆的Reddit营销复盘及策略备忘 副本.md",
+   "obj_edit_time": "1767842759",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "Oq90wAYUTi4sVbkCSfIcCG5gnMf",
+   "obj_token": "BxVCdeDVhol1jTx0YBEc88Svnbs",
+   "type": "docx",
+   "title": "聊聊Programmatic SEO：一种规模化获取长尾流量的系统性打法 副本",
+   "path": "Reddit工作 公众号内容/聊聊Programmatic SEO：一种规模化获取长尾流量的系统性打法 副本.md",
+   "obj_edit_time": "1767843030",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "TY8DwLTv5ipcg9kIW15c1Nc7nyb",
+   "obj_token": "Lydsdeq23ooPcdxaoOGckeminrf",
+   "type": "docx",
+   "title": "聊聊谷歌的小动作：砍掉100条搜索结果，SEO圈要变天了？ 副本",
+   "path": "Reddit工作 公众号内容/聊聊谷歌的小动作：砍掉100条搜索结果，SEO圈要变天了？ 副本.md",
+   "obj_edit_time": "1767843134",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "XvLgwYQRRiBM3Rk7Shec5QQ6nVh",
+   "obj_token": "Ko5xd3gKuolILZxq1Cjch6ninib",
+   "type": "docx",
+   "title": "聊聊跨境市场部：如何用AI，自动搞定亚马逊用户洞察？ 副本",
+   "path": "Reddit工作 公众号内容/聊聊跨境市场部：如何用AI，自动搞定亚马逊用户洞察？ 副本.md",
+   "obj_edit_time": "1769508146",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "Tewjwwdrpif43nk2YOdcNpRunhh",
+   "obj_token": "Imkxdd9BjoLrSoxh21BcyXj1n6b",
+   "type": "docx",
+   "title": "聊聊找Co-founder：越用力，越得不到 副本",
+   "path": "Reddit工作 公众号内容/聊聊找Co-founder：越用力，越得不到 副本.md",
+   "obj_edit_time": "1767843214",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "J1C7wM1A7inRfQk4Owmceev2n2Z",
+   "obj_token": "CKHpdV45woZ5nOxjvftc2PManYf",
+   "type": "docx",
+   "title": "你的海外推广经验正在杀死你的成长 副本",
+   "path": "Reddit工作 公众号内容/你的海外推广经验正在杀死你的成长 副本.md",
+   "obj_edit_time": "1767843339",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "ZiLfwkEqRiYIVskoYe8cGYUknmh",
+   "obj_token": "TepxdlmvNoqQqlxTIGZcDPRyncf",
+   "type": "docx",
+   "title": "品牌必须改变,要想做GEO，reddit一定是重点 副本",
+   "path": "Reddit工作 公众号内容/品牌必须改变,要想做GEO，reddit一定是重点 副本.md",
+   "obj_edit_time": "1767843399",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "O23mwrC18i07PBkR4mLcdJEHnMf",
+   "obj_token": "WtqHdHy3io2ihrxrMJjcEqe6nCh",
+   "type": "docx",
+   "title": "品牌在海外社区名声差，怎么用Reddit来做好评舆情 副本",
+   "path": "Reddit工作 公众号内容/品牌在海外社区名声差，怎么用Reddit来做好评舆情 副本.md",
+   "obj_edit_time": "1767843440",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "MCksw1yU4iEXYIkioRfcDO4Jnbb",
+   "obj_token": "VFkBdL1tyoGk1GxWXhPcY0P3nqb",
+   "type": "docx",
+   "title": "如何在reddit做好内容营销，获得百万曝光 副本",
+   "path": "Reddit工作 公众号内容/如何在reddit做好内容营销，获得百万曝光 副本.md",
+   "obj_edit_time": "1767843601",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "Jv4rwLBE4i3oy9kQR8GcuEymnfd",
+   "obj_token": "JkMkdTnU3oJpHNxl0e8c3tMTngb",
+   "type": "docx",
+   "title": "上周聊了几百个跨境老板，我才发现 2026 年最大的坑在哪里 副本",
+   "path": "Reddit工作 公众号内容/上周聊了几百个跨境老板，我才发现 2026 年最大的坑在哪里 副本.md",
+   "obj_edit_time": "1767843701",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "EYJAwVDm8iRJ04kRxu3cHIkNn7b",
+   "obj_token": "LPszdEqwjoftHUxSzHZc2wpenWd",
+   "type": "docx",
+   "title": "上周聊了几百个跨境老板，我才发现 2026 年最大的坑在哪里 副本",
+   "path": "Reddit工作 公众号内容/上周聊了几百个跨境老板，我才发现 2026 年最大的坑在哪里 副本_2.md",
+   "obj_edit_time": "1767843780",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "NqWcwLh8TixdjRkWYmOcVyV7nVh",
+   "obj_token": "G4Pjd0VGko2w4VxPVJNcjtPqnbb",
+   "type": "docx",
+   "title": "未来5-10年，搞跨境的营销人，怎么才不会被淘汰？ 副本",
+   "path": "Reddit工作 公众号内容/未来5-10年，搞跨境的营销人，怎么才不会被淘汰？ 副本.md",
+   "obj_edit_time": "1767844377",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "WzXdwbM5lircBNkQQZgcFfcjnMh",
+   "obj_token": "NYj9dD81WozS6OxxJflcFmkknCc",
+   "type": "docx",
+   "title": "我扒了扒Reddit那篇出色的AMA，这是我的复盘笔记 副本",
+   "path": "Reddit工作 公众号内容/我扒了扒Reddit那篇出色的AMA，这是我的复盘笔记 副本.md",
+   "obj_edit_time": "1767844497",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "VkOVw4vXgilqWtkMEULce0sDnsf",
+   "obj_token": "SMjLdeOeFo6Hb8xwdEMcIjhynfe",
+   "type": "docx",
+   "title": "产品册  副本",
+   "path": "Reddit工作 公众号内容/产品册  副本.md",
+   "obj_edit_time": "1767780940",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "P8qXw8H9niXFYtk4blkcT2XWnUg",
+   "obj_token": "NDEXdZwg9oo6i1xzUIicoR6sn0g",
+   "type": "docx",
+   "title": "7.31 副本",
+   "path": "Reddit工作 公众号内容/7.31 副本.md",
+   "obj_edit_time": "1767782024",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "Don0wYp1gi72ltkqIqEcGtd0nhy",
+   "obj_token": "YKHgdGGBUov1Zax6brlcA2zsnnc",
+   "type": "docx",
+   "title": "Cecilia 副本",
+   "path": "Reddit工作 公众号内容/Cecilia 副本.md",
+   "obj_edit_time": "1767782166",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "B25AwCGQTifZOXkUC6tcie8In1C",
+   "obj_token": "FLxSddI2MoSiNqxn9OccTSSsnhe",
+   "type": "docx",
+   "title": "复盘 副本",
+   "path": "Reddit工作 公众号内容/复盘 副本.md",
+   "obj_edit_time": "1767783110",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "JzGLwrK6biBK8wkv1y8cLvZ6n6g",
+   "obj_token": "ViSEduDAgoYpkax3divckyUHnYb",
+   "type": "docx",
+   "title": "为什么我最近坚持要使用reddit做GEO？（如何提高GEO收录） 副本",
+   "path": "Reddit工作 公众号内容/为什么我最近坚持要使用reddit做GEO？（如何提高GEO收录） 副本.md",
+   "obj_edit_time": "1767844194",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "KP2qwONQUiPSvFkLo4fciNebnbd",
+   "obj_token": "FmvFdXuBbo6EiXx2EQUc72GYn4c",
+   "type": "docx",
+   "title": "geo 副本生成式引擎优化（GEO）",
+   "path": "Reddit工作 公众号内容/geo 副本生成式引擎优化（GEO）.md",
+   "obj_edit_time": "1767793024",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "JnIVwEA5AiowGpkJoXbcXayKnWd",
+   "obj_token": "A2mNdPavromNidxPQCJcmNJgnZf",
+   "type": "docx",
+   "title": "Geo 优化（未发 副本",
+   "path": "Reddit工作 公众号内容/Geo 优化（未发 副本.md",
+   "obj_edit_time": "1767792881",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "JXRtwF08YikvQekXZ91cAnYFnFg",
+   "obj_token": "MYJ6dushRo0TSrxd1ImcVdZFnZg",
+   "type": "docx",
+   "title": "保健品 副本",
+   "path": "Reddit工作 公众号内容/保健品 副本.md",
+   "obj_edit_time": "1767782695",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "QtDqwT35Hi37OrkdgdNciEgjn1g",
+   "obj_token": "VLbDdRInoooNdPxwiAkcRj11nac",
+   "type": "docx",
+   "title": "我看了Reddit的goodvalue社区一周，这是他们2025年的10个品牌红黑榜。 副本",
+   "path": "Reddit工作 公众号内容/我看了Reddit的goodvalue社区一周，这是他们2025年的10个品牌红黑榜。 副本.md",
+   "obj_edit_time": "1767844690",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "KXR5w5nU2iI256kix6ZcSOlYn9d",
+   "obj_token": "FZAisiw2jh6usct8ukzccB3Jnxf",
+   "type": "sheet",
+   "title": "reddit账号 副本",
+   "path": "Reddit工作 公众号内容/reddit账号 副本.xlsx",
+   "obj_edit_time": "1767781064",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "TofNwA2B1irJNKkkM8tczGIHnJ3",
+   "obj_token": "Mju1bdDkhaYrsgsglxWclq8gnmb",
+   "type": "bitable",
+   "title": "reddit_ai_marketing_cases 副本",
+   "path": "Reddit工作 公众号内容/reddit_ai_marketing_cases 副本.xlsx",
+   "obj_edit_time": "1767781779",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "PRSFwV1WUi8b8PkxKp6cPU2OnAg",
+   "obj_token": "ZWOndjK7OonH9bxAy5acDxOFnqc",
+   "type": "docx",
+   "title": "深度复盘Pat Walls：一个程序员，如何靠Reddit和SEO，把副业干到月入8万美金？ 副本",
+   "path": "Reddit工作 公众号内容/深度复盘Pat Walls：一个程序员，如何靠Reddit和SEO，把副业干到月入8万美金？ 副本.md",
+   "obj_edit_time": "1767843890",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "TtWXw7BLiiiXMIku6qTcoCqHn7e",
+   "obj_token": "Ll9Eb6UA9asNNTsPddkcBxkuntc",
+   "type": "bitable",
+   "title": "reddit_ai_marketing_cases 副本ALL",
+   "path": "Reddit工作 公众号内容/reddit_ai_marketing_cases 副本ALL.xlsx",
+   "obj_edit_time": "1767781793",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "H4PYw1UlFit509kQFTccAxW1n7d",
+   "obj_token": "WU7kdb3uZoT9mZx9nFecQPV6n3c",
+   "type": "docx",
+   "title": "提示词 副本",
+   "path": "Reddit工作 公众号内容/提示词 副本.md",
+   "obj_edit_time": "1767781856",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "QLu5webvvigdTXkIlOGcpoDSnDC",
+   "obj_token": "DzvTdlD83o4THyxPzG8cVdnLnCe",
+   "type": "docx",
+   "title": "2025营销岗位 副本",
+   "path": "Reddit工作 公众号内容/2025营销岗位 副本.md",
+   "obj_edit_time": "1767782052",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "KEX4wMdyKinm4vkd7tYcfWu9nfd",
+   "obj_token": "NqrGdr3ENo3ax8xRpzbcpwjEn0g",
+   "type": "docx",
+   "title": "ai宠物硬件复盘 副本",
+   "path": "Reddit工作 公众号内容/ai宠物硬件复盘 副本.md",
+   "obj_edit_time": "1767782077",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "NPJ7wzUTNihrFJkRYPDcYgudnzg",
+   "obj_token": "XkKIdo8pzovZFKxxLhTcmRtKnso",
+   "type": "docx",
+   "title": "b2b服装 副本",
+   "path": "Reddit工作 公众号内容/b2b服装 副本.md",
+   "obj_edit_time": "1767782138",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "QFPKw5RTwiymgSknGjPcTEVhngb",
+   "obj_token": "QqjQd6e6aoQRNIxUbJEcZd7gnyc",
+   "type": "docx",
+   "title": "ebike 副本",
+   "path": "Reddit工作 公众号内容/ebike 副本.md",
+   "obj_edit_time": "1767782202",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "CtqtwuCxmik6tik42L0cYxCknbg",
+   "obj_token": "FNL6dKQYMo7DsLxiFrsctxScnfc",
+   "type": "docx",
+   "title": "reddit  + GEO 文章sop 副本",
+   "path": "Reddit工作 公众号内容/reddit  + GEO 文章sop 副本.md",
+   "obj_edit_time": "1767791993",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "Tq2YwsL91iJRH8k55MGccK7wnzb",
+   "obj_token": "WMKidNUYco2f5fxn1gwc9uv5nng",
+   "type": "docx",
+   "title": "reddit广告（未发 副本",
+   "path": "Reddit工作 公众号内容/reddit广告（未发 副本.md",
+   "obj_edit_time": "1767782535",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "SaLuwwSAgihBkGkZz6Bcf8o0nch",
+   "obj_token": "IQLydmzBCoKiYcxOjDPcqLYwnZd",
+   "type": "docx",
+   "title": "reddit推广案例 副本",
+   "path": "Reddit工作 公众号内容/reddit推广案例 副本.md",
+   "obj_edit_time": "1767782575",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "Kymow9pwXi181RkA2pncM5eYnNb",
+   "obj_token": "ES38dZPo9oLqc4xvfLkc7JGEnhb",
+   "type": "docx",
+   "title": "出海人面试 副本",
+   "path": "Reddit工作 公众号内容/出海人面试 副本.md",
+   "obj_edit_time": "1767782847",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "OdmhwEufZirQwKkPQ4ncG79DnyS",
+   "obj_token": "EuuAdHBwMoJwl0xfAW7cE4rInhg",
+   "type": "docx",
+   "title": "今天要做一款新产品，第一步是什么？（99%的人都搞错了） 副本",
+   "path": "Reddit工作 公众号内容/今天要做一款新产品，第一步是什么？（99_的人都搞错了） 副本.md",
+   "obj_edit_time": "1767842900",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "V9KdwTt2EibuqHkbb5MccSABnvc",
+   "obj_token": "ZthKdec0cocGiNx0FU3cxo1NnVb",
+   "type": "docx",
+   "title": "聊聊出海打工人：为什么90%的大神，创业一段时间后又回去上班了？ 副本",
+   "path": "Reddit工作 公众号内容/聊聊出海打工人：为什么90_的大神，创业一段时间后又回去上班了？ 副本.md",
+   "obj_edit_time": "1767843072",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "UA7Awex1KiMlBMkYL1ScinKgnAg",
+   "obj_token": "B2upd4xNco0ULYxINQbcA3GKnof",
+   "type": "docx",
+   "title": "如何从基础岗转到管理岗/操盘手岗位的处于这个瓶颈期的运营 副本",
+   "path": "Reddit工作 公众号内容/如何从基础岗转到管理岗_操盘手岗位的处于这个瓶颈期的运营 副本.md",
+   "obj_edit_time": "1767843462",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "TY2owOWSpic1kwkG6vpcoWTPnad",
+   "obj_token": "QtHZd5HXVoI5LSxxWigcFiBkn2Y",
+   "type": "docx",
+   "title": "我的副业从一个 reddit 帖子中赚了 2000 多美元 - 这是我所做的。 副本",
+   "path": "Reddit工作 公众号内容/我的副业从一个 reddit 帖子中赚了 2000 多美元 - 这是我所做的。 副本.md",
+   "obj_edit_time": "1767780489",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "GkBtwLhtWihYLqk22ZFcUs2Unxe",
+   "obj_token": "TzkUdlRTHoTg0Rx9kVcc48pxnbe",
+   "type": "docx",
+   "title": "11天狂揽17.3万浏览，50+精准询盘！我拆解了这个Reddit“人性流”增长案例 副本",
+   "path": "Reddit工作 公众号内容/11天狂揽17.3万浏览，50+精准询盘！我拆解了这个Reddit“人性流”增长案例 副本.md",
+   "obj_edit_time": "1767781746",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "XNxIwAqIdif1EMkuOcWc4fypnEd",
+   "obj_token": "LNmldAjxxoKeCrx59jZcIZlynbb",
+   "type": "docx",
+   "title": "【出海选品指南】分享一下如何用三个步骤去reddit偷听用户需求 副本",
+   "path": "Reddit工作 公众号内容/【出海选品指南】分享一下如何用三个步骤去reddit偷听用户需求 副本.md",
+   "obj_edit_time": "1767781927",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "NJPfwTa8Gif8a1k0NZZcjAphnNd",
+   "obj_token": "JbFCdv5s6oHRAoxwaWCcdPljnvd",
+   "type": "docx",
+   "title": "AI marketer已经出现，一人市场部是常态？ 副本",
+   "path": "Reddit工作 公众号内容/AI marketer已经出现，一人市场部是常态？ 副本.md",
+   "obj_edit_time": "1767782106",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "OVpowzrbjiVblHkYgd2cadknnch",
+   "obj_token": "IwEddlCNbouv9Kx83VNc93Oanyd",
+   "type": "docx",
+   "title": "公众号排版提示词 副本",
+   "path": "Reddit工作 公众号内容/公众号排版提示词 副本_2.md",
+   "obj_edit_time": "1767782430",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "KRgSwzGiEiQ5fdkm0nfcuLHKnoc",
+   "obj_token": "XO83dyaY8oTnRsxfaqCcybopngk",
+   "type": "docx",
+   "title": "reddit的账号老是被移除（未发） 副本",
+   "path": "Reddit工作 公众号内容/reddit的账号老是被移除（未发） 副本.md",
+   "obj_edit_time": "1767782495",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "ZRpDwtupKiRJpSkAu7uc8InKnke",
+   "obj_token": "F7DRdlKelohHRoxT4mycGMiSnId",
+   "type": "docx",
+   "title": "Redddit  和seo 副本",
+   "path": "Reddit工作 公众号内容/Redddit  和seo 副本.md",
+   "obj_edit_time": "1767782619",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "PrfBwDejVi8ZbBkZo46cpqyNncd",
+   "obj_token": "MLmCdAhx9or4YUxZgavcYXJhnwf",
+   "type": "docx",
+   "title": "Reddit新手 账号异常？自查 Shadowban 与恢复策略 副本",
+   "path": "Reddit工作 公众号内容/Reddit新手 账号异常？自查 Shadowban 与恢复策略 副本.md",
+   "obj_edit_time": "1767782658",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "WkklwHnbGiliajkuKVWcPqjvnnc",
+   "obj_token": "Yotud3LgloVqXyxTZjKcJbt2nYb",
+   "type": "docx",
+   "title": "产品介绍 副本",
+   "path": "Reddit工作 公众号内容/产品介绍 副本.md",
+   "obj_edit_time": "1767782724",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "DXMvwzyVaifhJakIF0JcGSHqn5d",
+   "obj_token": "SkrJdue1So4VkTxhkpEcniDGn5e",
+   "type": "docx",
+   "title": "出海必读：用Reddit搞定扫地机器人营销（附选品洞察与内容模板） 副本",
+   "path": "Reddit工作 公众号内容/出海必读：用Reddit搞定扫地机器人营销（附选品洞察与内容模板） 副本.md",
+   "obj_edit_time": "1767782769",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "KF4wwuzeai7RWfkzBojcpSQYnYg",
+   "obj_token": "DaeLdA95soCAOkxeZv0cwJzInPb",
+   "type": "docx",
+   "title": "出海独立站必须建业务模型 副本",
+   "path": "Reddit工作 公众号内容/出海独立站必须建业务模型 副本.md",
+   "obj_edit_time": "1767782804",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "NWopw5EkUicQuRk236Sc5BCKnCh",
+   "obj_token": "ClCHdOe1NoO2LmxLtJDc7UDHnFd",
+   "type": "docx",
+   "title": "出海营销人还有90%的人没用过agent 副本",
+   "path": "Reddit工作 公众号内容/出海营销人还有90_的人没用过agent 副本.md",
+   "obj_edit_time": "1767782885",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "NKi8wt3emiVPXokdknXcgFhnnFc",
+   "obj_token": "ORgsdkEDwoX39mxKtPcc7seVnKh",
+   "type": "docx",
+   "title": "从潜水到启航：如何在垂直社群 r/blindcats 中发掘下一个“爆款”宠物产品 副本",
+   "path": "Reddit工作 公众号内容/从潜水到启航：如何在垂直社群 r_blindcats 中发掘下一个“爆款”宠物产品 副本.md",
+   "obj_edit_time": "1767782925",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "PN3VwbTtoiYNMxkmpazcwaj8nvg",
+   "obj_token": "Q8CddD09joExCNxUfZFcQRqYnJf",
+   "type": "docx",
+   "title": "第一个在Reddit上寻找美国本地宠物用户和分销商的一定是个天才（如何利用reddit启动本地化营销） 副本",
+   "path": "Reddit工作 公众号内容/第一个在Reddit上寻找美国本地宠物用户和分销商的一定是个天才（如何利用reddit启动本地化营销） 副本.md",
+   "obj_edit_time": "1767782963",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "OacZwy6Y2iVsmfkprtgcTX5Znlh",
+   "obj_token": "Ujjod2zgcotO9Nxdx5IcR5synUg",
+   "type": "docx",
+   "title": "对不起，只会用AI的营销人，未来不值钱。 副本",
+   "path": "Reddit工作 公众号内容/对不起，只会用AI的营销人，未来不值钱。 副本.md",
+   "obj_edit_time": "1767783000",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "RJ0lwsD3uiMeSXkmlvDclQO4nie",
+   "obj_token": "P3ixdCaxKo3oihxf8D5c7fzjn1f",
+   "type": "docx",
+   "title": "分析落地页 副本",
+   "path": "Reddit工作 公众号内容/分析落地页 副本.md",
+   "obj_edit_time": "1767783048",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "VJcMwPwvbibZNwkC2Nxcnx3tnId",
+   "obj_token": "E28JdlaTvokqvnxeEovcU4VJnfc",
+   "type": "docx",
+   "title": "深度拆解Reddit机械键盘圈：为什么你的“网红键盘”，正在被用户喷“又吵又难用”？ 副本",
+   "path": "Reddit工作 公众号内容/深度拆解Reddit机械键盘圈：为什么你的“网红键盘”，正在被用户喷“又吵又难用”？ 副本.md",
+   "obj_edit_time": "1767843834",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "KCGOwxuw8i0utgkxxLacDTAznwh",
+   "obj_token": "TG7idxOR1oUWhzxHPiNc3uprnDg",
+   "type": "docx",
+   "title": "时隔多年再玩Etsy，我发现这个平台的脾气还是这么怪【Etsy避坑指南】为什么说在这个平台，爆单比没单更危险 副本",
+   "path": "Reddit工作 公众号内容/时隔多年再玩Etsy，我发现这个平台的脾气还是这么怪【Etsy避坑指南】为什么说在这个平台，爆单比没单更危险 副本.md",
+   "obj_edit_time": "1767843973",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "E4agwOHq4iHqBHk3yddcN3PonTc",
+   "obj_token": "K9SMdpTPco6a7Dx3mBwcJF1MnAh",
+   "type": "docx",
+   "title": "同样是美通社渠道，为什么价格能差一倍？建议所有海外品牌推广看一下，看完应该能省一半新闻稿预算 副本",
+   "path": "Reddit工作 公众号内容/同样是美通社渠道，为什么价格能差一倍？建议所有海外品牌推广看一下，看完应该能省一半新闻稿预算 副本.md",
+   "obj_edit_time": "1767844102",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "PsbXwaJksiE1rpkND5BctOHXnNc",
+   "obj_token": "KAtKdmMbDo3fwZxD7SXc9oO8nEh",
+   "type": "docx",
+   "title": "出海搞SaaS？别再瞎投广告了，先去Reddit“偷听”你的用户在骂什么?未命名文档 副本",
+   "path": "Reddit工作 公众号内容/出海搞SaaS？别再瞎投广告了，先去Reddit“偷听”你的用户在骂什么_未命名文档 副本.md",
+   "obj_edit_time": "1767844463",
+   "depth": 1,
+   "parent": "Pjv0wIBBti6PWOk51lvcaSirn2e"
+  },
+  {
+   "node_token": "RSj3wDzisi1ya4kNrw3c21i3npc",
+   "obj_token": "PWOpdS2ZvoA9LqxCqXZcQQoynwf",
+   "type": "docx",
+   "title": "Reddit知识库内容",
+   "path": "Reddit知识库内容.md",
+   "obj_edit_time": "1767846029",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "QzZhwknBniZjA7kJOubcTvWxncg",
+   "obj_token": "LrgldjB6ioBFNtxhhP2cg3GbnFh",
+   "type": "docx",
+   "title": "Reddit提示词 副本",
+   "path": "Reddit知识库内容/Reddit提示词 副本.md",
+   "obj_edit_time": "1767845880",
+   "depth": 1,
+   "parent": "RSj3wDzisi1ya4kNrw3c21i3npc"
+  },
+  {
+   "node_token": "QAQnwognxiaIZWk91ICcmjZon7d",
+   "obj_token": "VjTRdxJWOoa2ThxTGa2ck0hWnfh",
+   "type": "docx",
+   "title": "营销案例 副本",
+   "path": "Reddit知识库内容/营销案例 副本.md",
+   "obj_edit_time": "1767845075",
+   "depth": 1,
+   "parent": "RSj3wDzisi1ya4kNrw3c21i3npc"
+  },
+  {
+   "node_token": "D83UwRnmdiM0x8kyBhZcrtxDnOe",
+   "obj_token": "Ruf0sj8tkhQGMQtLBgLciKuTnUd",
+   "type": "sheet",
+   "title": "reddit资源 副本Reddit知识库内容",
+   "path": "Reddit知识库内容/reddit资源 副本Reddit知识库内容.xlsx",
+   "obj_edit_time": "1767845744",
+   "depth": 1,
+   "parent": "RSj3wDzisi1ya4kNrw3c21i3npc"
+  },
+  {
+   "node_token": "WV3wwLYBZiRh93kwsHkcKRzHnVG",
+   "obj_token": "BZPpdqh3ZoVsltxd9N7cICHgnTS",
+   "type": "docx",
+   "title": "出海",
+   "path": "出海.md",
+   "obj_edit_time": "1767864600",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "HRRhwrTzIi66SDkN5BRcqKB7nTe",
+   "obj_token": "MEc3dHGiPoy3PuxM1HkcjA0MnSd",
+   "type": "docx",
+   "title": "实习日志 副本NGS-流量获客",
+   "path": "出海/实习日志 副本NGS-流量获客.md",
+   "obj_edit_time": "1767863673",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "V5rLwMOCeiOcRikh5tecsexgnrb",
+   "obj_token": "DLgzdINCcogaw1xZ8DrciF7Enwg",
+   "type": "docx",
+   "title": "hoorri 副本 NGS-流量获客",
+   "path": "出海/hoorri 副本 NGS-流量获客.md",
+   "obj_edit_time": "1767863841",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "KG3ewqr3Di9w2Yk2xWecjKf4nqf",
+   "obj_token": "LuEVdSiWboqnYqxZJnLckJLbnEg",
+   "type": "docx",
+   "title": "核心团队养号内容 副本NGS-流量获客 hoorii",
+   "path": "出海/核心团队养号内容 副本NGS-流量获客 hoorii.md",
+   "obj_edit_time": "1767863986",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "GKaXw9sVmiXFlVkXRgIc6CS1nac",
+   "obj_token": "Seycd0Vpno8EeSxUNF2cA9Qbnbf",
+   "type": "docx",
+   "title": "创始人选题 副本NGS-流量获客 hoorii",
+   "path": "出海/创始人选题 副本NGS-流量获客 hoorii.md",
+   "obj_edit_time": "1767864139",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "GcSFwvCmHivpoykD6Racb7BanWh",
+   "obj_token": "OYKadBBf4ohyTmxg8uEccGusnWc",
+   "type": "docx",
+   "title": "HooRii 评论区互动 副本NGS-流量获客 HooRii",
+   "path": "出海/HooRii 评论区互动 副本NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864184",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "MXCawUUNliqvhSkAG4fciJiUnub",
+   "obj_token": "CLl3dBY2joDPV6xNHlScnD7onB9",
+   "type": "docx",
+   "title": "HooRii 非测评贴 副本 NGS-流量获客 HooRii",
+   "path": "出海/HooRii 非测评贴 副本 NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864213",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "K5uEw1GJdic7gmkrO5ic7P6Gn7c",
+   "obj_token": "EAXUdFzEAocynaxMvevcxkPrn2f",
+   "type": "docx",
+   "title": "Hoorii选题 副本NGS-流量获客 HooRii",
+   "path": "出海/Hoorii选题 副本NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864239",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "AfZrw2U9ziqt7OkG5wScnyTyndg",
+   "obj_token": "LteWdQFosol899xBd6GcMyamndg",
+   "type": "docx",
+   "title": "Hoorii产品调研 副本NGS-流量获客 HooRii",
+   "path": "出海/Hoorii产品调研 副本NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864270",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "P2xZw3rSOiUpUtk8EgqcDZzVnLg",
+   "obj_token": "JRkMdL81noUGE3xCXg4ctf2vn5g",
+   "type": "docx",
+   "title": "Hoorii 创始人账号 副本 NGS-流量获客 HooRii",
+   "path": "出海/Hoorii 创始人账号 副本 NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864299",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "X5IpwHW1YiGUivkcQhwcUzzNn8e",
+   "obj_token": "IzN6diLpwo1SfdxvkazcDvY1nug",
+   "type": "docx",
+   "title": "12.16 会议 副本 NGS-流量获客 HooRii",
+   "path": "出海/12.16 会议 副本 NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864342",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "AfkJwThBfiTDJkkuFyJc7EIFnAd",
+   "obj_token": "H1NVdNZswo3Jrix8qMpcSZcXnQg",
+   "type": "docx",
+   "title": "12 月 30 日第二次会议 副本 NGS-流量获客 HooRii",
+   "path": "出海/12 月 30 日第二次会议 副本 NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864436",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "FpT1wIkOjisEYIkslzrcBUVFnWf",
+   "obj_token": "MGcSdaJLho0ct3x8MOccfrCDneg",
+   "type": "docx",
+   "title": "【基础留存】Hoorii 创始人账号 副本NGS-流量获客 HooRii",
+   "path": "出海/【基础留存】Hoorii 创始人账号 副本NGS-流量获客 HooRii.md",
+   "obj_edit_time": "1767864485",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "UNFJwhngNicSYykOg1ZcXHzYn0k",
+   "obj_token": "QNDrb47lLaEhJZsX5tHcZortnON",
+   "type": "bitable",
+   "title": "Reddit文章 副本NGS-流量获客",
+   "path": "出海/Reddit文章 副本NGS-流量获客.xlsx",
+   "obj_edit_time": "1767863750",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "C7uywEm0giuF2AkglBMcg2vFnIb",
+   "obj_token": "NWJJbtT0jaya0sscnJqcbED6nAh",
+   "type": "bitable",
+   "title": "NextGrowthSail 内容库 副本 NGS-流量获客",
+   "path": "出海/NextGrowthSail 内容库 副本 NGS-流量获客.xlsx",
+   "obj_edit_time": "1767863801",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "C06jwSEVJiEf2eksxJVcG3N3nFb",
+   "obj_token": "JweMdy2PzozdpgxF6AhcjItFn5c",
+   "type": "docx",
+   "title": "海信调研报告 副本NGS-流量获客调研",
+   "path": "出海/海信调研报告 副本NGS-流量获客调研.md",
+   "obj_edit_time": "1767863715",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "XnK9wc7KTiyFC9kBf0DcKICanHc",
+   "obj_token": "UO5pdpFD3ow7Obxeu0Acx5UmnMc",
+   "type": "docx",
+   "title": "2026出海营销节点 副本 NGS-流量获客",
+   "path": "出海/2026出海营销节点 副本 NGS-流量获客.md",
+   "obj_edit_time": "1767863877",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "HKr0w4l6YiPxtSklmuUcn6xkndf",
+   "obj_token": "H9DGdYBbKo7Bl6xGH7ZcXRM1niK",
+   "type": "docx",
+   "title": "11月21日 副本 NGS-流量获客",
+   "path": "出海/11月21日 副本 NGS-流量获客.md",
+   "obj_edit_time": "1767863927",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "CWYuwitSPigke8k0Et2ckA0anTf",
+   "obj_token": "AJM0dGzXQopr23xP3VocciLonid",
+   "type": "docx",
+   "title": "NGS - HooRii合作方案 副本  NGS-协议",
+   "path": "出海/NGS - HooRii合作方案 副本  NGS-协议.md",
+   "obj_edit_time": "1767863295",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "DFzqwkBDmiimEckaqyHcrVMinRg",
+   "obj_token": "SqeadQygQoD6LkxxiVQcmAaRnje",
+   "type": "docx",
+   "title": "任务管理 副本NGS",
+   "path": "出海/任务管理 副本NGS.md",
+   "obj_edit_time": "1767847018",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Iw8owh0UfiTqbfkY0EqcBjrfnef",
+   "obj_token": "M5AbdcyrNoddH0xIHkBc2r10n0c",
+   "type": "docx",
+   "title": "目前交付工作 副本NGS",
+   "path": "出海/目前交付工作 副本NGS.md",
+   "obj_edit_time": "1767847090",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "PsQ5w5wSGiXEYakTgAXcmVIMnbd",
+   "obj_token": "U5QwdnE48osWgyxP8Q0c4IhEnZg",
+   "type": "docx",
+   "title": "petsnowy6条选题 副本 NGS",
+   "path": "出海/petsnowy6条选题 副本 NGS.md",
+   "obj_edit_time": "1767855804",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Q3UtwyiBPi05QBkMpZEcwesdnCb",
+   "obj_token": "FseFdoRmgo2XbUxEpQlcXaQLn2c",
+   "type": "docx",
+   "title": "NGS GEO 计划表 副本 NGS",
+   "path": "出海/NGS GEO 计划表 副本 NGS.md",
+   "obj_edit_time": "1767856089",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "VIKWwCbgPiJIzgkvVaHcILXgnZc",
+   "obj_token": "CvXNdQDaVoUBGMxtHHfcZTYmnch",
+   "type": "docx",
+   "title": "NGS GEO 计划表 副本 NGS 副本NGS",
+   "path": "出海/NGS GEO 计划表 副本 NGS 副本NGS.md",
+   "obj_edit_time": "1767856296",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "PDFKwp03Iim4xCkaT0ccnrQBnAh",
+   "obj_token": "WWZfdrNPoo44joxpSxKctN4LnoP",
+   "type": "docx",
+   "title": "Reddit  调研SOP 副本 NGS-协议",
+   "path": "出海/Reddit  调研SOP 副本 NGS-协议.md",
+   "obj_edit_time": "1767862953",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "H1c8wo5KciKA2hkEAQdcucdrnce",
+   "obj_token": "XetZd3WirozJONxB7g3cQWJ6nud",
+   "type": "docx",
+   "title": "部分案例 副本 NGS-协议",
+   "path": "出海/部分案例 副本 NGS-协议.md",
+   "obj_edit_time": "1767862982",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "KOCpworsIiBWuZkdEAvc2B1Bnec",
+   "obj_token": "RpeAdi9HJoZaAKxpFTkcgtW2nuh",
+   "type": "docx",
+   "title": "sleepmax 合同 副本  NGS-协议",
+   "path": "出海/sleepmax 合同 副本  NGS-协议.md",
+   "obj_edit_time": "1767863087",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "N5X2wivOWigkH1kH4uEcq0bpnod",
+   "obj_token": "LsGjdT7Voo6223xaNXfchXnanIA",
+   "type": "docx",
+   "title": "petsnowy 副本 NGS-协议",
+   "path": "出海/petsnowy 副本 NGS-协议.md",
+   "obj_edit_time": "1767863183",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "TSYCwrl8HiCpQBkfr1ecIfDCnae",
+   "obj_token": "QQzUdpwWJobFfex5KLuclpBYn5b",
+   "type": "docx",
+   "title": "oneisall 副本 NGS-协议",
+   "path": "出海/oneisall 副本 NGS-协议.md",
+   "obj_edit_time": "1767863213",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "HsivwJCp3iEniykyMHIcdsV3nqh",
+   "obj_token": "T85nda3Nxokxldxivh8cwqy8nMF",
+   "type": "docx",
+   "title": "lahome 副本 NGS-协议",
+   "path": "出海/lahome 副本 NGS-协议.md",
+   "obj_edit_time": "1767863361",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "BrX4wOzPRi4Hzuk715Bcv784ncf",
+   "obj_token": "YZDBdLlAFoHXyDxpajdcHE88nxZ",
+   "type": "docx",
+   "title": "iMean.ai 副本 NGS-协议",
+   "path": "出海/iMean.ai 副本 NGS-协议.md",
+   "obj_edit_time": "1767863406",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "CY06wiZPfixGWgkJnNHcJ2BCnCe",
+   "obj_token": "OJkjdJJjHoO92axEYlRcPl5unRb",
+   "type": "docx",
+   "title": "gt 副本  NGS-协议",
+   "path": "出海/gt 副本  NGS-协议.md",
+   "obj_edit_time": "1767863487",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "GAaPwfvrkiD1mOkhK4Ecc7FknMd",
+   "obj_token": "SPYTdZE1UorbJuxu35wcHkkknuc",
+   "type": "docx",
+   "title": "APORRO 副本  NGS-协议",
+   "path": "出海/APORRO 副本  NGS-协议.md",
+   "obj_edit_time": "1767863511",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Gpb6w5ew4iruasku6Z3cSvpLn1b",
+   "obj_token": "WwDWdI5ZioAXbIx57mZcaHAwnaf",
+   "type": "docx",
+   "title": "All4jig 副本  NGS-协议",
+   "path": "出海/All4jig 副本  NGS-协议.md",
+   "obj_edit_time": "1767863543",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "UPAZwWO2Zi1sqTkAXgMc1xRLnkc",
+   "obj_token": "Jo5udSlOOopJtzxTD9CcOhaunzD",
+   "type": "docx",
+   "title": "海信 E7 PRO Reddit 调研报告 副本 NGS-协议海信",
+   "path": "出海/海信 E7 PRO Reddit 调研报告 副本 NGS-协议海信.md",
+   "obj_edit_time": "1767863581",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Ili7wXLl4i3499kKN4ZcTWennvd",
+   "obj_token": "VJs9dbixtocFXZxPx0pczJYrn7g",
+   "type": "docx",
+   "title": "petsnowy曝光贴 副本 NGS",
+   "path": "出海/petsnowy曝光贴 副本 NGS.md",
+   "obj_edit_time": "1767855759",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "IHUGwJEUYipIoVkCjAOc9uIUnBd",
+   "obj_token": "J2t1d44SUoGcydxcSTic4B29nvg",
+   "type": "docx",
+   "title": "NGS 品牌做Reddit前调研框架与 SOP 副本 NGS AI 洞察NGS",
+   "path": "出海/NGS 品牌做Reddit前调研框架与 SOP 副本 NGS AI 洞察NGS.md",
+   "obj_edit_time": "1767856059",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "IpgcwvTbKiJoxJkQ2K0cGEUKnOg",
+   "obj_token": "Ua1Rdy2gRoEmYgxtfBScpJ4bnWP",
+   "type": "docx",
+   "title": "Moonkie12月 副本 NGS",
+   "path": "出海/Moonkie12月 副本 NGS.md",
+   "obj_edit_time": "1767856452",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "QYSXwa1Aeiv76ckw47bcVFatnIh",
+   "obj_token": "AdEZdYkBvoraOhxGIWMcnfJVnNc",
+   "type": "docx",
+   "title": "reddit案例 副本NGS  VOC洞察",
+   "path": "出海/reddit案例 副本NGS  VOC洞察.md",
+   "obj_edit_time": "1767854921",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "UM2cwH7iJia8ztkhNiLcMyJCnPc",
+   "obj_token": "As34dynQnonhZExppNHchfgLnDh",
+   "type": "docx",
+   "title": "Petsnowy1月选题 副本 NGS",
+   "path": "出海/Petsnowy1月选题 副本 NGS.md",
+   "obj_edit_time": "1767855434",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "FnvCwAfvQiNYyPkjFi2cZzL8nIh",
+   "obj_token": "UAWgdzS0wofgHrxfJdJc3q96nYb",
+   "type": "docx",
+   "title": "PurComfy 副本  NGS-协议",
+   "path": "出海/PurComfy 副本  NGS-协议.md",
+   "obj_edit_time": "1767863142",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "K1CpwY9ghiLtE1kuWJccODW1nbc",
+   "obj_token": "DrfqdXhEnovfSaxylVAcNEC9nKq",
+   "type": "docx",
+   "title": "lilysilk 副本  NGS-协议",
+   "path": "出海/lilysilk 副本  NGS-协议.md",
+   "obj_edit_time": "1767863330",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "LI08wxRYmi3A56k0X8BctPlgnWe",
+   "obj_token": "PdT0dQj9VoWtIZxxDYbcwX0vnef",
+   "type": "docx",
+   "title": "Hisense社区搭建 副本 NGS-协议海信",
+   "path": "出海/Hisense社区搭建 副本 NGS-协议海信.md",
+   "obj_edit_time": "1767863629",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "J4SbwNKrJitHpAka8s7cIe8rnpe",
+   "obj_token": "Bxa3dMXCpojO1Dx9nsicztsInnz",
+   "type": "docx",
+   "title": "Moonkie8条选题+3篇帖子+10条可参考植入贴 副本 NGS",
+   "path": "出海/Moonkie8条选题+3篇帖子+10条可参考植入贴 副本 NGS.md",
+   "obj_edit_time": "1767856498",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "LBaUwDgsrimGzmk1KtHc1WGcnOe",
+   "obj_token": "HlBidx70QowORTxl5Uhcwk6Zn5g",
+   "type": "docx",
+   "title": "注意事项 副本NGS",
+   "path": "出海/注意事项 副本NGS.md",
+   "obj_edit_time": "1767846159",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Sms4we3Joi7yYwkkp90clB0wn8b",
+   "obj_token": "IMMzd3or0ofAzrxRNP2c0dodnJb",
+   "type": "docx",
+   "title": "新人成长手册 副本NGS",
+   "path": "出海/新人成长手册 副本NGS.md",
+   "obj_edit_time": "1767846619",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "ETsIwsI7aijtPtkJaaSc26U6nEe",
+   "obj_token": "R445dAeiToGbgSxLlaEcfWRKnLf",
+   "type": "docx",
+   "title": "审贴流程 副本NGS",
+   "path": "出海/审贴流程 副本NGS.md",
+   "obj_edit_time": "1767846837",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "L2RXwGcdtiI5utkGadsc01GLnpg",
+   "obj_token": "QqFOs88oOhz17ztKxcIcoFfwnhe",
+   "type": "sheet",
+   "title": "三月分享大会 副本NGS",
+   "path": "出海/三月分享大会 副本NGS.xlsx",
+   "obj_edit_time": "1767846935",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "LHTfw0GLFir3f1kv4TEcY0a6nlc",
+   "obj_token": "G7Q9d5oYnoyBguxyexTcmSH2nqf",
+   "type": "docx",
+   "title": "海信报告补充 副本NGS",
+   "path": "出海/海信报告补充 副本NGS.md",
+   "obj_edit_time": "1767847324",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "QeyAw7g0iiJUXikVhgOcjXbBnse",
+   "obj_token": "LjYjdxjndoskKoxDa1gcWq2LnE4",
+   "type": "docx",
+   "title": "高仿品调研 副本NGS",
+   "path": "出海/高仿品调研 副本NGS.md",
+   "obj_edit_time": "1767848182",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "DrpqwS5saicHaCkgy8vceOgInBc",
+   "obj_token": "KbAsd1ni1of24nx6fq1clMjmnMb",
+   "type": "docx",
+   "title": "短文：别当冤大头！海外发稿成本砍半的野路子 副本NGS NGS",
+   "path": "出海/短文：别当冤大头！海外发稿成本砍半的野路子 副本NGS NGS.md",
+   "obj_edit_time": "1767854016",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Ay3QwGOt7iEqwWkp96kc0j4Bnbf",
+   "obj_token": "Qfj3dpIB5ovOVex4DLmc50ZVnkh",
+   "type": "docx",
+   "title": "Reddit 爆款帖 副本NGS",
+   "path": "出海/Reddit 爆款帖 副本NGS.md",
+   "obj_edit_time": "1767854729",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "OqgPw6xz7iAlzykt0iWcZtSIn4g",
+   "obj_token": "IVAwdfehYo9RyAxlz1ecVXQjn9g",
+   "type": "docx",
+   "title": "reddit+aeo 副本NGS",
+   "path": "出海/reddit+aeo 副本NGS.md",
+   "obj_edit_time": "1767855003",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "VRFewr80QiwII3kfa2YcWzbpn0f",
+   "obj_token": "CwS5ddvOLoEO0kxRfe9cXp1Lntd",
+   "type": "docx",
+   "title": "Prungo10条选题 副本NGS",
+   "path": "出海/Prungo10条选题 副本NGS.md",
+   "obj_edit_time": "1767855042",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "VLEowouXeiSSZhkwMORcsw7tntb",
+   "obj_token": "F6RLdPjVYoPnEXxrJOBcxKS6nYe",
+   "type": "docx",
+   "title": "petsnowy社区简介及规则 副本 NGS",
+   "path": "出海/petsnowy社区简介及规则 副本 NGS.md",
+   "obj_edit_time": "1767855716",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "VM0vwabulijaX4kYxwxcpS2Incf",
+   "obj_token": "TSQCsDYS4hZSgktpFeacLOjIn9d",
+   "type": "sheet",
+   "title": "NGS账号管理 副本NGS",
+   "path": "出海/NGS账号管理 副本NGS.xlsx",
+   "obj_edit_time": "1767855896",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "OAR4wgKHpiYXlrkeNaucIntynef",
+   "obj_token": "BiW5dDMIQo7Ai4xG1Y2czkS0nSh",
+   "type": "docx",
+   "title": "Moonkie产品调研及战略建议 副本 NGS",
+   "path": "出海/Moonkie产品调研及战略建议 副本 NGS.md",
+   "obj_edit_time": "1767856320",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "VyaDwr0kni6tTskSjdUcm0P1n6g",
+   "obj_token": "RE2JdQg3woC1bhxzXGtcJQT1nPg",
+   "type": "docx",
+   "title": "Hisense社区基本信息 副本NGS-协议海信",
+   "path": "出海/Hisense社区基本信息 副本NGS-协议海信.md",
+   "obj_edit_time": "1767863607",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "QbRTwGXQBiSkEbkc3IDcf4qOnMc",
+   "obj_token": "TiVYdA17lo4I9xxCh4mcfN8lnOc",
+   "type": "docx",
+   "title": "重要服务器网站说明！！！ 副本NGS",
+   "path": "出海/重要服务器网站说明！！！ 副本NGS.md",
+   "obj_edit_time": "1767846178",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "EDiEwKeQ6iKLwIkUe1Ic6jKVnYb",
+   "obj_token": "Uzcud5ZvYoQyxAxtoAxccU5enOf",
+   "type": "docx",
+   "title": "一文讲透如何做 GEO 让你的品牌被 AI 推荐？ 副本NGS",
+   "path": "出海/一文讲透如何做 GEO 让你的品牌被 AI 推荐？ 副本NGS.md",
+   "obj_edit_time": "1767846519",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "WYDBwmsfCiGMEtkzOo4cYBmYnac",
+   "obj_token": "TwgLdLeh0oM6SXxks68cG6a5n2e",
+   "type": "docx",
+   "title": "选题整理@鸥子的Reddit课堂 副本NGS",
+   "path": "出海/选题整理@鸥子的Reddit课堂 副本NGS.md",
+   "obj_edit_time": "1767846567",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "P4RewIjGjivA00kAdkOcAnBWnlb",
+   "obj_token": "AKeod5JcKoywdUx6OMFcR4F9nTh",
+   "type": "docx",
+   "title": "售前POCOCO品牌基础调研 副本NGS",
+   "path": "出海/售前POCOCO品牌基础调研 副本NGS.md",
+   "obj_edit_time": "1767846797",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "YhdkwtgUKiXCHakKsPScH2n8n5d",
+   "obj_token": "L3HudN0s9oqlrcxNJx7cXFqNnKb",
+   "type": "docx",
+   "title": "关于Reddit帮助geo的实操 副本NGS",
+   "path": "出海/关于Reddit帮助geo的实操 副本NGS.md",
+   "obj_edit_time": "1767847930",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Ul81wjrRNi9HWBkQ8picxIibn2g",
+   "obj_token": "LSdId59NKoJ54qx4y2GcR7pin4f",
+   "type": "docx",
+   "title": "高压清水机10月热题参考 副本NGS",
+   "path": "出海/高压清水机10月热题参考 副本NGS.md",
+   "obj_edit_time": "1767848123",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Lix1whCi5iwXrokY1jdcmSaMnRb",
+   "obj_token": "OESZd8VjJoTCunxt8pEcH1eKnjh",
+   "type": "docx",
+   "title": "对标拆解 副本NGS",
+   "path": "出海/对标拆解 副本NGS.md",
+   "obj_edit_time": "1767848216",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "VwwmwbGmmimuwOk7KtecwnVmnuc",
+   "obj_token": "BUsodB0NdozXpzx2XJccw1BHn0c",
+   "type": "docx",
+   "title": "短文：SEO已死？如何在Reddit上做GEO？ 副本NGS",
+   "path": "出海/短文：SEO已死？如何在Reddit上做GEO？ 副本NGS.md",
+   "obj_edit_time": "1767848382",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "NmSnwUcU1icBf3kYJbccheW5nMe",
+   "obj_token": "EubedKJ7boCO7hxbyNAcJIwenic",
+   "type": "docx",
+   "title": "短文：Reddit新手必看！如何发帖不被删？ 副本NGS",
+   "path": "出海/短文：Reddit新手必看！如何发帖不被删？ 副本NGS.md",
+   "obj_edit_time": "1767848443",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "NVhOwMYC6iNNO4kVFwKcz1YunEh",
+   "obj_token": "F92BdKnS7oLoFAxuWmVcYkPVnHd",
+   "type": "docx",
+   "title": "短视频脚本：零粉竟能在Reddit月入10万+？！ 副本NGS",
+   "path": "出海/短视频脚本：零粉竟能在Reddit月入10万+？！ 副本NGS.md",
+   "obj_edit_time": "1767853861",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "NXADwAPjRipTICkk7wvcNrAinzd",
+   "obj_token": "KpSfdUkMzoXbXlxYlBhcjj40n6c",
+   "type": "docx",
+   "title": "Redex产品SOP 副本NGS",
+   "path": "出海/Redex产品SOP 副本NGS.md",
+   "obj_edit_time": "1767854161",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Dm3PwuQHMiIdL2k2uq2c5zN7n9d",
+   "obj_token": "ZDMqdEFMPos2zixVFbScxBbGnuf",
+   "type": "docx",
+   "title": "Reddit玩法 副本NGS",
+   "path": "出海/Reddit玩法 副本NGS.md",
+   "obj_edit_time": "1767854321",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Xm5dwJPiNiwyg9kGN4fchKBgnyh",
+   "obj_token": "ElIpdQG7PoO43bxmZ8Lc0cEunac",
+   "type": "docx",
+   "title": "Reddit社区规则 副本NGS",
+   "path": "出海/Reddit社区规则 副本NGS.md",
+   "obj_edit_time": "1767854355",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "DV8twGnnoiqdWtkwCV4c44TXnrc",
+   "obj_token": "YwjgdWPKGoFYfZx9Ttfc5xtpn4b",
+   "type": "docx",
+   "title": "Reddit+GEO，2026年出海品牌的流量金矿 副本NGS",
+   "path": "出海/Reddit+GEO，2026年出海品牌的流量金矿 副本NGS.md",
+   "obj_edit_time": "1767854420",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "T1y0wbhwRiNbbbkmYfbclpsTnFc",
+   "obj_token": "Krhdd0tzbo9BSKxogzjcBbZGnZd",
+   "type": "docx",
+   "title": "Reddit 创始人 IP陪跑案例参考 副本NGS",
+   "path": "出海/Reddit 创始人 IP陪跑案例参考 副本NGS.md",
+   "obj_edit_time": "1767854592",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "LBYcwUJXJiyOQYk3JnRcOqImnxg",
+   "obj_token": "K7WXdCOTYok1MOxSWvmcvLvsnSf",
+   "type": "docx",
+   "title": "reddit工作复盘 副本NGS",
+   "path": "出海/reddit工作复盘 副本NGS.md",
+   "obj_edit_time": "1767854822",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Pb2ZwepPFiRnugkvxtBcWgk9nhb",
+   "obj_token": "WPkpdszpRo4W0ixtXSOcbGy5nPg",
+   "type": "docx",
+   "title": "Petsnowy产品调研 副本NGS 品牌定位",
+   "path": "出海/Petsnowy产品调研 副本NGS 品牌定位.md",
+   "obj_edit_time": "1767855076",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "DQLIwjLUiiUDKGk03iUcbLCLnMe",
+   "obj_token": "OJaTd6Y56ovscEx38wvciu7Hn5d",
+   "type": "docx",
+   "title": "Petsnowy-Reddit12月代运营复盘 副本  NGS",
+   "path": "出海/Petsnowy-Reddit12月代运营复盘 副本  NGS.md",
+   "obj_edit_time": "1767855472",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "CXmtw90WHiOss9ki9ZKcyr0nnBe",
+   "obj_token": "RKs4dGN0mogc8zxTuJ0c8yptnYb",
+   "type": "docx",
+   "title": "prungo 1月交付版 副本NGS",
+   "path": "出海/prungo 1月交付版 副本NGS.md",
+   "obj_edit_time": "1767855595",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "BWL2w0IEyiFaiKki2nwcNImknYb",
+   "obj_token": "OOf8d2eivopGwuxFfSac5BabnUc",
+   "type": "docx",
+   "title": "hoorri合作协议 副本  NGS-协议",
+   "path": "出海/hoorri合作协议 副本  NGS-协议.md",
+   "obj_edit_time": "1767863437",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Vf6PwceVWiwOcLk8PIrcSrVZn8g",
+   "obj_token": "J1DZduYqxoszfix6ZXpc9647nWd",
+   "type": "docx",
+   "title": "长文：如果ChatGPT进军成人领域：这将是一场对现有行业的降维打击 副本NGS",
+   "path": "出海/长文：如果ChatGPT进军成人领域：这将是一场对现有行业的降维打击 副本NGS.md",
+   "obj_edit_time": "1767846278",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "BfiRwXwPRiBmgnkdHuLceXqRnwg",
+   "obj_token": "NyfldsYQKoUHjNxleaEcHfUtncb",
+   "type": "docx",
+   "title": "长文：从破产谣言到月入百万美金：拆解网红玩偶姐姐HongKongDoll的商业打法 副本NGS",
+   "path": "出海/长文：从破产谣言到月入百万美金：拆解网红玩偶姐姐HongKongDoll的商业打法 副本NGS.md",
+   "obj_edit_time": "1767846341",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "ZZzXw2U3vidvggkBoXEcMDxPnwe",
+   "obj_token": "EzdHdod1qoGo7Zxgje8c2XmNnDe",
+   "type": "docx",
+   "title": "审帖流程 文字版本 副本NGS",
+   "path": "出海/审帖流程 文字版本 副本NGS.md",
+   "obj_edit_time": "1767846861",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "JKVww1rjsi2dc2kxuoecOe0Pnhc",
+   "obj_token": "UecAdHXNuoeMyXxFPvjc8pUrndf",
+   "type": "docx",
+   "title": "深度分析：Reddit为什么帖子被下架了？ 副本NGS",
+   "path": "出海/深度分析：Reddit为什么帖子被下架了？ 副本NGS.md",
+   "obj_edit_time": "1767846896",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "SCT5wFgf1iXk4skpkQAcFVMxn8b",
+   "obj_token": "QEKQdwYYMoPLXZx9sQVcMvYBntd",
+   "type": "docx",
+   "title": "跨境出海实战：Reddit 营销的三大核心法则与 GEO 布局策略 副本NGS",
+   "path": "出海/跨境出海实战：Reddit 营销的三大核心法则与 GEO 布局策略 副本NGS.md",
+   "obj_edit_time": "1767847195",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "KdHIwrK0SiZTVJkDxYxcH0sNnWd",
+   "obj_token": "B2VudmHGxo0bQGxI8rmcVhl2nnd",
+   "type": "docx",
+   "title": "海信12月Reddit代运营复盘 副本NGS",
+   "path": "出海/海信12月Reddit代运营复盘 副本NGS.md",
+   "obj_edit_time": "1767847360",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "KikVw18EJifdGWkQIr5cpHGVn7G",
+   "obj_token": "ShnfdJEeHo80q1x07GVc0TfMnYf",
+   "type": "docx",
+   "title": "国内头部知识付费调研 副本NGS",
+   "path": "出海/国内头部知识付费调研 副本NGS.md",
+   "obj_edit_time": "1767847879",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "Bn3Jw5sh4iQyPZkBNeucTfEbnte",
+   "obj_token": "OvNBdjKdLownwpx5fxCcXtnAnFb",
+   "type": "docx",
+   "title": "给推广esim卡的客户改贴案例 副本NGS",
+   "path": "出海/给推广esim卡的客户改贴案例 副本NGS.md",
+   "obj_edit_time": "1767847974",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "ZFOew6drei1ojGk3a4Ucn2iann2",
+   "obj_token": "G16tdCDtSo7A4nxtNS4cSWQzn7d",
+   "type": "docx",
+   "title": "给客户展示PPT文字版介绍——以PetSnowy为例 副本NGS",
+   "path": "出海/给客户展示PPT文字版介绍——以PetSnowy为例 副本NGS.md",
+   "obj_edit_time": "1767848055",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "QVvJwprvCiOIcMkIb3wcegsynWc",
+   "obj_token": "AOLOd1ZB6opKFVxchiRcIpPHnkf",
+   "type": "docx",
+   "title": "短文：在Reddit上做品牌号，无疑于自杀？ 副本NGS",
+   "path": "出海/短文：在Reddit上做品牌号，无疑于自杀？ 副本NGS.md",
+   "obj_edit_time": "1767848295",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "X28HwMqroiuPankXTY2cvtKenad",
+   "obj_token": "Kbnzdcii0o2yXJx40clcTwdTnXf",
+   "type": "docx",
+   "title": "短文：Reddit小白必读： 如何保护你的账号？ 副本NGS",
+   "path": "出海/短文：Reddit小白必读： 如何保护你的账号？ 副本NGS.md",
+   "obj_edit_time": "1767848482",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "YdFtwwPadiAatjk0eqocwQaun7d",
+   "obj_token": "HlSndk6wEo6Vo9xTDVjcJSZRnLh",
+   "type": "docx",
+   "title": "短文：3000访客+200注册，SaaS冷启动是如何在Reddit引爆的？ 副本NGS IMPOT",
+   "path": "出海/短文：3000访客+200注册，SaaS冷启动是如何在Reddit引爆的？ 副本NGS IMPOT.md",
+   "obj_edit_time": "1767848626",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "I4j8wIaNQiC9V0kGkMacIpn5nEb",
+   "obj_token": "ACyRd9xkfowdTixs6GHcTdcHnet",
+   "type": "docx",
+   "title": "短视频脚本：你在Reddit的营销方式，可能正在封杀你的品牌 副本NGS",
+   "path": "出海/短视频脚本：你在Reddit的营销方式，可能正在封杀你的品牌 副本NGS.md",
+   "obj_edit_time": "1767853822",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "DFlyw6yU6ii250kdC1ncDamRnkg",
+   "obj_token": "C7pFdIr6Box30HxDu9GczKrmn7c",
+   "type": "docx",
+   "title": "reddit如何赚取Karma值? 副本NGS",
+   "path": "出海/reddit如何赚取Karma值_ 副本NGS.md",
+   "obj_edit_time": "1767854792",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "XoSPwzMNzi9ahqkiXcmclw9ynMh",
+   "obj_token": "FqzwdGGYgoxnwExFyRwcvGqqnHd",
+   "type": "docx",
+   "title": "长文：人人都说Reddit是金矿，但95%的人只挖到了自己的墓碑 副本NGS",
+   "path": "出海/长文：人人都说Reddit是金矿，但95_的人只挖到了自己的墓碑 副本NGS.md",
+   "obj_edit_time": "1767847051",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "GGyLwCLrnigo1nkF9HNc68AjnQc",
+   "obj_token": "BYpFd7MlUoxHsRxlreicaO2Znjf",
+   "type": "docx",
+   "title": "零预算、零粉丝，他是如何用 Reddit 在几周内完成 SaaS 产品冷启动的？ 副本NGS",
+   "path": "出海/零预算、零粉丝，他是如何用 Reddit 在几周内完成 SaaS 产品冷启动的？ 副本NGS.md",
+   "obj_edit_time": "1767847125",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "E3JxwVLEjixN9wk78w2c7QshnYb",
+   "obj_token": "NCq2dvJ3AocM7YxUyxBchZePnwW",
+   "type": "docx",
+   "title": "短文：谷歌和ChatGPT神仙打架，Reddit市值蒸发了将近20亿刀 副本NGS",
+   "path": "出海/短文：谷歌和ChatGPT神仙打架，Reddit市值蒸发了将近20亿刀 副本NGS.md",
+   "obj_edit_time": "1767848347",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "WSQKwOaBriqgmWktTC6chDcAnxD",
+   "obj_token": "VLD6dBoi0oiVGlxAnuacKc2Jn8f",
+   "type": "docx",
+   "title": "短文：“0粉丝”博主，在Reddit上月入1.7万美元 副本NGS",
+   "path": "出海/短文：“0粉丝”博主，在Reddit上月入1.7万美元 副本NGS.md",
+   "obj_edit_time": "1767853759",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "KnjQwaR9Ki1vf5kt71AcHOJnnWg",
+   "obj_token": "C72UdiilLoMMPexYjBic2rx2nyf",
+   "type": "docx",
+   "title": "短视频脚本：Reddit被AI抛弃？不，是机会来了！做好这两点照样赚翻。 副本NGS",
+   "path": "出海/短视频脚本：Reddit被AI抛弃？不，是机会来了！做好这两点照样赚翻。 副本NGS.md",
+   "obj_edit_time": "1767853886",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "NLvrwuejViqGslkBQvDc7UilnVd",
+   "obj_token": "LMkodX0aMoVQ21xffescvCR9n1W",
+   "type": "docx",
+   "title": "长文：用AI搭建自动化社媒矩阵，独立站新增收入5000美金(技术小白可无痛食用) 副本NGS",
+   "path": "出海/长文：用AI搭建自动化社媒矩阵，独立站新增收入5000美金(技术小白可无痛食用) 副本NGS.md",
+   "obj_edit_time": "1767846208",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "C2ALwHD4JiRCXgk0vxpc7Bw7nlf",
+   "obj_token": "ILi4dPjHBozsnKxZ1FscFWjCnPg",
+   "type": "docx",
+   "title": "长文：零预算、零粉丝，他是如何用 Reddit 在几周内完成 SaaS 产品冷启动的？ 副本NGS",
+   "path": "出海/长文：零预算、零粉丝，他是如何用 Reddit 在几周内完成 SaaS 产品冷启动的？ 副本NGS.md",
+   "obj_edit_time": "1767846309",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "X3SQwpy8uiqKD2kMnVacnEHjnKh",
+   "obj_token": "U8RPdRWiToyGC4x215VcEhh9nZg",
+   "type": "docx",
+   "title": "长文：从被Reddit封号2次，到月入1.4万美金：深度拆解3个心机案例 副本NGS",
+   "path": "出海/长文：从被Reddit封号2次，到月入1.4万美金：深度拆解3个心机案例 副本NGS.md",
+   "obj_edit_time": "1767846370",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "D3vSwKvicilAgSkGzAJcAbkFnve",
+   "obj_token": "GqA2dHP6eoIw5vxeiYOcXYpfnve",
+   "type": "docx",
+   "title": "长文：SaaS冷启动，如何靠一篇文章在Reddit引爆3000访客？ 副本NGS",
+   "path": "出海/长文：SaaS冷启动，如何靠一篇文章在Reddit引爆3000访客？ 副本NGS.md",
+   "obj_edit_time": "1767846402",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "QFbowdnYhiqbdvkrhlfcMk9InPg",
+   "obj_token": "WtkPdO4jioobHbxkQD9cIpDWnvc",
+   "type": "docx",
+   "title": "长文：11天狂揽17.3万浏览，50+精准询盘！我拆解了这个Reddit“人性流”增长案例 副本NGS",
+   "path": "出海/长文：11天狂揽17.3万浏览，50+精准询盘！我拆解了这个Reddit“人性流”增长案例 副本NGS.md",
+   "obj_edit_time": "1767846428",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "NJZZwaqeWi6PHwkmHJmcMFI2nQg",
+   "obj_token": "Zk8kdbEGgo5UDAx25eRcAL62n5e",
+   "type": "docx",
+   "title": "长文：在Reddit做品牌号？我见过太多人，就这样把钱烧光了 副本NGS",
+   "path": "出海/长文：在Reddit做品牌号？我见过太多人，就这样把钱烧光了 副本NGS.md",
+   "obj_edit_time": "1767846480",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "QEZUwpI7AisG5jkIFQmc69sKn1g",
+   "obj_token": "HAl8dWlAUo5fOkx4LutcYrp7naf",
+   "type": "docx",
+   "title": "跨境选题 副本NGS",
+   "path": "出海/跨境选题 副本NGS.md",
+   "obj_edit_time": "1767847157",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "OREgwPUxviYUWCkV6KXcL74dncb",
+   "obj_token": "AHL7dH7CXoiX4Pxuy5qcCBAWnsd",
+   "type": "docx",
+   "title": "客单价$899、复购率超过37%！高客单复购型独立站玩法的深度拆解 副本NGS",
+   "path": "出海/客单价$899、复购率超过37_！高客单复购型独立站玩法的深度拆解 副本NGS.md",
+   "obj_edit_time": "1767847238",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "JAk6wijjnitzq6kfIfccLzfenkc",
+   "obj_token": "Bqupd9xx7oTt4uxSueXcFyTknds",
+   "type": "docx",
+   "title": "短文：Reddit首发爆火的Narrin.ai，72小时1200+用户，竟然0人付费？ 副本NGS",
+   "path": "出海/短文：Reddit首发爆火的Narrin.ai，72小时1200+用户，竟然0人付费？ 副本NGS.md",
+   "obj_edit_time": "1767848562",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "LwicwikYSid9Vfk0hxycJCJHnpg",
+   "obj_token": "KnVbdHX3xozdzsx9hmUcM6yjn4c",
+   "type": "docx",
+   "title": "短文：《11天狂揽17.3万浏览，50+精准询盘！》Reddit增长案例深度拆解 副本NGS",
+   "path": "出海/短文：《11天狂揽17.3万浏览，50+精准询盘！》Reddit增长案例深度拆解 副本NGS.md",
+   "obj_edit_time": "1767848690",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "BTYYwVmGYinrdwkVQ8RctBmjn8c",
+   "obj_token": "S8dUdisUZoqtMVxttfFc9uVJnGg",
+   "type": "docx",
+   "title": "长文：月入1.7万美元，这个“0粉丝”博主如何在Reddit上引爆增长？ 副本NGS",
+   "path": "出海/长文：月入1.7万美元，这个“0粉丝”博主如何在Reddit上引爆增长？ 副本NGS.md",
+   "obj_edit_time": "1767854127",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "RLAnwPmHEiK2BPkIKHccqASwnJh",
+   "obj_token": "JzeidFgyBoqweVxAhnecm0clnBd",
+   "type": "docx",
+   "title": "crm系统与客户case 副本",
+   "path": "出海/crm系统与客户case 副本.md",
+   "obj_edit_time": "1767861955",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "H1c6wXGyjisURukKC1RcKGisn4c",
+   "obj_token": "E7kmdXrTSo4ZZWxanifcyTB0nkg",
+   "type": "docx",
+   "title": "保密及知识产权归属协议 副本  NGS-协议",
+   "path": "出海/保密及知识产权归属协议 副本  NGS-协议.md",
+   "obj_edit_time": "1767863011",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "OGqXwAxiti93K9kumZEcZ2NonKg",
+   "obj_token": "IbJ2dJQYuoqUUxx5Qh4cm4ASnib",
+   "type": "docx",
+   "title": "长文：ChatGPT和谷歌神仙打架，为何先崩的是Reddit？ 副本",
+   "path": "出海/长文：ChatGPT和谷歌神仙打架，为何先崩的是Reddit？ 副本.md",
+   "obj_edit_time": "1767861906",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "I7DLwI5qziiaggk1mJrcyx3Dntb",
+   "obj_token": "MMFadI0vko7CSUxttthch0TgnGh",
+   "type": "docx",
+   "title": "长文：72小时1200+用户，Reddit首发爆火的Narrin.ai，为何无人付费？ 副本",
+   "path": "出海/长文：72小时1200+用户，Reddit首发爆火的Narrin.ai，为何无人付费？ 副本.md",
+   "obj_edit_time": "1767862668",
+   "depth": 1,
+   "parent": "WV3wwLYBZiRh93kwsHkcKRzHnVG"
+  },
+  {
+   "node_token": "X33Lwet0qiqTyikmJqzcwFWLnLd",
+   "obj_token": "I7zddU7QHonY96xHbgpc00RUnpb",
+   "type": "docx",
+   "title": "天机跨境沙龙Dify培训资料",
+   "path": "天机跨境沙龙Dify培训资料.md",
+   "obj_edit_time": "1790678026",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "J2z3ww5uai3QzXkYfBmcbcpfnRc",
+   "obj_token": "Bt6xdt5BdoygbxxrVdXcG48Snug",
+   "type": "docx",
+   "title": "美国空净全链路演示air purifiers 以作为AI选品skill数据",
+   "path": "美国空净全链路演示air purifiers 以作为AI选品skill数据.md",
+   "obj_edit_time": "1776346797",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "MjTLwiBlWifdimkVF5ucVuB3npb",
+   "obj_token": "JJn6bRRYjaOQRasnbtmcrxMWngb",
+   "type": "bitable",
+   "title": "吉他配件30天推广策略 亚运AI电商展示",
+   "path": "吉他配件30天推广策略 亚运AI电商展示.xlsx",
+   "obj_edit_time": "1775573046",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "RHBEw1refiRtNpkma1ycwuPrng3",
+   "obj_token": "WMj4bHvltanATFsSXljcc8ran6b",
+   "type": "bitable",
+   "title": "模板AI+listing工作簿展示",
+   "path": "模板AI+listing工作簿展示.xlsx",
+   "obj_edit_time": "1775142675",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "WsxtwaxvHiHmGNkpWhXcHJCInFe",
+   "obj_token": "OZqnssG7ohP3vHtfUiccHeVDnsm",
+   "type": "sheet",
+   "title": "美国空净 词库 搭建 标题和关键词库搭建 展示",
+   "path": "美国空净 词库 搭建 标题和关键词库搭建 展示.xlsx",
+   "obj_edit_time": "1773994583",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "VCDgwmT1jiaypeknYEKcVBSZnRb",
+   "obj_token": "KabBsSR64hPdhQtxR8fcch0Unjy",
+   "type": "sheet",
+   "title": "坑位快照-air purifiers for bedroom-US-20260320展示",
+   "path": "坑位快照-air purifiers for bedroom-US-20260320展示.xlsx",
+   "obj_edit_time": "1773994715",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "J3aBwsP6BiF5kkk9USyc5xt8ndf",
+   "obj_token": "SRqus09wfhQGxFtPYRicBWrwnhb",
+   "type": "sheet",
+   "title": "亚运AI电商毛利数据-2026-亚运更新佣金 展示",
+   "path": "亚运AI电商毛利数据-2026-亚运更新佣金 展示.xlsx",
+   "obj_edit_time": "1773981901",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "WYNUwskXsiccFqkk7GHcIGU8nXf",
+   "obj_token": "RszsbKTzgaqfO0sK0zBcG49znje",
+   "type": "bitable",
+   "title": "美国空净us_流量占比对比 流量时光机 _B0GCC1ZB32..._流量对抗分析 展示",
+   "path": "美国空净us_流量占比对比 流量时光机 _B0GCC1ZB32..._流量对抗分析 展示.xlsx",
+   "obj_edit_time": "1773991530",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "MI65ww2qciEKP0kHBDWca315nhl",
+   "obj_token": "I9LqbV8WTam6zasN2EPcdaV8ni7",
+   "type": "bitable",
+   "title": "亚马逊跨境电商（数据抓取+物流跟踪+详情页图片）",
+   "path": "亚马逊跨境电商（数据抓取+物流跟踪+详情页图片）.xlsx",
+   "obj_edit_time": "1773973707",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "HPRTw9L9XiYj5JkzflVcyUUWnud",
+   "obj_token": "BdphbtS5HayXh6shrvpccWlKnSc",
+   "type": "bitable",
+   "title": "亚马逊跨境电商（数据抓取+物流跟踪+详情页图片）",
+   "path": "亚马逊跨境电商（数据抓取+物流跟踪+详情页图片）_2.xlsx",
+   "obj_edit_time": "1773971416",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "TVLUws6BQikcVskEHOzciswvnmc",
+   "obj_token": "RmDxbHF9EaErafsPkH9cV91on4d",
+   "type": "bitable",
+   "title": "亚马逊跨境电商（数据抓取+物流跟踪+详情页图片）",
+   "path": "亚马逊跨境电商（数据抓取+物流跟踪+详情页图片）_3.xlsx",
+   "obj_edit_time": "1773973852",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Hh7sw8BjOiYyHckZMKNcBycDnmd",
+   "obj_token": "XEpldtim2oFBD7xnaOvcjVbAnpz",
+   "type": "docx",
+   "title": "亚马逊关键词词库搭建思路 展示 公众号",
+   "path": "亚马逊关键词词库搭建思路 展示 公众号.md",
+   "obj_edit_time": "1776498091",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Y4rBwjiUmidAzhkPxzec6EJ8nDd",
+   "obj_token": "OhT2bt14eauj53sVJcgc4Yannic",
+   "type": "bitable",
+   "title": "天机跨境亚马逊项目表 副本展示",
+   "path": "天机跨境亚马逊项目表 副本展示.xlsx",
+   "obj_edit_time": "1775573325",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Mi5Owp2rqiRjcKkIVByckVyTn7c",
+   "obj_token": "V0pPsFxmrhUIjytWAI9cH3sEnqe",
+   "type": "sheet",
+   "title": "天机跨境  AI电商重要盈亏沙盘预演 按照每周 每日不同的数据表现情况进行调整推广数据模拟 副本展示",
+   "path": "天机跨境  AI电商重要盈亏沙盘预演 按照每周 每日不同的数据表现情况进行调整推广数据模拟 副本展示.xlsx",
+   "obj_edit_time": "1775574140",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "X143wwWDHiBsjckn4w0cH5lBnMh",
+   "obj_token": "BRzusk4sbhmcMOtrbE5cgVvynGe",
+   "type": "sheet",
+   "title": "空净 类目 整体转化率情况美国 展示美国",
+   "path": "空净 类目 整体转化率情况美国 展示美国.xlsx",
+   "obj_edit_time": "1773995867",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "TW9Vwm4cniw2C7kA6ZXcDIBVnfh",
+   "obj_token": "W7cksFgh7hjadNtqTpBcNt7nnld",
+   "type": "sheet",
+   "title": "亚运AI电商日常跟踪表US 饮水机",
+   "path": "亚运AI电商日常跟踪表US 饮水机.xlsx",
+   "obj_edit_time": "1773977085",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "TlH1wQndQiRaybkbv8yc9OKmnMf",
+   "obj_token": "MXVxsigmdhwre9twi7scqww3nkc",
+   "type": "sheet",
+   "title": "天机跨境 - 亚马逊项目跟进表-日常跟踪-选品-运营+广告  全流程展示",
+   "path": "天机跨境 - 亚马逊项目跟进表-日常跟踪-选品-运营+广告  全流程展示.xlsx",
+   "obj_edit_time": "1774929966",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "O99VwtUjti8gWwklFHdcsj3FnNb",
+   "obj_token": "QA6AbL05saed6lsLiAsc4sgLnlc",
+   "type": "bitable",
+   "title": "天机跨境-新品推广SOP-精品运营全链路 AI电商SOP 展示TIANJI",
+   "path": "天机跨境-新品推广SOP-精品运营全链路 AI电商SOP 展示TIANJI.xlsx",
+   "obj_edit_time": "1777010775",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "HYWswDUSAiHqKBkry1wcmbCJn9e",
+   "obj_token": "L6BqdnnQqoL9fFxKNrocznlenWc",
+   "type": "docx",
+   "title": "演讲稿【SOP】AI打造listing&Rufus全解析（亚马逊prompt提示词广告，竞品后台参数分析，流程和模板）",
+   "path": "演讲稿【SOP】AI打造listing&Rufus全解析（亚马逊prompt提示词广告，竞品后台参数分析，流程和模板）.md",
+   "obj_edit_time": "1774021453",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "PIPPw1ySgi1Yw2ktPebcB1SFnkg",
+   "obj_token": "MSYOdn0tRoSW1AxLOF3cnORFn4f",
+   "type": "docx",
+   "title": "【SOP】AI打造Listing & Rufus全解析- Part 1 20251218演讲稿 重写",
+   "path": "【SOP】AI打造Listing & Rufus全解析- Part 1 20251218演讲稿 重写.md",
+   "obj_edit_time": "1773996021",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "Vd3Nw3Tghi7HmEkSwNHcZOsNnLe",
+   "obj_token": "GSlhsccNthedmftAj1mcyP21njf",
+   "type": "sheet",
+   "title": "亚运AI电商 英国XXX仪 - 项目跟进表-阳亚运-20250422展示 项目经理",
+   "path": "亚运AI电商 英国XXX仪 - 项目跟进表-阳亚运-20250422展示 项目经理.xlsx",
+   "obj_edit_time": "1782002160",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "NZrSwMuSQiTKXCk2tcpcKgf6nUf",
+   "obj_token": "UFKsbYUheaVIN1shXVecudwhnjg",
+   "type": "bitable",
+   "title": "天机跨境_-_亚马逊项目跟进表-日常跟踪-选品-运营+广告__全流程展示",
+   "path": "天机跨境_-_亚马逊项目跟进表-日常跟踪-选品-运营+广告__全流程展示.xlsx",
+   "obj_edit_time": "1785202664",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "HnsuwQn0tiUYNwkixSWckIwpnm8",
+   "obj_token": "BTkEsgFV5h0Ghjt3FFPcp6NRnub",
+   "type": "sheet",
+   "title": "天机跨境_亚马逊项目跟进表-日常跟踪-选品-运营+广告__全流程展示",
+   "path": "天机跨境_亚马逊项目跟进表-日常跟踪-选品-运营+广告__全流程展示.xlsx",
+   "obj_edit_time": "1785202720",
+   "depth": 0,
+   "parent": null
+  },
+  {
+   "node_token": "NjRkw1YEUickpLkZKh3cFRvfn3A",
+   "obj_token": "SJ27bKYFqoFt6gx5z2pcILdnnuf",
+   "type": "file",
+   "title": "2篇新品推广计划SOP 亚马逊-新品推广计划全链路SOP-附流程图.docx",
+   "path": "2篇新品推广计划SOP 亚马逊-新品推广计划全链路SOP-附流程图.docx",
+   "obj_edit_time": "1785203255",
+   "depth": 0,
+   "parent": null
+  }
+ ]
+}
