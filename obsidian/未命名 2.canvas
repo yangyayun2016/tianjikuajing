@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"6b3ad795b18e92b4","type":"text","text":"","x":-127,"y":-170,"width":250,"height":60},
+		{"id":"09816551b3e3177e","type":"text","text":"亚运最爱","x":-180,"y":-60,"width":250,"height":60},
+		{"id":"c68331ad7dc9e776","type":"text","text":"阳帅","x":180,"y":-200,"width":250,"height":60},
+		{"id":"9ff5a05657140f2a","type":"text","text":"书言","x":180,"y":-90,"width":250,"height":60},
+		{"id":"8351c7a24099b21f","type":"text","text":"没有了","x":194,"y":43,"width":250,"height":60},
+		{"id":"76cffe4aca5c89e2","type":"file","file":"Pasted image 20260429110221.png","x":-263,"y":101,"width":400,"height":202},
+		{"id":"268cba3fc64d373e","type":"text","text":"🔍","x":-545,"y":-79,"width":250,"height":60},
+		{"id":"95b141a6a8d8a9e1","type":"text","text":"QQ","x":-575,"y":-206,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7dc484f90643d074","fromNode":"09816551b3e3177e","fromSide":"right","toNode":"9ff5a05657140f2a","toSide":"left"},
+		{"id":"45793f7deb3de936","fromNode":"09816551b3e3177e","fromSide":"right","toNode":"c68331ad7dc9e776","toSide":"left"},
+		{"id":"3b2d8c672b66d068","fromNode":"09816551b3e3177e","fromSide":"right","toNode":"8351c7a24099b21f","toSide":"left"},
+		{"id":"7c7684c3802af3e4","fromNode":"09816551b3e3177e","fromSide":"bottom","toNode":"76cffe4aca5c89e2","toSide":"top"},
+		{"id":"6f5f046f07a41a90","fromNode":"09816551b3e3177e","fromSide":"left","toNode":"268cba3fc64d373e","toSide":"right"},
+		{"id":"de19bc350000e281","fromNode":"6b3ad795b18e92b4","fromSide":"left","toNode":"95b141a6a8d8a9e1","toSide":"right"}
+	]
+}
