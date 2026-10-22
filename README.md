@@ -39,11 +39,11 @@
 | [`cases/`](cases/README.md) | **案例**：索引、写作要求、案例模板 |
 | [`wall/`](wall/README.md) | **战报墙**：一线真实结果的短记录 |
 | [`feishu/`](feishu/README.md) | **飞书知识库**：阳亚运的知识库导出（文档、表格与附件） |
-| [`obsidian/`](obsidian/README.md) | **Obsidian 系列**：运营、广告、选品与 AI 笔记，含 Canvas 与图片 |
+| [`obsidian/`](obsidian/README.md) | **Obsidian 系列**：LinSee、Obsidian Vault、亚运的远程仓库三个库 |
 
 ## Obsidian 系列
 
-笔记、Canvas 和图片在 [Obsidian 知识库](obsidian/README.md)。用 Obsidian 打开 `obsidian/` 可保留双链和嵌入。
+三个库的目录在 [Obsidian 知识库](obsidian/README.md)：`LinSee/`、`Obsidian Vault/`、`亚运的远程仓库/`。各自用 Obsidian 打开可保留双链和嵌入。
 
 ## 核心方法论
 
