@@ -1,0 +1,36 @@
+{
+  "title": "Prime Day截图",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/ewoKm5Xha0p-mOrK3TydDg",
+  "canonical_url": "https://mp.weixin.qq.com/s/ewoKm5Xha0p-mOrK3TydDg",
+  "published_at": "2018-05-23T23:47:54+08:00",
+  "excerpt": "Prime Day",
+  "language": "zh-CN",
+  "content_hash": "69baccad03fcc2314514de74d0df2368287f42150775cdd2c06b3040bdef5077",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEAJqXTh2o4eQxBs7PqIU3kz7wrs3R5eXjCliczr0X0lQQ4cA93iacHia9RdbxXNVZy5u6lNcfr4wJgcw/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEAJqXTh2o4eQxBs7PqIU3kzd2BAtLXSukjOFZSeJfFqnPPVRCM6j8S5JkGnNkhbz8hofNU0LXianPw/640?wx_fmt=png#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEAJqXTh2o4eQxBs7PqIU3kzFRicOxzRAnibibHUbvmmopqoQUiaPj8pmxJwbl1Uf3ibfaPq8IAx2hYOGrA/640?wx_fmt=png#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
