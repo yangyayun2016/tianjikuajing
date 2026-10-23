@@ -1,0 +1,45 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1160" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4EA"/>
+      <stop offset="1" stop-color="#F9F1EE"/>
+    </linearGradient>
+    <filter id="shadow" x="760" y="132" width="270" height="334" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#7B3400" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="24" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="640" rx="24" stroke="#F0D8C6"/>
+
+  <rect x="84" y="84" width="132" height="38" rx="19" fill="#7B3400"/>
+  <text x="150" y="109" text-anchor="middle" fill="white" font-size="18" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">公开仓库</text>
+
+  <rect x="84" y="146" width="520" height="6" rx="3" fill="#F0D8C6"/>
+
+  <text x="84" y="248" fill="#7B3400" font-size="74" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="800">Amazon Skills</text>
+  <text x="84" y="338" fill="#92542A" font-size="28" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="600">亚马逊卖家实战 Skills 仓库</text>
+  <text x="84" y="392" fill="#A16D4A" font-size="24" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="500">适用于 Claude Code、Codex、Cursor 的自然语言安装</text>
+
+  <g>
+    <rect x="84" y="442" width="148" height="46" rx="23" fill="#FFF0E6"/>
+    <text x="158" y="472" text-anchor="middle" fill="#7B3400" font-size="22" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">选品</text>
+
+    <rect x="248" y="442" width="148" height="46" rx="23" fill="#FFF0E6"/>
+    <text x="322" y="472" text-anchor="middle" fill="#7B3400" font-size="22" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">验证</text>
+
+    <rect x="412" y="442" width="178" height="46" rx="23" fill="#FFF0E6"/>
+    <text x="501" y="472" text-anchor="middle" fill="#7B3400" font-size="22" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">Listing</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="792" y="164" width="206" height="270" rx="28" fill="white"/>
+  </g>
+  <rect x="828" y="202" width="134" height="10" rx="5" fill="#7B3400"/>
+  <rect x="828" y="232" width="98" height="10" rx="5" fill="#E9C7AE"/>
+  <rect x="828" y="298" width="134" height="56" rx="18" fill="#FFF4EC"/>
+  <text x="895" y="332" text-anchor="middle" fill="#7B3400" font-size="24" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="700">可安装</text>
+  <rect x="828" y="370" width="134" height="24" rx="12" fill="#FFF0E6"/>
+
+  <text x="1190" y="582" text-anchor="end" fill="#A16D4A" font-size="20" font-family="PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif" font-weight="600">公开可安装</text>
+</svg>

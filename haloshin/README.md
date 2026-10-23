@@ -1,0 +1,49 @@
+# haloshin 公开学习仓库（vendored）
+
+haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库。不是 git submodule。各目录里的 `SOURCE.md` 记录上游地址、快照时间和 commit；有 `LICENSE` / `LICENSE.md` 的一并保留。
+
+**导入已完成（batch 1–13 / 13）。** 本目录下保留 37 个学习仓库。`seller-university/` 留在仓库根目录，不在这里。`BSC-Amazon-OPC-Agent-OS/` 里的 `BSC-OPC-Agent.exe` 因体积过大未纳入。
+
+快照时间：2026-10-23 15:23 Asia/Shanghai。
+
+## 已导入的 37 个仓库
+
+| 目录 | 上游 | 内容 |
+|---|---|---|
+| [`amazon-skills/`](amazon-skills/) | [haloshin/amazon-skills](https://github.com/haloshin/amazon-skills) | 亚马逊卖家 skill：选品验证、Listing 健康检查、关键词与市场分析 |
+| [`sp-api-mcp/`](sp-api-mcp/) | [haloshin/sp-api-mcp](https://github.com/haloshin/sp-api-mcp) | Selling Partner API 的 MCP Server |
+| [`seller-second-brain/`](seller-second-brain/) | [haloshin/seller-second-brain](https://github.com/haloshin/seller-second-brain) | 跨境卖家第二大脑笔记（GBrain / LLM Wiki） |
+| [`BSC-Amazon-OPC-Agent-OS/`](BSC-Amazon-OPC-Agent-OS/) | [haloshin/BSC-Amazon-OPC-Agent-OS](https://github.com/haloshin/BSC-Amazon-OPC-Agent-OS) | OPC Agent：产品图生成与 COSMO/Rufus Listing 优化 |
+| [`review-analyzer-skill/`](review-analyzer-skill/) | [haloshin/review-analyzer-skill](https://github.com/haloshin/review-analyzer-skill) | 评论深度分析 skill |
+| [`ReviewMind-Skills/`](ReviewMind-Skills/) | [haloshin/ReviewMind-Skills](https://github.com/haloshin/ReviewMind-Skills) | 评论 ABSA / NER 分析 skill |
+| [`gpt-image2-ecommerce/`](gpt-image2-ecommerce/) | [haloshin/gpt-image2-ecommerce](https://github.com/haloshin/gpt-image2-ecommerce) | GPT-Image-2 电商素材生成 skill |
+| [`content-risk-detector/`](content-risk-detector/) | [haloshin/content-risk-detector](https://github.com/haloshin/content-risk-detector) | 短视频逐字稿合规检测 skill |
+| [`ClaudeSkills/`](ClaudeSkills/) | [haloshin/ClaudeSkills](https://github.com/haloshin/ClaudeSkills) | Claude Code skill 合集 |
+| [`DeepTutor/`](DeepTutor/) | [haloshin/DeepTutor](https://github.com/haloshin/DeepTutor) | Agent 个性化辅导 |
+| [`Humanizer-zh/`](Humanizer-zh/) | [haloshin/Humanizer-zh](https://github.com/haloshin/Humanizer-zh) | 中文 AI 写作去痕 |
+| [`Vibe-Trading/`](Vibe-Trading/) | [haloshin/Vibe-Trading](https://github.com/haloshin/Vibe-Trading) | 个人交易 Agent（研究、回测、量化） |
+| [`awesome-design-md/`](awesome-design-md/) | [haloshin/awesome-design-md](https://github.com/haloshin/awesome-design-md) | 面向开发者站点的 DESIGN.md 合集 |
+| [`awesome-design-skills/`](awesome-design-skills/) | [haloshin/awesome-design-skills](https://github.com/haloshin/awesome-design-skills) | 设计系统 skill 合集（SKILL.md + DESIGN.md） |
+| [`awesome-gpt-image-2/`](awesome-gpt-image-2/) | [haloshin/awesome-gpt-image-2](https://github.com/haloshin/awesome-gpt-image-2) | GPT-Image2 提示词案例库（parts 1–5/5，已齐） |
+| [`blog-opensource/`](blog-opensource/) | [haloshin/blog-opensource](https://github.com/haloshin/blog-opensource) | 博客系统：双编辑器、AI 写作与全文检索 |
+| [`bm.md/`](bm.md/) | [haloshin/bm.md](https://github.com/haloshin/bm.md) | Markdown 排版助手，适配公众号等平台 |
+| [`claude-code/`](claude-code/) | [haloshin/claude-code](https://github.com/haloshin/claude-code) | 终端里的 agentic coding 工具 |
+| [`claude-hud/`](claude-hud/) | [haloshin/claude-hud](https://github.com/haloshin/claude-hud) | Claude Code 状态栏插件 |
+| [`darwin-skill/`](darwin-skill/) | [haloshin/darwin-skill](https://github.com/haloshin/darwin-skill) | 用进化方式优化 Agent Skills |
+| [`feedgrab/`](feedgrab/) | [haloshin/feedgrab](https://github.com/haloshin/feedgrab) | 多平台内容抓取、转录与消化 |
+| [`follow-builders/`](follow-builders/) | [haloshin/follow-builders](https://github.com/haloshin/follow-builders) | 跟踪 AI 建设者动态的摘要 |
+| [`gpt_image_playground/`](gpt_image_playground/) | [haloshin/gpt_image_playground](https://github.com/haloshin/gpt_image_playground) | gpt-image-2 生图与编辑 Web UI |
+| [`guizang-ppt-skill/`](guizang-ppt-skill/) | [haloshin/guizang-ppt-skill](https://github.com/haloshin/guizang-ppt-skill) | 电子杂志风网页 PPT skill |
+| [`huashu-design/`](huashu-design/) | [haloshin/huashu-design](https://github.com/haloshin/huashu-design) | 用一句话生成动画、原型、PPT 与信息图的设计 skill |
+| [`ip-diagram-creator/`](ip-diagram-creator/) | [haloshin/ip-diagram-creator](https://github.com/haloshin/ip-diagram-creator) | 个人 IP 图解：角色资产、知识卡与 PPT 页面 |
+| [`markdown-to-image/`](markdown-to-image/) | [haloshin/markdown-to-image](https://github.com/haloshin/markdown-to-image) | 把 Markdown 渲染成社交图片与海报 |
+| [`nuwa-skill/`](nuwa-skill/) | [haloshin/nuwa-skill](https://github.com/haloshin/nuwa-skill) | 女娲 skill：把人物与经验蒸馏成可复用 Agent skill |
+| [`open-design/`](open-design/) | [haloshin/open-design](https://github.com/haloshin/open-design) | 本地优先的开源设计工作台（parts 1–10/10，已齐） |
+| [`skills-hub/`](skills-hub/) | [haloshin/skills-hub](https://github.com/haloshin/skills-hub) | 本地 AI agent skills 管理工作台 |
+| [`skills-manage/`](skills-manage/) | [haloshin/skills-manage](https://github.com/haloshin/skills-manage) | 跨平台管理 coding agent skills 的桌面应用 |
+| [`taste-skill/`](taste-skill/) | [haloshin/taste-skill](https://github.com/haloshin/taste-skill) | 提升 AI 界面质感的前端 skill |
+| [`title-humanizer/`](title-humanizer/) | [haloshin/title-humanizer](https://github.com/haloshin/title-humanizer) | 按读者视角改写标题 |
+| [`watchless/`](watchless/) | [haloshin/watchless](https://github.com/haloshin/watchless) | 把视频转成带关键帧的可读文档 |
+| [`wechat-article-obsidian/`](wechat-article-obsidian/) | [haloshin/wechat-article-obsidian](https://github.com/haloshin/wechat-article-obsidian) | 公众号排版、配图与草稿的 Obsidian 插件 |
+| [`xiaohu-wechat-format/`](xiaohu-wechat-format/) | [haloshin/xiaohu-wechat-format](https://github.com/haloshin/xiaohu-wechat-format) | 公众号排版、封面与发布 skill |
+| [`zhangxuefeng-skill/`](zhangxuefeng-skill/) | [haloshin/zhangxuefeng-skill](https://github.com/haloshin/zhangxuefeng-skill) | 张雪峰视角的志愿与职业分析 skill |

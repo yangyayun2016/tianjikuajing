@@ -1,0 +1,54 @@
+{
+  "sorftime_mcp": {
+    "enabled": true,
+    "endpoint": "https://mcp.sorftime.com",
+    "api_key": "UMPVF47LE8G5GBVP1F75R3EO757P94UB58NEDO2LU5BT73QUEP4ACBVIV6L3C0BMTEI4VMTRTO6MSP91Q3V0JJVVAHL0MVFA",
+    "description": "Sorftime MCP"
+  },
+  "sif_mcp": {
+    "enabled": true,
+    "endpoint": "https://mcp.sif.com/mcp?secret-key=SIFmcp260420u447m6dbpfpnaph8",
+    "api_key": "VI44HS9O3FHADCBNGOC2I7F1AVNCTFPI193BCHG8TNRLHO6EH1DAPGN0IRJ4M8IJKHSO692LLIR7H0MUVCOQNL9OT8======",
+    "description": "Sif MCP"
+  },
+  "chatgpt": {
+    "email": "",
+    "password": "",
+    "model": "gpt-image-2",
+    "session_note": ""
+  },
+  "paths": {
+    "input_dir": "./input",
+    "output_dir": "./output",
+    "prompts_dir": "./prompts",
+    "logs_dir": "./logs",
+    "wiki_dir": "./Wiki",
+    "rufus_cosmo_dir": "./Wiki/06-Rufus-Cosmo"
+  },
+  "apimart": {
+    "api_key": "8NLG6UGKCF588O906BD8MH00KRV7TJNKBG70FDA10DAPJUEGK902QN6MS6EDCIGN65E3MJHAJLGUTK2FM4SS22IIP0V4LEQQQJJRGK7IJ8R8RF27LMDKV75TRT9FS58=",
+    "base_url": "https://api.apimart.ai",
+    "model": "gpt-image-2-official",
+    "resolution": "1k",
+    "quality": "high",
+    "output_format": "png",
+    "description": "APIMart API"
+  },
+  "image_generation": {
+    "default_model": "gpt-image-2-official",
+    "provider": "apimart",
+    "retry_limit": 3,
+    "delay_between_requests": 3,
+    "poll_interval_seconds": 5,
+    "task_timeout_seconds": 300,
+    "output_formats": [
+      "png",
+      "psd"
+    ]
+  },
+  "sellersprite_mcp": {
+    "endpoint": "",
+    "api_key": "",
+    "enabled": false
+  }
+}
