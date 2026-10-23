@@ -4,7 +4,7 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 
 `seller-university/` 已在 `master` 根目录，不在本目录。
 
-## 本 PR 已导入（batch 1–6 / 13）
+## 本 PR 已导入（batch 1–7 / 13）
 
 快照时间：2026-10-23 15:23 Asia/Shanghai。
 
@@ -35,5 +35,6 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 | [`gpt_image_playground/`](gpt_image_playground/) | [haloshin/gpt_image_playground](https://github.com/haloshin/gpt_image_playground) | gpt-image-2 生图与编辑 Web UI |
 | [`guizang-ppt-skill/`](guizang-ppt-skill/) | [haloshin/guizang-ppt-skill](https://github.com/haloshin/guizang-ppt-skill) | 电子杂志风网页 PPT skill |
 | [`huashu-design/`](huashu-design/) | [haloshin/huashu-design](https://github.com/haloshin/huashu-design) | 用一句话生成动画、原型、PPT 与信息图的设计 skill |
+| [`ip-diagram-creator/`](ip-diagram-creator/) | [haloshin/ip-diagram-creator](https://github.com/haloshin/ip-diagram-creator) | 个人 IP 图解：角色资产、知识卡与 PPT 页面 |
 
-`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 7–13 会继续追加到本目录。
+`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 8–13 会继续追加到本目录。
