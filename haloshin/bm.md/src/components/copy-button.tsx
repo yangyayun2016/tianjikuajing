@@ -1,0 +1,33 @@
+import { Check, Copy } from 'lucide-react'
+import { useState } from 'react'
+import { toast } from 'sonner'
+
+import { Button } from '@/components/ui/button'
+import { copyText } from '@/lib/clipboard'
+
+interface CopyButtonProps {
+  text: string
+  className?: string
+}
+
+export function CopyButton({ text, className }: CopyButtonProps) {
+  const [copied, setCopied] = useState(false)
+
+  const handleCopy = async () => {
+    const success = await copyText(text)
+    if (success) {
+      setCopied(true)
+      toast.success('复制成功')
+      setTimeout(() => setCopied(false), 2000)
+    }
+    else {
+      toast.error('复制失败')
+    }
+  }
+
+  return (
+    <Button variant="ghost" size="icon-sm" onClick={handleCopy} className={className} aria-label="复制">
+      {copied ? <Check className="size-4" /> : <Copy className="size-4" />}
+    </Button>
+  )
+}

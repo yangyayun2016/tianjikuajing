@@ -4,7 +4,7 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 
 `seller-university/` 已在 `master` 根目录，不在本目录。
 
-## 本 PR 已导入（batch 1–4 / 13）
+## 本 PR 已导入（batch 1–5 / 13）
 
 快照时间：2026-10-23 15:23 Asia/Shanghai。
 
@@ -25,5 +25,14 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 | [`awesome-design-md/`](awesome-design-md/) | [haloshin/awesome-design-md](https://github.com/haloshin/awesome-design-md) | 面向开发者站点的 DESIGN.md 合集 |
 | [`awesome-design-skills/`](awesome-design-skills/) | [haloshin/awesome-design-skills](https://github.com/haloshin/awesome-design-skills) | 设计系统 skill 合集（SKILL.md + DESIGN.md） |
 | [`awesome-gpt-image-2/`](awesome-gpt-image-2/) | [haloshin/awesome-gpt-image-2](https://github.com/haloshin/awesome-gpt-image-2) | GPT-Image2 提示词案例库（parts 1–5/5，已齐） |
+| [`blog-opensource/`](blog-opensource/) | [haloshin/blog-opensource](https://github.com/haloshin/blog-opensource) | 博客系统：双编辑器、AI 写作与全文检索 |
+| [`bm.md/`](bm.md/) | [haloshin/bm.md](https://github.com/haloshin/bm.md) | Markdown 排版助手，适配公众号等平台 |
+| [`claude-code/`](claude-code/) | [haloshin/claude-code](https://github.com/haloshin/claude-code) | 终端里的 agentic coding 工具 |
+| [`claude-hud/`](claude-hud/) | [haloshin/claude-hud](https://github.com/haloshin/claude-hud) | Claude Code 状态栏插件 |
+| [`darwin-skill/`](darwin-skill/) | [haloshin/darwin-skill](https://github.com/haloshin/darwin-skill) | 用进化方式优化 Agent Skills |
+| [`feedgrab/`](feedgrab/) | [haloshin/feedgrab](https://github.com/haloshin/feedgrab) | 多平台内容抓取、转录与消化 |
+| [`follow-builders/`](follow-builders/) | [haloshin/follow-builders](https://github.com/haloshin/follow-builders) | 跟踪 AI 建设者动态的摘要 |
+| [`gpt_image_playground/`](gpt_image_playground/) | [haloshin/gpt_image_playground](https://github.com/haloshin/gpt_image_playground) | gpt-image-2 生图与编辑 Web UI |
+| [`guizang-ppt-skill/`](guizang-ppt-skill/) | [haloshin/guizang-ppt-skill](https://github.com/haloshin/guizang-ppt-skill) | 电子杂志风网页 PPT skill |
 
-`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 5–13 会继续追加到本目录。
+`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 6–13 会继续追加到本目录。
