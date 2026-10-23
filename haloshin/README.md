@@ -4,7 +4,7 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 
 `seller-university/` 已在 `master` 根目录，不在本目录。
 
-## 本 PR 已导入（batch 1–10 / 13）
+## 本 PR 已导入（batch 1–11 / 13）
 
 快照时间：2026-10-23 15:23 Asia/Shanghai。
 
@@ -38,6 +38,6 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 | [`ip-diagram-creator/`](ip-diagram-creator/) | [haloshin/ip-diagram-creator](https://github.com/haloshin/ip-diagram-creator) | 个人 IP 图解：角色资产、知识卡与 PPT 页面 |
 | [`markdown-to-image/`](markdown-to-image/) | [haloshin/markdown-to-image](https://github.com/haloshin/markdown-to-image) | 把 Markdown 渲染成社交图片与海报 |
 | [`nuwa-skill/`](nuwa-skill/) | [haloshin/nuwa-skill](https://github.com/haloshin/nuwa-skill) | 女娲 skill：把人物与经验蒸馏成可复用 Agent skill |
-| [`open-design/`](open-design/) | [haloshin/open-design](https://github.com/haloshin/open-design) | 本地优先的开源设计工作台（**不完整**：parts 1–5/10，其余在后续 batch） |
+| [`open-design/`](open-design/) | [haloshin/open-design](https://github.com/haloshin/open-design) | 本地优先的开源设计工作台（**不完整**：parts 1–8/10，其余在后续 batch） |
 
-`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。`open-design` 目前只有 parts 1–5/10。后续 batch 11–13 会继续追加到本目录。
+`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。`open-design` 目前只有 parts 1–8/10。后续 batch 12–13 会继续追加到本目录。
