@@ -1,0 +1,35 @@
+{
+  "title": "亚马逊广告技巧--万字总结(一)",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/rZJO5a8z4tIDLknSIynnEw",
+  "canonical_url": "https://mp.weixin.qq.com/s/rZJO5a8z4tIDLknSIynnEw",
+  "published_at": "2021-10-12T21:59:55+08:00",
+  "excerpt": "一、自动广告打法（打收录、打曝光、降低花费）1、打收录（新品期）拓展收录是从搜索词方面，所以建议可以将关联商",
+  "language": "zh-CN",
+  "content_hash": "5fa1f81a19e1fab74593904917287a4afb798a264c7bf5094802c304777a6ece",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEC6qptNOmeTWJLRrlEibuyTaiaMIGtZDiao5rBQ75IRtvdx6e8AhkuoAZHJxcUMZf6pwwq6JZUviaUVJw/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEC6qptNOmeTWJLRrlEibuyTaO8icsptyfjImiclwoKNWdEDNPqlO6FGzP8bK0qJPRj9uDPkabwPE50xg/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC6qptNOmeTWJLRrlEibuyTa3icDicsNLicd03uH8HUePOoezZfcTrMXjYdOib35zpicIgRQlWe5ia6Ee8aQ/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

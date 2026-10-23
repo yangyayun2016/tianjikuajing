@@ -1,0 +1,55 @@
+{
+  "title": "未来的思考",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/mOS51YY1dYBRhNeiDWUS3g",
+  "canonical_url": "https://mp.weixin.qq.com/s/mOS51YY1dYBRhNeiDWUS3g",
+  "published_at": "2026-01-02T00:00:37+08:00",
+  "excerpt": "个人IP  Rufus深度研究  GEO战略化\n\n针对亚马逊的一些最新的研究和学习（后期陆续更新），思路整理和落地\n\n 亚马逊最新功能分析（Rufus，prompt广告， benchmark基准 ）GEO战略化研究，以及模版飞书&Excel在线表格，业务流程SOP,运营和选品， AI想法 和， 未来的设想规划，OSaaS xflow OS OPaaS  SOP OP操作系统\n\n未来10-20年坚持品牌出海路线做品牌本地化，落地生根， 品牌落地，品牌本地化营销策划解决方案，  ",
+  "language": "zh-CN",
+  "content_hash": "7c4c22ff8c338be671220231e0bd79be3f96143999a5341a5cf16c58cec8fb9f",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEB8HnDNicT2KLd41bm7r3ftRcytdZFgh1uTtWzqgNwNNEGDLIsqic9cZ1681Mibt3DxLWLyNTJVYD3aQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEB8HnDNicT2KLd41bm7r3ftRCS7yqaky7IuicfJicgRUgENo34dqNsNZ5hhFTmiazMoCn78P7oSlWO2gQ/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB8HnDNicT2KLd41bm7r3ftRb2iahcKEwfZas6fVXQQY7Gb47GFHoLZicZOXRVmDw3fLZMn36RhjA6sQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB8HnDNicT2KLd41bm7r3ftRM5LJ90wpCO0tuT48E1EF0fGPgficNfiaSSgyias9ItPvBTneOoFiaXCoBA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB8HnDNicT2KLd41bm7r3ftRb2iahcKEwfZas6fVXQQY7Gb47GFHoLZicZOXRVmDw3fLZMn36RhjA6sQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB8HnDNicT2KLd41bm7r3ftRM5LJ90wpCO0tuT48E1EF0fGPgficNfiaSSgyias9ItPvBTneOoFiaXCoBA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB8HnDNicT2KLd41bm7r3ftR3TkkcAMuRnU8yKvJtO7DGPSCw6DjmeyE5gMLrsBbh7NZwlt2DyASVA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

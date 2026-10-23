@@ -1,0 +1,31 @@
+{
+  "title": "客户维护邮件基础以及广告批量操作",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/DzfZ0pJD0AYz7M-QES2IMA",
+  "canonical_url": "https://mp.weixin.qq.com/s/DzfZ0pJD0AYz7M-QES2IMA",
+  "published_at": "2018-05-03T23:45:57+08:00",
+  "excerpt": "客户维护邮件基础以及广告批量操作",
+  "language": "zh-CN",
+  "content_hash": "e8c873c025f40b761bb84cefa55e4ae2b5d5a23f1013b5c3f0387f54a455b48a",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEBQAibjx49w7wHibxejejTGWsUQt6A78WnW54Pibm8W7JQicFgaaFt1DhDCyBQAzibKG75jChOBCe3xHEQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEBQAibjx49w7wHibxejejTGWs2yuAra7UMibVCJxIBaoicvEdFTiapVoI0rHY7HHDicd1t6ZYDVSziaPNRrQ/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

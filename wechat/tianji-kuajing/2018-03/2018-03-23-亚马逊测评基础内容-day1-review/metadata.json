@@ -1,0 +1,56 @@
+{
+  "title": "亚马逊测评基础内容 Day1- Review",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/qMAJ4esHZKCeOvwGR2LxjQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/qMAJ4esHZKCeOvwGR2LxjQ",
+  "published_at": "2018-03-23T09:27:14+08:00",
+  "excerpt": "亚马逊送测： 一，流程和注意事项 二，术语和开发信 三，送测渠道 四，买家数据",
+  "language": "zh-CN",
+  "content_hash": "4a72e92b7e7ec40378f2bc8fc2792453e52ef95b49bf9d01773222772bd638bb",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC8Rtn7l8icavYySpicz9cTeHo1GJpM9m5oH2RX1hibcfUbnG7pQBIq00jxgqn6DHibAUYqDKQ4lmJwyg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC8Rtn7l8icavYySpicz9cTeH5EKTHV4xQuIlboYcUUUWp9UmxicbtCSPbD22Tvsvf1bXrtWJrx4TYJQ/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC8Rtn7l8icavYySpicz9cTeHASJLKfryadwvOfY3qt2Zk5nficMO0vCdyNPjicYlzmfW0TDB8hTcF1hA/640?wx_fmt=jpeg#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC8Rtn7l8icavYySpicz9cTeHw16aJnUbbf6ciaepqgL8MficunXS140AWHZFyEolIBuILTQxaibPdCu2g/640?wx_fmt=jpeg#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC8Rtn7l8icavYySpicz9cTeHj2fvUMquHaNiaicmP5APx7eo7omN22yGIWVZ1K9nuyNMiaqLsQjw5cPyw/640?wx_fmt=jpeg#imgIndex=3",
+      "local_path": "images/img_004.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC8Rtn7l8icavYySpicz9cTeHKNYlAa6eyRqjE9KtRg2fpoqbzVomaLWu20A4ONyiaaibnh1A9PU31zng/640?wx_fmt=jpeg#imgIndex=4",
+      "local_path": "images/img_005.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC8Rtn7l8icavYySpicz9cTeHMr3gpaOiawwMvpHsz3Fick9Ib2ibCUyqfVHibRCiabWJHOhG9A3UmLufdeA/640?wx_fmt=jpeg#imgIndex=5",
+      "local_path": "images/img_006.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

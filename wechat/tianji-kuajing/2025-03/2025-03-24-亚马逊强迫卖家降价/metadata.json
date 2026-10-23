@@ -1,0 +1,29 @@
+{
+  "title": "亚马逊强迫卖家降价！！",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/oWSGvDiI-YNPx0Oa0X2qRQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/oWSGvDiI-YNPx0Oa0X2qRQ",
+  "published_at": "2025-03-24T21:59:21+08:00",
+  "excerpt": "分享一篇文章。",
+  "language": "zh-CN",
+  "content_hash": "adff0267f2a3a2025af0d83a47f6f5dce77ed49f3e58879021271b2b8dc701e4",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/fxibyGiakeDgGAuHPzN5RgnCdp1bhaXhriaLpLE5FiaI8xRewAQauRXtehtcbmPDaOB0dzSbwh862XR8T0sFF63H6Q/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/fxibyGiakeDgGAuHPzN5RgnCdp1bhaXhriaYN0nagxorlU8vclJpKe1MSlcqP8xPEwcJdibmEvNAPxnSdCKn0tVQQQ/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

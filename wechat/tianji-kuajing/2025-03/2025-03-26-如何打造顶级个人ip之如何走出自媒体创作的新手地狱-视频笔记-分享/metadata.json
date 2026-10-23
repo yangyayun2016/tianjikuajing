@@ -1,0 +1,35 @@
+{
+  "title": "如何打造顶级个人IP之如何走出自媒体创作的新手地狱【视频笔记】分享",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/Ovm_F4Yt-TyYTGoMOLp5Uw",
+  "canonical_url": "https://mp.weixin.qq.com/s/Ovm_F4Yt-TyYTGoMOLp5Uw",
+  "published_at": "2025-03-26T22:29:19+08:00",
+  "excerpt": "如何打造顶级个人IP之如何走出自媒体创作的新手地狱【视频笔记】分享思维导图：笔记根据视频字幕生成，更佳学习体验",
+  "language": "zh-CN",
+  "content_hash": "b353bf4bca71c0ab83f6a368760f9ace35a2f9bb19a0702920d1c21475330205",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAZ6TW5ggQpCDjyccekmNw3eABkztiaoPea86QY5gSVJdmdbT3uRSRiay343BzgxLh2xUribibwtq98lA/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAZ6TW5ggQpCDjyccekmNw3lic1s1ibAAYC3rDOibMmCXibdqjicZ3hvCJmtOquV1SmOECfj4yX1RGFrtA/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAZ6TW5ggQpCDjyccekmNw3XOYjLsoEsicl6XVHm8dib8ThLq8L0kpBB7DiaY6o7d1RstVkibQTwQYBzA/640?wx_fmt=png&from=appmsg#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "简析《傲慢与偏见》中的爱情",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/_-dXR97qob0z8ccFRJLPew",
+  "canonical_url": "https://mp.weixin.qq.com/s/_-dXR97qob0z8ccFRJLPew",
+  "published_at": "2018-08-10T00:29:01+08:00",
+  "excerpt": "深度解析《傲慢与偏见》中四对青年男女的爱情与婚姻",
+  "language": "zh-CN",
+  "content_hash": "5c5bfae1cc2e5689c52fad57bf3f1a0753e0c4de89127c14869173bccba43330",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDfN5VMgnIkVFQhMhomA59umMTiasJmKC9TD1bibYt3LsZFbsugAxib4uk218qZoYJUDQ7NKrVstr75g/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

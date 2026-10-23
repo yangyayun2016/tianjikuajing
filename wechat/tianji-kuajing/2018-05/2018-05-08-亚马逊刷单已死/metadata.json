@@ -1,0 +1,41 @@
+{
+  "title": "亚马逊刷单已死",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/VLEs6EbdknyvtD-6jfobDQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/VLEs6EbdknyvtD-6jfobDQ",
+  "published_at": "2018-05-08T23:43:07+08:00",
+  "excerpt": "最近圈内盛传刷单留评已死，亚马逊进入后刷单时代。直评，小黑号时代走向衰落，整个世界都清净了。刷单成本增加",
+  "language": "zh-CN",
+  "content_hash": "8588797427cbe8e40e45ed8efad33db88f38d4ed34710f5baf50ba91fcbc2784",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECB6Z2JyWK71a2VDS6IorRqoKhKDia663WqGbug3BIaywxDxTey490zPXOzdq3nNWW3jGOR0R1otYg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/3ibKKdlqE3f2Gy87R866PFmmSTq7GGpIQiblZIkYaKL93D7cPC3Hd1396nwvibficK8jOhCLOCu1We6N4HQ018ibO4g/640?wx_fmt=png#imgIndex=1",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/3ibKKdlqE3f2Gy87R866PFmmSTq7GGpIQvbLHicOEUXJbmsqZXicLMNKdWQmHKJ8R9dhbCk75F3eTSklqB5sicVVjQ/640?wx_fmt=png#imgIndex=2",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECB6Z2JyWK71a2VDS6IorRqrIA1aeWHblc8qvglWicjBE6uy1FCTZIPhiaDVFGB3lPiaDF7oQqicBGgOQ/640?wx_fmt=jpeg#imgIndex=3",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

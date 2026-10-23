@@ -1,0 +1,35 @@
+{
+  "title": "亚马逊AI工作流-谷歌Gemini business搭建工作流",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/1Iy8WpBLggoujjXDpYBcQQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/1Iy8WpBLggoujjXDpYBcQQ",
+  "published_at": "2026-02-07T23:44:56+08:00",
+  "excerpt": "![Image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H8Ddj7pPljulzA5a8XajUUlAotcAvLb4iax4AFmibDVexbK1D0TQbiaqgvHvOYDicIQWJtl4TGHjFG9mYKibjoBcvA5Z7kafpE8hERg/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=0)\n\n亚马逊卖家战略总监(E-commerce Planning ",
+  "language": "zh-CN",
+  "content_hash": "b9414f0c09f5167ad55a2b089cb7ce0fd35f81748abe4a117f681957074caf2a",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H89xhwb1HNbDL7yG4oDBkdpklFVuXBD4cqibcDicE2cOriaJrlX0LhmokaVrx7sxmRzd2HnxAyjKtq2t4YdKds4HfibFhshhfHiaG5E/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5Hib6y3Cw67Rak9HPbIW0kCvOKcK9OZ4ATCrMhBaVpHia6piau0D5DuMib94Ix8qm3NPb71riaXAj9eLq6ILKRjM3vQaHh2Reib2sEt7Y/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H8Ddj7pPljulzA5a8XajUUlAotcAvLb4iax4AFmibDVexbK1D0TQbiaqgvHvOYDicIQWJtl4TGHjFG9mYKibjoBcvA5Z7kafpE8hERg/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

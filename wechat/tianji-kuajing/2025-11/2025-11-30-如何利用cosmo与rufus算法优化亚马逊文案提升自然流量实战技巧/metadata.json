@@ -1,0 +1,29 @@
+{
+  "title": "如何利用COSMO与Rufus算法优化亚马逊文案提升自然流量实战技巧",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/aYuJvrWYL0eT9E-L79q1_A",
+  "canonical_url": "https://mp.weixin.qq.com/s/aYuJvrWYL0eT9E-L79q1_A",
+  "published_at": "2025-11-30T23:59:45+08:00",
+  "excerpt": "如何利用COSMO与Rufus算法优化亚马逊文案提升自然流量实战技巧https://ai.feishu.cn/",
+  "language": "zh-CN",
+  "content_hash": "4608bec0fb01bc34ccf848e6bf641d61ed15f98e2e9699dc644f59cebe648fdf",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEDTGMJ3ne0ia1WkJcmDOPo68oDtfiaYCsWkyHsE3vmcLIgUxK5ib4DPWKCiczzibLFugvYrSJt4ptHPYQA/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEDTGMJ3ne0ia1WkJcmDOPo68ELLP43Qhfb29PcAtycNukVHCjwnqVJMz8To10tgwujDaZZchZKLHHA/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

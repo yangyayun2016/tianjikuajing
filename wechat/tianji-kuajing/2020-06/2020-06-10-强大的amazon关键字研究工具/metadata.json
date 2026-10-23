@@ -1,0 +1,29 @@
+{
+  "title": "强大的Amazon关键字研究工具",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/HjBPs1rcfmvvBkm_JO8gwQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/HjBPs1rcfmvvBkm_JO8gwQ",
+  "published_at": "2020-06-10T00:13:18+08:00",
+  "excerpt": "亚马逊统统都没有告诉你们的关键字优化建议全都在这里！",
+  "language": "zh-CN",
+  "content_hash": "14f3aa02dd000ed7029743022498d80947c2f0b2405dd7c7a63ac5057d025474",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEAFTDIia7pmNH7MXNH0oAuw94RHSAzdvs3O2B5V8eMVnWuCsCMcfheJw5Y3ibhMvR6TQuxlpDop9exA/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEAFTDIia7pmNH7MXNH0oAuw9855XHxGhAB5w3bG4oFra55O2QyJ6KDYX8ZkjhJqv2GaxOiadBPtLtEg/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

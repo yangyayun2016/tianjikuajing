@@ -1,0 +1,40 @@
+{
+  "title": "亚马逊站内广告打法策略全面解析",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/zQr8BhHhC2TM49-fMVhx5Q",
+  "canonical_url": "https://mp.weixin.qq.com/s/zQr8BhHhC2TM49-fMVhx5Q",
+  "published_at": "2025-03-31T21:50:33+08:00",
+  "excerpt": "亚马逊站内广告打法策略全面解析",
+  "language": "zh-CN",
+  "content_hash": "dc492627780281547d90a8c4ea7ce341f503de972d80a6550e2595ef13a00120",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEB4FrYjOSFosrdr7EtIiaUCI62ctvyjL9BN6QL2x2icxgj6a4TuEWKze9PzZ36FwEmaMyDujtONbiasA/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEB4FrYjOSFosrdr7EtIiaUCIp65m7jibsXdmiauAbcMjyS04CbhyfTgcFD6vtOuWYmmqYhGgeEq570IA/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB4FrYjOSFosrdr7EtIiaUCIzibkzkst69GTrooFLOkJmZib7J8UAN5RPibl8bbfvFqP6rs5gyAYallJg/640?wx_fmt=png&from=appmsg#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB4FrYjOSFosrdr7EtIiaUCIzibkzkst69GTrooFLOkJmZib7J8UAN5RPibl8bbfvFqP6rs5gyAYallJg/640?wx_fmt=png&from=appmsg#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

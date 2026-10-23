@@ -1,0 +1,75 @@
+{
+  "title": "你测新款，亚马逊出钱！5%销售额返还！免仓储、移除、批量清货费...",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/CQolJwwnGm9WBjAK7fSw4g",
+  "canonical_url": "https://mp.weixin.qq.com/s/CQolJwwnGm9WBjAK7fSw4g",
+  "published_at": "2022-05-22T00:00:00+08:00",
+  "excerpt": "昨天我们公布的新卖家入门大礼包大家都get到了吗？如果您是新卖家，且在2022年1月1日后上线第一个ASIN",
+  "language": "zh-CN",
+  "content_hash": "6d90c5bf1f6354be0898b021633682f5504680e19f7d40f8ff3aa20b691cc10c",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiayQToSDmLLTzf2qas5FsbwjsWQyBhrMASHibprGoaIJlmltIhWkwXniasg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiayQToSDmLLTzf2qas5FsbwjsWQyBhrMASHibprGoaIJlmltIhWkwXniasg/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiaypPdFQ465MJ4XEZbBiawzUal2qiaibGYdaVdrkMuRhLoC5kZXdUOvjrX2Q/640?wx_fmt=png#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiayQk7G678CwvUl1rajT42FapUZYr0RawoPXJy1qDHqZ8YLibeibbxAic7GQ/640?wx_fmt=png#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiayDcoUNlrZfpliaGLHibNwLqgW0hlKp2rINicCibCQ9h6ZiaNWTDIVpV30y2w/640?wx_fmt=png#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiayrbfKHI1GKyp5rlHauPmwyy3k92BTZibCpEJ6GF9uA8snAdnWHFmX8UA/640?wx_fmt=png#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiay21y4AdjwOibzgn9vjVpX5dicBXXacdmQPwMw9tL8YNL83ZWa0wR2pexQ/640?wx_fmt=png#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiaykGEs2751JUcdmsCs7mQicJPSXGcrmYZZkZWtribnleEU1KhCL24Sm6lQ/640?wx_fmt=png#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiayibgxSaIutRV3AJjYPr93jqRufnaicRswv80Lo4X7V7ia0qcdt8FsAkia5w/640?wx_fmt=png#imgIndex=6",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiay7Sjxs4DdEojfTE22RKwXhrIADRmc8CkxqoicHbMnDwhkX6xOupcFTOg/640?wx_fmt=png#imgIndex=7",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qK5jH47NY7pibzaFIJvpmCiayiadmGGXlwDicXn2B3oTx7m7xwL2H5a64uW7xnianzEslYoRV2f8p4bJpg/640?wx_fmt=png#imgIndex=9",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "品牌卖家新功能，可联系卖家删除差评！！！",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/NAbsc-nuhymnVUoxv_Umbw",
+  "canonical_url": "https://mp.weixin.qq.com/s/NAbsc-nuhymnVUoxv_Umbw",
+  "published_at": "2021-10-18T20:00:00+08:00",
+  "excerpt": "品牌卖家新功能，可联系卖家删除差评！！！近期，亚马逊推出了一款新工具，能够让品牌卖家在客户给出1星、2星或3",
+  "language": "zh-CN",
+  "content_hash": "dc1e1e16b2f48c7e432bffd3f1bf1a412af0543d0baddd2df8dbc802c24a20bf",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEAtEXmTypy8fctMs5ryLxIex2GVljvSVlaicHu8mEdpmcbGZXty0LRBGZJkArXjEWic5fWl0LPxE3IA/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEAtEXmTypy8fctMs5ryLxIeYrIGZSIsYb28hq5sbZaomevKjN5zmBr5cFIGOAa81q7qn41L9EOF1Q/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEAtEXmTypy8fctMs5ryLxIealTYP7zOu0NicicHicwUFr4ua6qJ55om3VJVs48LN6nJNtiaSMMsx9FA9A/640?wx_fmt=png#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEAtEXmTypy8fctMs5ryLxIewxTGmyjwiaJPPiaZGictoA13X7IbNk1hGOmicGdFRNxquicFTMTpbqcm6eA/640?wx_fmt=png#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEAtEXmTypy8fctMs5ryLxIeAgf4WMpDHramseYiceYibavET6ZwRkY4wDiaNCJy2HdeZgYN9KACyYrPw/640?wx_fmt=png#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEAtEXmTypy8fctMs5ryLxIe2WllcL74UyKIuATcoghXk7icykBvEqDolkYxmNmiayWn9mO9vvS763hA/640?wx_fmt=png#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

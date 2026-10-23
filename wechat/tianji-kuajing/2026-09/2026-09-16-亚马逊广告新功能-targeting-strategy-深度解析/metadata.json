@@ -1,0 +1,60 @@
+{
+  "title": "亚马逊广告新功能 - Targeting Strategy 深度解析",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/vUwmTgnLMcrqrFzYRauDdA",
+  "canonical_url": "https://mp.weixin.qq.com/s/vUwmTgnLMcrqrFzYRauDdA",
+  "published_at": "2026-09-16T23:23:53+08:00",
+  "excerpt": "亚马逊广告进入AI决策时代，运营应该把精力放在目标设定，预算分配，流量价值判断，广告策略，顶层决策上Targeting Strategy真正的意义，是Amazon把越来越多广告执行工作交给系统AI越深入运营就越要把精力聚焦在目标设定、预算分配、流量价值判断这些顶层决策",
+  "language": "zh-CN",
+  "content_hash": "fbac7fe71a9156abd26cd4901d8810e00d3b2ce44080c17c1b3da924ba10ac80",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5Hic1SFTlYZPQ9BRRNSHicCJ8u5D6VYX8iaDcH4Q2bskVuyHVwSXsb3fpQ9N9pbf6pqkMQqw9Mib5RPPWGrpIYDgqCn4aA9aiaqXP2Fs/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H8wvmjrFmqg6uhQkbqO2lKM112ejr9pMnmvqPahlPcDg8xuicApwTtcFPXok03b7Q0LrZrG0ibmibdTFWZ1K1QLnJZOYBq6XcVWI8/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9nicImeaPfjDyiaBz7ciczkajfEhY0eruPUziaOgGKDGe4PLaxYfgQSQtZAt1nkocRAKBl9rry7rc5MMWvVPDY0mZOvKQJEePpFJQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9iaQcbz53rQZLspFwTwibk2Zg4I5Wmm8Isz7YCqvdicBTprK2zBuuw2O7kfeG6Rn4bXZVEZgyqDiclMibGibEMzTrAgjhoQwaEgzibiaw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H8sDWiboicicSMU7W3oDu3TuMmY1QCA6ibo74uazXC6UpZibhyVuuibQibQx5tWT3gibV2tAoWPeribEHpCXEYpFaAXQna3dcNomgyfRWbw/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hib4cS2L11VfRYPgLAicibBy6VFcGl6gAWicRthcvTdAkxaVUoiaX9GHJV3cfWmfZk5nQKHEanFoFGQ8JnmyErF93eO79nj5Zt0dpxU/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HiccibOgEicXhmwRTy3eSNHyy4LWfLktglogLicYBXn1zlzfLxQAAnkpVSmrKibhNVTVbeSZZXEhmprE5V4ibnUNvfb4sfupKIFPpG2Y/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibVic3wzw3o7u1C5vfB9bAKpwqDzzSSugk0SkkqGic3ib8AdO0avOXkx0eVh9ptXFVT8pwqb9Eic1ZVSUSecnfKwbHwh5FLQReIvNo/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

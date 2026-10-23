@@ -1,0 +1,45 @@
+{
+  "title": "亚马逊关键词词库+Rufus+COSMO算法",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/jgkFmM-OTbpPhaPLn1HH-w",
+  "canonical_url": "https://mp.weixin.qq.com/s/jgkFmM-OTbpPhaPLn1HH-w",
+  "published_at": "2026-02-27T23:59:48+08:00",
+  "excerpt": "![Image](https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9icFMiacxHTkia7CcWl4iaB1NiaB94Bd0A2mtu4WdowAsmBnE3dzbzDQnP8TVibxiawdOat4xhZ6Dh8xuiaEwRQnoDaWiboibWLnibFUwmeo/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1)\n\n![Image](https://mmbiz.qp",
+  "language": "zh-CN",
+  "content_hash": "95cbd2200ef664ee2d6d07523da6a48fd4d728459b68ef96c73c4b7ba01cefbe",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H9l6HoicZE7rJhJSzEicWAgXWd2HPF6vsHD3z6PRB7WkQMPP7zRlBnpbZv5GeqbibmyEErqypJafSzan7ich1A0pyMJa5QpEnq7ruM/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H8HQnTGMia5o9FNhmaVa6fIY9POp7vMQZ7WP7Pibl8MkqZplIVrBNOCEuH53hc4ichmOmgHMUGibjyhqdTahNdZgtKRGkG0GxAYMKs/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9icFMiacxHTkia7CcWl4iaB1NiaB94Bd0A2mtu4WdowAsmBnE3dzbzDQnP8TVibxiawdOat4xhZ6Dh8xuiaEwRQnoDaWiboibWLnibFUwmeo/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8PZE2eBb5GmXibp4RZf6xdG232lbaibANHq3yrN4MKibGRjQVc7wsYUHnWKH5CNhLI0wHYbBNZ2EAupzxtSQZEEaC9kibTialuQjcs/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H8OE2TUbVb0kt2AHrc13xYOCMEF2MIvDOC8BZNzex5jfy789JFmRl5mzNedeUeBl4YYkeibjoKswMxsmcHSbw68x0dNzia1RKBUI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

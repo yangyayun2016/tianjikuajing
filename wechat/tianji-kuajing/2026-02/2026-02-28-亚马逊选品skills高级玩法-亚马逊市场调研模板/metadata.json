@@ -1,0 +1,305 @@
+{
+  "title": "亚马逊选品skills高级玩法（亚马逊市场调研模板）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/NEG_BlBXh5pBIsZdCjWDWw",
+  "canonical_url": "https://mp.weixin.qq.com/s/NEG_BlBXh5pBIsZdCjWDWw",
+  "published_at": "2026-02-28T12:53:51+08:00",
+  "excerpt": "亚马逊选品skills高级玩法（亚马逊市场调研模板）",
+  "language": "zh-CN",
+  "content_hash": "d272387ddf4152ef23bb9dc90ceddf20c1c49dcb6065c7a5ed52f920c0ce7f8e",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H8ZUeWrx74zPxU8eY6WObicvRlXmGNdRVzErOy9SkE5A7WOpf0B6yIGsaicMHOMibE3IZGXPIW1s7hq07tT5deRapcvbTjHhND0xM/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H9W23SbZrB7vUSpF0v9ls3dOUvj7SibeHcnzwsLibXUEc4dN5sUiaOAaLgJNR1CYW1jBDTNGRVVuvCJG5iapR3FHpZnZREKROAZicOM/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8EtgERLdYUnWfwWHxOvZicHMC5nVtX65GrSmLN9neCVEiakR2hh4HgbPic6AW3994YiaIAkWFPAxwic6SCI20jLFWE9fQZ1yrhpomU/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H8STaeV6S5QERqja8x05xesS9HFsCAyfzLcewwK1cE1HM4hgabzvIUG4S78UxxQFTEaVo2G8foZHPOzZh8wtytXftwyibkQDibg8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HiccV3thTmaQuS2GzrF3hrjWoEcxKu6N7hE3wU09JaRexibIXX7xBzP62iaS9Lib5sJ4dglrKvElxgicLNM7Sypwdg3ExVRxXkGSt9U/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9vEcXkOyDr3RS2vHUjmTmOebgF1rEj4WLuTtbJ4Z0zOfMPYuvaGvZHrmfvjgger1g97niaIicj1424cMLBrre0CmLIERicZ6PSB4/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9XibWsQaPXxxcEWqrGSJS8dt2zEuspHI5Kiafp3xoEWfEIQtQYZhnH7Hg7kxF09F0Qlmn1ctlaomibAh3mK4DKUnUkLmCxuzlkk4/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9eZntqNIlFtp26ADWyR9b7ic5T4yw23sAk8N9FSib0lgABPTOVibSWOZvUqYjiaMbotl3bTZBONf7x5TvGYQ6jAubsqDGn97ibBzaY/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8iauVeNmGMAP8xSrJyIWZhOBjwXvu4DolO1aMwwZKdD4RbQumHbjVfKjSsJR78bNribFNgJYCa34EMTbicnVfR4UEV94LgQf7oMU/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9mxNBD7XV2cdewQCD7491FkIYk2bwyjDGDOib8FEfzhkOTznzIQZY8r744PMKYSqtgWpnykWPBhSqFAmfIj4aSF8UOHTaibNbcM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=9",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicWCUZq1DaFONLdHnUaHTzHia6JmJM4oZ1Y7uOJuCzia8SP7giaS9ykl1CH1Rsou265dribbFTUn5M19M0Z8bvgqeltJcGTw0iaz0PQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=10",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8KMl0hbFpyse9KM9Qd0J4Z7PRCvGzl5Iry2CXeemInPv3WXsM7OvDC4JBoDPoIbnpO0sSDjljuvsSt6iaSkvrqVJtANgAZVxhM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=11",
+      "local_path": "images/img_010.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hicqb6oQqy3wO2lCNFt1KFDEt2FAIZwHVfrYnGImrib3uy8Fpl9Odibaend6zB6AqoH9DocG3XhHTXvsOTGnUIczUuxHxu791cass/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=12",
+      "local_path": "images/img_011.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9VhnKBLBYarRoJor64CK8ayFKpPiapUgYKeLORg7F9dhvYMCUYu6yLcNtEZvibzxSrFJiaAdjnhSPlFTxicmSOsFPlcWQY8VlUMpY/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=13",
+      "local_path": "images/img_012.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibzdJGyPSawHHw9g5l9ZYVmyWRz6Du6ibHDD7UaxsOhrFf5PIvKscWo6GReSZYhqLkDdLhHlz4dnPtNPwmYUE6bDTicTBHmFlLWA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=14",
+      "local_path": "images/img_013.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicRNcXZ6SDibftYpZ9zlHQw8a2B7PQ0wvcfzENDRuQcoqIRlKngJP7MpxUK6vVibqzcE9n6EV6jKkgtlVIfy8VgicUXaGwgXeib6oo/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=15",
+      "local_path": "images/img_014.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibeE9AtZMLTPWUPib8ibEXfxiaFiazFB5HA2pniaNknicQicOWH1MyibXDKNczFvdNmDNK4TSCOtWJ2ZS8py9tbz4QcCx6jDG1na8C6bdo/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=16",
+      "local_path": "images/img_015.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicNM603XWtibQbj2Mmic6uWPLvX8lWSqVkicftkRW7Z0XIa8Z3R9DCMUnteM4LDMBqkrbcPRiatOlibcuq4krpBNSROIjQgiaqpLe5ng/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=17",
+      "local_path": "images/img_016.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H8tEGrzQicmsbpibQ4MiaaLib5Jr8TmSiaJgkoes4bLXhLCyUrftGp5uuKXiacibmU3QzQJCtOtKXOiacpz1yWsKqiayHico6iaJ41UOym8v8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=18",
+      "local_path": "images/img_017.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibEQ2sfoVtrNXQlsiaRiabu8u1BwNV6hZGjyF7b6ySzpXQ4miaH23pPcXL8KDNuYSbicBg1ZL7JfHZIa8KcX7G9bFBGiaQrnQscAv1s/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=19",
+      "local_path": "images/img_018.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibG2tN3BfU9RYdicAF8AQ1F5XzZdMytnXp9o3aJDAHzUVGSALAmfg4dIOABM7fKgEfIicBnljNnJEMmnqLLGEfAFdNex8WCia1jlA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=20",
+      "local_path": "images/img_019.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicuqvceC1rT5ZD6bZIThF07kuRfl1yEmTHfUic2qD0kPsMW3d7kYup203gYOzlXDUAicKmIYrqjXas9ibibtSkKSwy4nKJZSKLE5JA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=21",
+      "local_path": "images/img_020.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hib43DNutvL5AoSVHPnhQ8WKfUQj2uG4mub5KeOkKrj9wTS5SUza3xviaicgmiaRzSSzcrFia9ArjrypBicr3yDfmic8rFPUn6ib5R5NtY/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=22",
+      "local_path": "images/img_021.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicAep6sVOKw5TY8UTQ7odoNv5KSsIlpcHIyUfJ9TC0YB2yRGWWicHxS9CoQWzqGymJbILvTVz2MgnbJf8YobRappRT6ygR95TGE/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=23",
+      "local_path": "images/img_022.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibwibZOialibCeNuSLeddKp17k4ia8rY7vCBOodz5gZETDLXW50VYGjTKDHn3vVlU8yxriahsKfFGVuQQxMDniciaHeW9Hbsyooxxs5ib0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=24",
+      "local_path": "images/img_023.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9TNjkJvRctA1AsDBHT6UvUunxALKaXWOaXESePlYeAMkMaXQXxKiciaFhKSy3dM4zkByGaPULryxU6qcL6mgab4FbBiakic1NOsKk/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=25",
+      "local_path": "images/img_024.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H8BKgFAh5Dl0nPY3DL3qqVibjcjjGZNZXgyKWeibjibicW20DWmmZSWDTnTarY1mOd6iad6cibsVicCRxeEO06eKYFCdnIkBucTDGA4e0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=26",
+      "local_path": "images/img_025.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibgkBSC6ETv1pujMPWznOmaqVt3LShvYI0Fonbzicmibic0jOUAic4yBxF4OcGhibib4Lz3wMq5281pVibgqUExw9L928Z6Z744wxLLJI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=27",
+      "local_path": "images/img_026.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H908x65ge6jibm0AibTYStuqY5BsRSTymXcK7lDygk2Vicmr6LGicRyicDZoVa1dFs68P8E6opve5wVx11W6sNBBibGzibF0jX0QcWcc8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=28",
+      "local_path": "images/img_027.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8R9OPCZd9tBYwuWy5N59fFvM2eYicHSLZ7oLlSMohTKEGVrbOzKxCCOMKCJPMRy3tZ1au1eNicYlEhoeojcU8am2zyeiaQu6Azr4/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=29",
+      "local_path": "images/img_028.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9AcayIXY75KAOgk7rVzcy5mCkhqczB5u3vbib0OeXzN3ia4pwDRJNbsulVE24qNUX64zRJLFicicRaG7ACDlG5wg4rNfrXxFkiakNE/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=30",
+      "local_path": "images/img_029.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibVNAQoZvh7a9dgzDXiaVpHJ0XichFHtvDO4dAs4e8oM0KMluJibDaic4QlOTph3ZEVb9ic55gHMYu125ZsxaBrvAAydRXZRZEd2d8Y/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=31",
+      "local_path": "images/img_030.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8DuTurZTHk2qAwAlZFpqTOrziabicLR04T4t2VNQ3a59WJ2OYkib24ibmssg9z5Zgth8ghGibAAtbKkZXBic4w3iadticHjoRtTydFCMw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=32",
+      "local_path": "images/img_031.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicWGDQnmtCp8D6Aup5zvoXwTOwVOrzHiazT4aWdZdGMnyhvfHruia2nBTjp2h3ibjnGokTQ93wJ8jSOrmYexSTYDGPQnsR7WybX1o/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=33",
+      "local_path": "images/img_032.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hichg8tYamC0N50rJwdicbicEK8DOib0PX31MrKRBhSiaBMABN4ULwPxfrz3s8WjsjyZYq2vmoAJDdfhACSjy3KWkwua96sDmTUHze0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=34",
+      "local_path": "images/img_033.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicNfz6pnJliaZq4qWatF6OBjjs8YfmU7BiaJypqDUHREoqoolL8vMjmH9Aokf0qbx9EfWwmxMfqd3RfjC6DK7uLibRWA7OxFUBJ9M/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=35",
+      "local_path": "images/img_034.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hibd5RJ6ZJMwkeHYJKnVNTx3wYmTbIWw5Tl2nqNRRjjaibWI80RsurX4AicYQET58vKylGXRKdtoJdR2LwYdZId5QwleichumiaYqJw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=36",
+      "local_path": "images/img_035.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9HMt6jwbkhmgVINBZicETSbZyQjjKWAiaEwvXrfLnuCUTcI5fjzcwnicqhCzdMRzGVkscQewib8icFFmC4M2nvcMCcgQvNna0uria5Q/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=37",
+      "local_path": "images/img_036.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8QDQtcEk2gBAaiaznOYOHlmoics8q2TFcywmjibPakiczFoiaUAP0FVq8gRYFQrjdjflztCO01553tcGEq7mGpLYICw8zYuVlWMxkY/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=38",
+      "local_path": "images/img_037.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicibqCO5YZvpRIDvno7WCSHLBaOcAW9qtQ2vy45CI8qZqPyMYD0iaIRZY8cMibvc2EyjNLcQx1qTFLmpI9sHwyR4QVQN71jY48ibMk/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=39",
+      "local_path": "images/img_038.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9NE4pIsnBibo2G4EF0f9RuC1Rvibl6GobY0u18fBGR2icMasVDd1GOCuRqicJicRfxcibicoB6J0quWK5H90ibj1QmmvX7clpghIf8x5o/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=40",
+      "local_path": "images/img_039.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicypkUPfYwQxIe5KEm3WbBEZTichIv3XtvGcmyudTSacRXrHlTwP53CxF19MZJOLHNfBJrkHia3KLGEFM4pnT6Ko2Oicmhic3TJLJs/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=41",
+      "local_path": "images/img_040.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibjVjHHbv0fgabfVVRpSsBMWpuwibYOsiaUgibgicIfYHpo52riahmg7h5WWCxsfE1Gw62cxQUUEF0FBBvExFQefy6ycwVW7K4Gibvfc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=42",
+      "local_path": "images/img_041.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibOy7iaRXTGiawiaTUYOR678pDJt5OJF7uNCvIhg9ntbtJicNJ60lcmMFibTQx4sNbqIfYB6BgoiakFdicXmEzwRR3VCXlxxFM6BNa11o/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=43",
+      "local_path": "images/img_042.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hib3yySD2zjp1e8vL5fMbUuAsTJVNnWGPTHpEibC99p8Zn7iaFpHLESa1E6UwRV6jjy6ECuFSOib21FLBMWjnXTG9hctXhxB1jpp8g/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=44",
+      "local_path": "images/img_043.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9ibWydjDicWbq0GI3qO8pcWkUATk4I3DicnmCz1UxMUz2eGttpuyBh1uE8uY6BcCCGZXicGagvggNuVhbhUjrt8UppJpvabJvEJAg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=45",
+      "local_path": "images/img_044.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H99QeJtMVAEZlgkXDeviaU3GyUiaF5dTBMib2G4hWmSCwstBj0icw4wcDh95AkWIrB04ocQSaZeezzRff3bJjOKRmicIgVQgOo5Izeg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=46",
+      "local_path": "images/img_045.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8UjmwrxToozhDmvYlFj2DRo1HsQVRxXNwtuqfibKcPET9gHpphJqenr84n77Dl0Mo8poWKicvbgFa4Eg1nE4pmicxW5r0akK2xdI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=47",
+      "local_path": "images/img_046.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hicd9NYKsqMKnfdHPQz4waicrFsoqdqib0pmk5JicYCWVeicR9Yxib17rFA2bJo6y9z9KEWlY0VI9r1iaAeo01hp6IOB8HYxjzKfJMM3Q/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=48",
+      "local_path": "images/img_047.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9yicr20HYdxZCyt9iaCvjzARWowW9e9OLsQpQU53JN59UTgvibo7NUzp2pRGzLic1QWNFiaKUuAD4pDgAIz0y4YySW1FFEVlfMBcVU/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=49",
+      "local_path": "images/img_048.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibRibZyH5BMBS6K87vicCFCpQFw6CRHgHqAMYPic58slHH2WCVpOWGtmmKAc5ltWXODIkSnOicG9y0BKpaKgbDJ3NstO6tahAYeMPI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=50",
+      "local_path": "images/img_049.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hich7Z3tv7iacic4jB1zccOhTvllpbEqtFIHEzEsribekkz1FugNF7gImUyIc2N1wtic0wA7E8Z0ovc3OlULgVEbEfbbHmyNiaqhVfB8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=51",
+      "local_path": "images/img_050.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hibvxs6MJXgM5rDS3ibKg16bicCtictzgO2PjuGuELQicgUoaNhSiazrAWHVpOChPbA06yLic1SfKj0ic0icAzR7ia8nWgyTEHbSopicev5RQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=52",
+      "local_path": "images/img_051.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9CUqyrhg67iaFkSdBLQGnGBP5nLqWpYsewDqmn4BkYtIMwKQmibq12MibT09d3TKEVSIaPPva4mKj9wx8tYUu2MYyt6D50RRS68o/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=53",
+      "local_path": "images/img_052.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibS5McXyFWnPlPc75GFDjls7e1MYEKfwywP2paX6UHpC8viaRPr77E528DEViafgQO5wicatwr1F0fu2TTebZJj8MMjNx0ibuXd9ibg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=54",
+      "local_path": "images/img_053.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H81p6nqib6a392Bibc93MqyF23wLVL8GYvh8WL0w2pV5R6oibTj8kNicyokdWVzelULXO73AobjCPwUAgO0tibFrBByeEBAtn4m4SWM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=55",
+      "local_path": "images/img_054.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibbNaia8r2yAPyWtEj5NrXdH55wtWqJSqtDqqMHd0mMUfC2xGmhdicpCKCgtGA0Hg30D1lLESz90vMLpGLNcEatzvKmx8ltm02xM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=56",
+      "local_path": "images/img_055.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

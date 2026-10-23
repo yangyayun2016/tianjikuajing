@@ -1,0 +1,85 @@
+{
+  "title": "亚马逊 CDQv3 产品listing质量打分系统 PRD，亚马逊AI：用IT思维做运营",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/9xoOtDHOt8CJigV8DmNLHg",
+  "canonical_url": "https://mp.weixin.qq.com/s/9xoOtDHOt8CJigV8DmNLHg",
+  "published_at": "2026-05-10T10:37:42+08:00",
+  "excerpt": "序\n\n最近在做的事，用RPA去抓亚马逊前台/后台数据，和模拟真实用户去亚马逊前台Rufus 搜索栏里去提相关问题，抓取生成的listing，收集ASIN页面 反推算法，和用obsidian做知识库，skill做一致性，cron(定时任务)做自动化，HTML/ReAct/S3做可视化仪表盘，做一个智能系统，还在研究爱马仕Hermes agnet\n\n运营 如何提高亚马逊链接的自然订单和自然流量，方法论 知识，<= 影响自然排名因素\n\n**IT思维做运营 - 由点到面打收录方式推新",
+  "language": "zh-CN",
+  "content_hash": "7b5950edfa572a5be87ba4fb8231a6814ecc7b187b9f3c04c52ec3eb2170c2c9",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5Hib10CWU5a9vyBoKrQ4f5aSTPyIC77rzCKnFyglt1pYQ9hibcIHEBvxoE68dLicqQFCbBdHy4W81MsRsdwiaUxw3zLOJdticMrNlxy8/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H9JsdA3l14ia3U0f8LpRU56oG1dBNA2ntV8WicFDiaoaiaicNmNWsW4QJzI5jSEKXGliaYmmGDCoHibXRH8AU2OsCrqasOibfica7OUEicic4/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicH9BYkCdJEHU5bFBGSb5NyHSTJANzCrJSS7pYXrxW9p0h0FBWcgswsW95f2wEPtRt8w3QqicicfLMDI9qSLiaW8raRcfUEmI3orQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H804oCR9PQocE9DJU9PshaAQTjUb2dmgUyv29ic76brfgEjjNDsM54UNF2M9DvZ6F78cWAiaib2uP0xpPNjUv07Q7WXFydeia64iaia8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5Hicz92T16icEibZTiaQbFw7Gvj7I0zk4Z8DYqOaBnK7GOAZiaC8svkSoq23Fia0yuSkibOsxJFvhquibA2w5sVUYf2EErPlQeMl6d6qs40/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H85fwEGkH222IBr0ZbxYHfdbjKrFnVM35xaAnJxC0ZDAJyDYLDI4uI0icPHsk33Qsznam7icYoAtOKDviaKvAkE0pfXS6syFIxj44/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hibetqib8MLCrKFwRyj2YpngcyRcsE1spBDaSicly5X1NXiangVYVAib2DsqBRRt1FYFhUPMJHdkrYib1ugBXSRxqqdxlMyz3LJEF4hI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9wVCefoMAWibmUeTV7rl6oN12ksTjqcfnIM9vQLNuibGTB0eVyHhWicUfXs3rjXDQ8jicFKiboFOBA4N9cia7WfTqehmpjdy4RFNVek/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H8lyC6xNvUOXziaibKwJ9Gw6VbW6bqSfXz2VeaEnIRcvvZmzXFlRYSJpHV8tpvgKphwnDnuFkhnDlaGMo73daE7ZFibeSsBlbPtck/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9gBKbGYicsFZrDE8YdBAR7VrwiayM3st6eTIyNMxDFFicN93lQAE5LOMmksolAnwYlpNJyEibXqh3VPFf8ZVU6DSo9bv7SCvEibJpM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9WOWI2tq1Gr3djj2oVrWdzXQSic3cicaEC9NXkEFc8c1iazhl399COVPfOjub5XZwZhYYccYF0k3Q9rqsComeMicxkNRICPUqfMEA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_009.png",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hic5zrChhBvF0kHI51XrZYibMbpFrSNpVfYQibLtZxtc2T3u6XwbTJgLEfAGbRVbhoJFctiaal5FHy5zrndUXZowrG5ca3Oy5cjwib0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=9",
+      "local_path": "images/img_010.png",
+      "alt": "图片"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibKlO9eywn8cTFol9VcbIcsn706gU46zNLzonLffUaCe6OMg31OpGLKo3VkokCar6xKDCmZYp4F6ubkZExBqviaWp6Kdg8YPI0k/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=10",
+      "local_path": "images/img_011.png",
+      "alt": "图片"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

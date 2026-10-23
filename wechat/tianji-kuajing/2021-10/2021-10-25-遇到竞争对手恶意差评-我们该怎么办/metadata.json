@@ -1,0 +1,65 @@
+{
+  "title": "遇到竞争对手恶意差评，我们该怎么办？",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/A32ztERxsJIUWAToBkjvLA",
+  "canonical_url": "https://mp.weixin.qq.com/s/A32ztERxsJIUWAToBkjvLA",
+  "published_at": "2021-10-25T23:43:16+08:00",
+  "excerpt": "最近有许多卖家反映：在亚马逊严打严抓的大环境下，结果竞争对手不给他自己测了，全帮我们测，关键还是清一色的差评",
+  "language": "zh-CN",
+  "content_hash": "c478ac671eb391cb2f444dfe402ac25de54fcef0065be8955aaf3a8fbe9a854e",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS1DlC1JAHAXpmw316maA9odXPTtyXP8QEJuMaaicSsfRTiaOpVNTMKFN6g/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS16PiaJAjwt181CvtiattdtLVA7EJWiaIz8I4ibQNUtLllHyXNUlwh27QbvA/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS14ymysBuFQNAaPP3oyriaYJWhOjsLdjHSmETBeMUWtrAIicfYe7ZVtPfQ/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS19oOwVMOcegPwsVLhk9NY1JNGxjH7KibWyshJ1sbbnnPibH0d2fsNfCPw/640?wx_fmt=png#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS1wDeACpkBdeJyia7WubW4YQlHlNFK2l6gdSQfEFa1ibFA9rPkDa2V4U0Q/640?wx_fmt=png#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS1Yg0sFAttJWdRGbJepKaJxAm6ouzmlx9U6HLEUiarQYhQMiaiaCibWblr8Q/640?wx_fmt=png#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS1Lu0jiaiaqM3BY0EQYx0YGx4lnhIPFZGkyeUJWES3FVYLXKJaPFzatNibw/640?wx_fmt=png#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS1TptbibIzcfnIzfNY1KUZSu8xTGjOwS3FxSATMavcyI04XyE0pN7B0Yw/640?wx_fmt=png#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdEDk2FCDsWWc4iaBAvAZUonS1TptbibIzcfnIzfNY1KUZSu8xTGjOwS3FxSATMavcyI04XyE0pN7B0Yw/640?wx_fmt=png#imgIndex=6",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

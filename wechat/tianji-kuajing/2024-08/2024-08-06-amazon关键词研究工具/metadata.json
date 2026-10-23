@@ -1,0 +1,75 @@
+{
+  "title": "Amazon关键词研究工具",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/7jv8f9i9SHmqiQR703KscA",
+  "canonical_url": "https://mp.weixin.qq.com/s/7jv8f9i9SHmqiQR703KscA",
+  "published_at": "2024-08-06T22:52:23+08:00",
+  "excerpt": "今天来介绍几款强大的亚马逊关键字研究工具，分享给大家！",
+  "language": "zh-CN",
+  "content_hash": "84d7646a17ce6dbc1d664dcdbd24007a86b3121cb3618880874e505ff3d66a5a",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWBcbM34POcQNDDR8EtcyiazjWvYzw5pJYCRAjNHXkyPDiaTXgRYnwlkSXA/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWBK4dQ5WnJqMv6OTasIibnFW6EABzrmTcNZvpu61H6To9XzUz9PQ148tg/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz/44k1ricUO475BTJo3vUMXzabUIFLNeH4QR7OI77P4k7Ovz34bepdQPFEkDicZd44S6hHfrj6C90XC5tHJ81jR0aw/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz/44k1ricUO475BTJo3vUMXzabUIFLNeH4QqPic1rYQmn6RB5x5Fll2yTaeNypp40xWVA0PJF57giadOvBCfhMS5L2Q/640?wx_fmt=jpeg#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz/44k1ricUO475BTJo3vUMXzabUIFLNeH4QeOcAKShS8DadUAmSjdQDKOCibt84dnfueswTtjjtAHc7JWb5AqE8OBg/640?wx_fmt=jpeg#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWBd1TXoib1YqHqtNjkpNPVEAl8DY8MUzosnJ7PFBtJZwn64lkC5vu3u5w/640?wx_fmt=png&from=appmsg#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWBo3Euy55aey7yCD2wQCd9oeqaGlmSsQ51FYELMMPAo5ZasN5Hxbibaibg/640?wx_fmt=png&from=appmsg#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWBhxojD7JPE3NtLpS9sTphOxTWkF07tU5hicr4Wjia3hO4FAhU3D3Kib3mw/640?wx_fmt=png&from=appmsg#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWBdj9aVrVQyDSIxJVSI6z6kkUnlgian9DCnZXsUnr5gPPUFcVhDxSyFhg/640?wx_fmt=png&from=appmsg#imgIndex=6",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWByPsuFFwdlg8HXqnqm6DCmZHibaLmgAFtEuMxRXictEL9ZmiaGt9dmRB1Q/640?wx_fmt=png&from=appmsg#imgIndex=7",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAkJibRlB7AW7JpYOpBmLQWBL05KxoiaBU2OGz26t5nu81drlGicrXIbxuia5KpG3FXOAOgkUK91BmO1w/640?wx_fmt=png&from=appmsg#imgIndex=8",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

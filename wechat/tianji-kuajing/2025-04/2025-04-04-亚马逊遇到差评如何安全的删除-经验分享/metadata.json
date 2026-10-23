@@ -1,0 +1,29 @@
+{
+  "title": "亚马逊遇到差评如何安全的删除-经验分享",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/gZCwvYen6ZJtljccIUagiw",
+  "canonical_url": "https://mp.weixin.qq.com/s/gZCwvYen6ZJtljccIUagiw",
+  "published_at": "2025-04-04T22:14:54+08:00",
+  "excerpt": "https://zhuanlan.zhihu.com/p/1891590047746213434核心内容概述本",
+  "language": "zh-CN",
+  "content_hash": "fad3175b7f46b308ced17d6159b17d6899e6ed1189e2cec7b51c40963f37e2ed",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBPfTeUycoNxTib0uovOwwyzUwBn6ruvnVhm5xIiab6JSbnThbGZo1OAjO0ZwUj72IN0qnjd3TNiaHgg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBPfTeUycoNxTib0uovOwwyz6ew0kJ1FEKyLtGVQIib6grDz22Qh0oH3z3tRXLp6O8GUBPxrApGLLWA/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

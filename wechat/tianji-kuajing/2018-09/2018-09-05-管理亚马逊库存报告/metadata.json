@@ -1,0 +1,25 @@
+{
+  "title": "管理亚马逊库存报告",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/hLpAjd7xOIlZQq1M-B9ENw",
+  "canonical_url": "https://mp.weixin.qq.com/s/hLpAjd7xOIlZQq1M-B9ENw",
+  "published_at": "2018-09-05T18:43:06+08:00",
+  "excerpt": "管理亚马逊库存报告注意： 此报告包含的数据 ［ 与您通过 ］ 【亚马逊库存】页面上的“下载逗号分隔文件”按钮",
+  "language": "zh-CN",
+  "content_hash": "2e59ac9d42faa92dfdf87325f8e759cce086ddcedc48792952ff00d4b0bdb8bf",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECdibKyaTtHgTCBZKAWIiciawKDEg4f8veNreraoYO9ao12CnTpdW6SyVqUHXeu1CZldlXYfr8Bh2ToQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

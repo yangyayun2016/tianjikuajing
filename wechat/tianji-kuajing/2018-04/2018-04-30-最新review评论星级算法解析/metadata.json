@@ -1,0 +1,36 @@
+{
+  "title": "最新Review评论星级算法解析",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/ClD3r8Zv_w23s7YHKzT6TQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/ClD3r8Zv_w23s7YHKzT6TQ",
+  "published_at": "2018-04-30T23:44:48+08:00",
+  "excerpt": "最新亚马逊Review星级算法解析！亚马逊评论",
+  "language": "zh-CN",
+  "content_hash": "1b0557ad853c33ef28f5dfe31f2800a899ffab71bc314667eb998199a3439c07",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDvuLp84gicmJkKkRMTyHM4PEEyDjyia9icK8oMpUGJIzV3Cr3vgEPrpicW6ib5iaBV2csTTvpqyu8OqnNg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDvuLp84gicmJkKkRMTyHM4PBTFkHIxMDleuvDTNBiaeS5aGFmKpv8ftxworib55fwOcEVyId9rRicBQA/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDvuLp84gicmJkKkRMTyHM4PE1TajK85Hg7bUfjMw9KP8OBo8pBbODX8E6mPmsDQq4MkyEKBJJoz9A/640?wx_fmt=jpeg#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

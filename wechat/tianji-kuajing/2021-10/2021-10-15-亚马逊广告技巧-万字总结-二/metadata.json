@@ -1,0 +1,90 @@
+{
+  "title": "亚马逊广告技巧--万字总结（二）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/dVepd40GxsAy05etKHz90A",
+  "canonical_url": "https://mp.weixin.qq.com/s/dVepd40GxsAy05etKHz90A",
+  "published_at": "2021-10-15T23:16:48+08:00",
+  "excerpt": "三、站内广告活动类型串联使用的意义与重要性1、真正了解解决流量与转化的流失问题，我们应该思考，在平时的运营工",
+  "language": "zh-CN",
+  "content_hash": "e1646c095cbf1f49049e571db222d71f872c9990f26d5ee918e5ce2bcdf19fdf",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBkmGrkMYNo5ibG2rZTrK59dDsVuQ0nDd2iaKBCsGYOQtychENEBSJtmrQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBFaSFx5UIUbadOAibpMSowK07rZNMhLhQ2a66KHcWjPQpUlzzS5jxMaQ/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBDhwpsSg8AXFW1hu6jrkpib0VicaUN3XnWox5CeW3qK28nbO8WXdPsjeQ/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBlPmAxdEYYlz4ld8aBEV9PNEBNbhcYcpSvVLP8ULxNxzTDWWluSNp1A/640?wx_fmt=jpeg#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCB776IXkVMh7oASsSYcLuQ0ibrorwpLMLYuWbnx3SzmsAyJ289nWBDb8g/640?wx_fmt=jpeg#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBLdlhbznsNq6E8ItLshiaNNKOTe9rGEalYvclSCfHBiayhnkdaUIWYjcQ/640?wx_fmt=jpeg#imgIndex=3",
+      "local_path": "images/img_004.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBTWsbloyNR57nFYf8BJZef8dqLPVjn9YRsnTa8HOECFSP9CrsianvMibQ/640?wx_fmt=jpeg#imgIndex=4",
+      "local_path": "images/img_005.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBfQACnk4gANznqu04365Ic3WuXhwKrRKhbdNyfzWLsRWm7JZtnFicUfA/640?wx_fmt=jpeg#imgIndex=5",
+      "local_path": "images/img_006.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBWvibduNEXw0VkXIS7vMS1Glub0tBsW3uYOU9xvW3UOcBMWYLdq3treg/640?wx_fmt=jpeg#imgIndex=6",
+      "local_path": "images/img_007.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBII1nia4L2ic43heKUrl0yqHzwt1aZPc8f6d7wKsjdj57LC31WK69QxaA/640?wx_fmt=jpeg#imgIndex=7",
+      "local_path": "images/img_008.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBa6K1pMicejt3MZmp7JFST2R7YtNhNkOeMmF1RZAXq3dajGd1yXLiaN6A/640?wx_fmt=jpeg#imgIndex=8",
+      "local_path": "images/img_009.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBXIS80j6V0CbMytJGFZojWmOLr7Eo38ia2MHaIwNibyltMFTDHm01e69Q/640?wx_fmt=jpeg#imgIndex=9",
+      "local_path": "images/img_010.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBNU9Wvk80K3oa2EXO1XhMgEbFGgJd9ybrgSxpE20j9tKtvYLe6Ybsdw/640?wx_fmt=jpeg#imgIndex=10",
+      "local_path": "images/img_011.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdECaLSUG37Yic2KDW1qTqLkCBHJCFbW3V9xggsFNqvtyNNwwfB0Q22yPA75vsIFvwzgE2la9OLBxHicw/640?wx_fmt=jpeg#imgIndex=11",
+      "local_path": "images/img_012.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "我的一些思考和感受",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/WVNN9I2KusD8sB256zziTw",
+  "canonical_url": "https://mp.weixin.qq.com/s/WVNN9I2KusD8sB256zziTw",
+  "published_at": "2026-02-15T00:04:06+08:00",
+  "excerpt": "序写在前面：前面写了很多关于亚马逊AI工作流，接下来继续优化和整理，同时我还在做skills（亚马逊广告，选品",
+  "language": "zh-CN",
+  "content_hash": "4687c993b9a25e11ef21910d71c2a19c3f46c8664f01f55c3397322ec400c22a",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H9qK7fVwpYZnHy1TWo5IbubW5dZ3t82bRoIG623pYo4aeNc7xsiaTuGEnauMzEcaUwPbFdwt5GztOErBFTNqQvZNxvO3xnXgcT8/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H89ZyGuiaS2L5AJicg96rUYdHNZbPChcichP6z0K0PJxdzFO4E9XIphCCzLUn0hqRXrnWucEJ89P7NRmicC0Q0rEBt2qiaUlQvvUQV8/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8B2GEINuZxlcwP7ibxXaakF5ia2sDFtVvnm3aW1bYQ7b6vbCmYn0lWRWKVkQBl6gm6rlmRHPptUna4N0Q5jR0g3iavDxdgYNjqQU/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9eooicNdr7MueFx0ftkoqN88ZtoKDrSXZp1IYeicJYEyic1TBHCZKDt4nNwAYKBhlyeE1XPrIE2kb1Bf2IDWJ0WfjCQ6Ziaq1ReQ0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8fvke7UD3BicI31iaYuNEicHygYKEibI6vPC5DjC4Tacbn7ej0s01KCEywf5YlUiaxM40vXWxgeicMRG5lM395OK19DBUYZicydLCWj8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9TxWUYiaas8MGvw20ibtiaLyhItAVXia05591XHnyE2DNEBg1MPFn2EmyAHBJ3LZ2gWtboSichuUHFibbeezTZIFaO7GUGDzqGwLgbg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HiccG2ibtia5vBfRSnEicia9icyFiatvGvVtZPCdQSULCL7CQ4VvjxdXbm9IyOPFiaoxruZpgKcgmcyly8QXOTvQkEGHXlmibUXBAicS0MSk/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicBjF8xkj4GzicYsJ00QLrl4VfmcMCzqXWHJbV9ic98tmwYMgPicQ8Lqvicg5PI8KMe7Xodb7JYibtqj56PlTaNoVga8XUTSkR2Vruo/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "亚马逊 Rufus AI使用指南（Rufus国外博主深度解释，非常有借鉴意义）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/Ir2Tfmj1tDSJ0YC30cTLtA",
+  "canonical_url": "https://mp.weixin.qq.com/s/Ir2Tfmj1tDSJ0YC30cTLtA",
+  "published_at": "2026-01-04T23:06:00+08:00",
+  "excerpt": "亚马逊 Rufus AI使用指南（Rufus国外博主解释，非常有借鉴意义）飞书在线表格观看阅读最佳，请点击或者",
+  "language": "zh-CN",
+  "content_hash": "8cf1f1b26695394bebd8b433950ebf65c5f43bbcb33af179e63d048a1ccbfe37",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFLSH8s75w88RSLzWg3MBNvysnIbrA6dOxlMuhibBP9Nia4YMBhIgDMxfw/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFEbeZjzCZ4NBibnHzJ6IBCky1AraKWGUy27aTngYNFs8IyDl3BKayiatQ/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFF9pFVcTGIIzMC2T4a1qmrXQF9gXtrkUVO0HKueE7ASTRkbw7jGoOL2Q/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFibSib3JxGTuaM4II6QHspVwHDxVY8xVG23vkic2MdqBibM6Ebl7Q2Y7wTA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFup5nuWmTz8w3cVvhia10SFp36r1EXeMIWy7FlJnaLpWRibiaNIoPnL1YA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFtvpEv6GylVsjiaSJjYicMUPcIzFSDlsZicyNUpFn6WZF0dI27Kfe20BRw/640?wx_fmt=jpeg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFsX96HtmrRxKnD8dkibhGWx2ic7l0zsLTicRQfStrGuVUnE3lDv3UpUb6Q/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFv1nMt7iaEZEUUccVQ1NHPFoCfYiat3ia5Svyu5TXXUMVxwtFicBFPFK3Rg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFUFPqzyp9jYMqWMNh5kqkj6H5G8ic0zr8PBqF0XXe1TJCotrKyaHmMTQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFdC7fZMxX10SVoibwtgz6KT0nnNnpvlZquPuibU0yJTTaIuypSkOxAdibA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFF8lv18hF8D2wJZ4FjGjF9EJvpIqFFFsHjv89aL83BIWgiae5Yicbsm64g/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFCBopHeMLDJzBm6xaaorkLSEJJUrsXGVNxpGytDzn9rytW4wGwFhrtQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=9",
+      "local_path": "images/img_010.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFF9pFVcTGIIzMC2T4a1qmrXQF9gXtrkUVO0HKueE7ASTRkbw7jGoOL2Q/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=10",
+      "local_path": "images/img_011.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFicScKEqHzM5C94HpBL0n3epaVYEbVXbGs0niamTn0YO4REHDTgNXQibAQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=11",
+      "local_path": "images/img_012.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAWQdpmibCTJLJzqeSK3QMFFa5Zuibp0E6Duhq3icYua1uOpPk9ezK7xW9ibdQJRZbtpyEXO6ItxXiaWGQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=12",
+      "local_path": "images/img_013.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

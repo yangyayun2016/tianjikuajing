@@ -1,0 +1,29 @@
+{
+  "title": "不想继续当打工人？这里有一份关于自由生命状态的邀请",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/T64l6g7zMmGfZDuZibtS1g",
+  "canonical_url": "https://mp.weixin.qq.com/s/T64l6g7zMmGfZDuZibtS1g",
+  "published_at": "2025-11-25T17:26:35+08:00",
+  "excerpt": "分享一篇文章。",
+  "language": "zh-CN",
+  "content_hash": "f8eb0f02f6db0fa2759356234f59b5a21f5f636c5f954a2033a80318c37ae2ab",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gEtvliaACNpaS23U1Zy0ibmVWVYbib7tTRl7SMF6wrHFib0RByNIAM86EibB3UiaHChjLZvUyZku8Wtt9GAG5JCcvZ8A/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/gEtvliaACNpaS23U1Zy0ibmVWVYbib7tTRlyRtvF1JvOBpqhTMl8ic6nicssnaEO9HxX5CKNgZhbtKvS7ayicAibNqpmw/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

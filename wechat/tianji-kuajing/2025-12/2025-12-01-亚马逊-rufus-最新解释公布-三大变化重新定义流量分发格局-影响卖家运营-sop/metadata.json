@@ -1,0 +1,29 @@
+{
+  "title": "亚马逊 Rufus 最新解释公布！三大变化重新定义流量分发格局，影响卖家运营 SOP",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/sXSSWJXKVZ9YzxVwyRzrkw",
+  "canonical_url": "https://mp.weixin.qq.com/s/sXSSWJXKVZ9YzxVwyRzrkw",
+  "published_at": "2025-12-01T23:52:49+08:00",
+  "excerpt": "AI 推荐时代全面到来，亚马逊卖家再不跟就晚了",
+  "language": "zh-CN",
+  "content_hash": "b1893b27c7355e2f7e3bdcf278c05debb0c73d73bee6a5a53113330a48f31abc",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEDxnFMiarh1Xwx4q4g5TplrAUxQB78GbPib2ibZ8KLyTPVEdAic4gNaE2tpib6icafakGiaJgLkNIicaqaD8w/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEDxnFMiarh1Xwx4q4g5TplrA7r4KOvI2YUqic2iaQkQnnMhBdOZ6Vg97rlOyUzWLLszIl5mGdDJNbiaBQ/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Owen「一人公司」系列：如何打造顶级的个人IP 第二部",
+  "author": "",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/S1iI-nJc23-RekSAQ4JRoQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/S1iI-nJc23-RekSAQ4JRoQ",
+  "published_at": "1970-01-01T08:33:45+08:00",
+  "excerpt": "Owen「一人公司」系列：如何打造顶级的个人IP",
+  "language": "zh-CN",
+  "content_hash": "5e71d587814aed707278ef670715514b47303fb52d044b9c63f6183ee0204f16",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdECJK5TddYE9IZkWrEwR9v0KceqfbcD1FPk5ONLNpE6fMU1ocSkrTicIaClRB4Yg1icOuMZaXS3JDBiaQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

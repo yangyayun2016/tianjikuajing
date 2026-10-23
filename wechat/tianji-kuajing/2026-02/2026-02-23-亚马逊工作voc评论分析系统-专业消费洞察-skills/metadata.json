@@ -1,0 +1,50 @@
+{
+  "title": "亚马逊工作VOC评论分析系统 — 专业消费洞察 Skills",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/dZblL8Lzzi-7ccc7WYOR0g",
+  "canonical_url": "https://mp.weixin.qq.com/s/dZblL8Lzzi-7ccc7WYOR0g",
+  "published_at": "2026-02-23T23:59:01+08:00",
+  "excerpt": "本 Skills 为 \\x26quot;采集→清洗→分析→可视化→决策\\x26quot;五步闭环，覆盖从爬虫数据工程到 NLP 深度学习再到",
+  "language": "zh-CN",
+  "content_hash": "30a6910b1485e83befe73508d13c926f708583db270d3c14556e051337d8fb40",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H9C6vTdDibaWYN7kDw8HO89TWB0efnspN9rYqjXBmD3gRciaEnbxZLnh4OZoYqvvdsjrIrwRcS0oOFTBLg38d4uRZvB22raF5Dt8/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H9saloLT8oq82Y6y3GlDy7LI0UAO1T9TFphicsiafiaSkrCnqxuK3ia5LB8Lyo0icfvhcPMdpOGHlc9QI2ZjfRKMdHBvSqdpma6ib3kI/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9WOT0ialqNQf9kXm7zoK39xhJtYeoiaicC7VA2QD8LU9NHhCHqAH08KHrpLEzlxmpEXicCKswjzrdicHr0grgxdx5EHYXLEFNia7W38/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H8JQ8smbicOicRvhoI2icUzO7APKWWXHexS4b5x7nwk7Ot3qxXiaCawAtCrb0XhIqpGTKbUUypVdIVgPcA7UYDGTJoetXrPextp2Lg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8pWVwx3DNdbopRe7hDxlib6Zjt4dyqUqkOUjsdWVESdpgxhI0dMUiaKmpPJhZjhtKkquL5f2BSPiaZvvo3EMHLrIVItR2pZWjxBg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9wch5W7JkndX0KdLohKrxV0icMA2uFcXIC3ry6micCmvhUsQbSN1hibJIGK60MZMdY5ZoT8pccvtZSZGHPMCmHvUwMGXpaKjcSHg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

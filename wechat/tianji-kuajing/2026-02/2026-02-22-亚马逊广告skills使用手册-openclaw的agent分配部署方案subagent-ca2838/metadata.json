@@ -1,0 +1,60 @@
+{
+  "title": "亚马逊广告skills使用手册+openclaw的agent分配部署方案subagent",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/DCiqU54cZpWdm3s6c6QgEg",
+  "canonical_url": "https://mp.weixin.qq.com/s/DCiqU54cZpWdm3s6c6QgEg",
+  "published_at": "2026-02-22T00:00:51+08:00",
+  "excerpt": "# Advertising Optimizer Skill（Xflow OS SOP版）需文件找我## 用途生",
+  "language": "zh-CN",
+  "content_hash": "549cbb742ea3db849b43ee5e00fadecc64f2e17bc530dad7cbd20256082e93dd",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5HibWzNRwibMZNibHH3Nj32RBuVoIfpV396Pm1lIz9Pq7Uxwdy501wOWgZI0iaW7VTibaCCDYWnbxObLzfHiarAkOE7nUuHco9NicLXFTE/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5HibiaFnrD1BjXsXurYAkicoy9HvRUduT5ADChm3Kl7icvTGrxVhnFpBroY168jYejOnTG7DuLfkTGnP5kOJvNlqBuE5cT1syicenkR8/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9QDZBMRvXzbbnM9kC1tKdT0RmAeicib2Nsic1xiaZTrYd1JNtUxCia8KO8MKcziay5npVwnkNEs7akTTrmjjunvozqYQPKbqw4wTPuQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibCC9akDibt9pJTCAF6wOV4TIxvstNnRjHLMyl3S0vbKZdmakUZqvRSITk4IYxsXIaoYl1tzjOTJtdfXPszOu0HibHnBzOqiaT2AI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicGIbEzJNfu0hTTicX6yWMq7r40KribNHCRia9t5DL1yND1GxuBnuqNIapvaDfR8GD9frwJ8icnOeNMbZQFsPRVkH6vOM9ejHsAxiaw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicUb3GebNia4ohKOG0jbLwkB2SwicdRnH9YhmfiaSC5icvMrsZiaB3Ft3Kh0RJYZynkUNzsibtBAGapiaRTnvsKQ7LEw7M45nYEUK9xNQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9a3vKIvPRIfFZHia1ClTX9uncunI4R7SNLQYC3t8Uc5vHzBYic3BVyQ9hgrBs6S7dG0GibpibEU0y4ibc4ZQcv7qNj0RicMQvwBwFdc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibGZaYr0bUEq4eazhWH1u4kpqKmLv0QuvDuMRyBJK5ftLr01r5nRSbFqAgpGiaIJeHbZQEYpRE4YnF7rpyWxEpI7F3Plq7xzXbM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

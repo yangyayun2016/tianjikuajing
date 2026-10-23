@@ -1,0 +1,25 @@
+{
+  "title": "亚马逊最新动向",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/xVDwXQQCnAXo_isQKtvbPg",
+  "canonical_url": "https://mp.weixin.qq.com/s/xVDwXQQCnAXo_isQKtvbPg",
+  "published_at": "2018-08-28T22:52:39+08:00",
+  "excerpt": "微信公共1.访问日本站卖家平台的暂时解决办法如果您遇到无法访问日本站卖家平台的情况，请改由以下网址 ：htt",
+  "language": "zh-CN",
+  "content_hash": "df70b7ab0a09ac438220858d1d8b95d09280a8d521dcbeca665336b7c9bc3af5",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEAyyCia93xgcxWlkJvFGo71aoZb0cV3Ibqz0Tx9ibBuZch4srtUtGs6WRfhwh9xmWzKicJUBktMHZX5A/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

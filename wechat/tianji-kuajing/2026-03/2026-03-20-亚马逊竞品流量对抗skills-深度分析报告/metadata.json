@@ -1,0 +1,80 @@
+{
+  "title": "亚马逊竞品流量对抗skills 深度分析报告",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/NuPzNzoF9kzp9girfrxGYg",
+  "canonical_url": "https://mp.weixin.qq.com/s/NuPzNzoF9kzp9girfrxGYg",
+  "published_at": "2026-03-20T19:17:18+08:00",
+  "excerpt": "写在前面（文末有源链接“阅读原文”）\n\n思路解析，先找出5个核心竞品ASIN,去SIF抓取 ①多产品流量对比（按月销量\\*流量份额）②核心关键词广告点击转化率（设定目标售价和利润率）③核心关键词坑位快照-反查关键词小时级别④流量时光机（7个维度的流量数据）⑤广告透视仪广告词数据第二步可以加上自己产品后台广告数据，和该ASIN30天出单高峰统计数据.\n\n![Image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H9lpibupLa",
+  "language": "zh-CN",
+  "content_hash": "d80921d766f8cfb88cbf4baa46d1a841d462b32cd3129faa1795928b5a1e594c",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H8tUt1SUibpVfanI9nsf9bIQEJv4I4c3Wo3osLiafHC3oFicLWsxqQLf8pmxBJR5pnqL4Dfp2MvSpA5Svf8NSkrCvRag6ibmb631MU/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5Hic7xlKlfciaafNTUH9fk2PVKNH48A1VpZXviaOSqJkXBbIDYIInnJSib9SJVibjFslQjicUd6hdoycoNL44L80AiccsKVOOrCC8n3ta4/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H9lpibupLaOaUsgib4MMXg3oKkqsnY0b2BIQaahlyXHXHV1zf8w8OlTj1QVK4jqzevBTGnTgO1REbicibyTwkhMNhhEhpicTOjgtCt4/640?wx_fmt=jpeg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9l1E7LRlc7MibyFYdDq5NsPueQLuVpwQF56HRVcsicqyOUMTZw5qFePobCsk1jsFSibged6vww1DCCyKwtrxDicPGzuPnhp7LffGA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H9v8Z57cldhFkGqE7Degn3aibU6riadKVSGmdHAUpEE6yWic0U7KqOozCdYJSxB82OxNyMsfpW9JR07EU1RjfqmdJL8mN1ND7GpDk/640?wx_fmt=jpeg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9aJZKa4NYhkDcpHIiap3vSxvJOHEgmncvq1RrMic9uG1Gjsy5QakM505qMskK3Zzic2jkr0xegCkuQvypJibKydCZEHoF1MTwapYw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicZkl5S7cIu2VSjhUQmqH9iaU7icy1a1jTuo70fmmudW2yGxBV4ZjOVcmQnXPAc7ia4hcLMsiaN0uk2awGM5q67a6tEZ2g8Q2kwXK0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H80YEwOb1pmZVOd2ozMNibGQtM11icIrXOT5xoxTGTDG1zJChsPcLPTiaIUSLj6ZB4027LgtBmt1DZg8uFuXS5AchgQH590HI2xPg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibSibIibfKQsp3HWMsdZB3q41sWxVLhmMoaPFiaRt69ZMqGSVgJLPKdRiciaYYgPMtBh5GgNXGR9icJ5NPJXl5qGleH9RlE2W3ue8He0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H8hZbgJKJgVMoWBZkCYr5NfzyxLwoWUlosdsjgCTIkeFwulZ4BH7ZZibX8dMqIC3iaviak8I6icnDLicuWrvhzmgsHeweU2TTAiatiahc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9A8EmFRCTO4U6TVIBNJwgYeI5Uh6hamlRCmkr9Z4oKdmjvUXIOSBQEUyaBLrsybm3EEUUADwialzg0Ua8gv2DiaMJgj7jBWCXgc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9ytjiaNeAI7R9IMZAwz4aS6S8kwmU1ibOVgLOXicsXLYU9IN5zvHT3vnu61BYREOldFF6esLc1Ufxl4GIpibFLUM5hkRgow4Qib4bk/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=9",
+      "local_path": "images/img_010.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
