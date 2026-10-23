@@ -1,0 +1,247 @@
+#!/usr/bin/env python3
+"""Verify local release structure and integrity; no network or semantic review.
+
+--refresh updates transcript/caption hashes and the file manifest after edits.
+It never edits course text or grants content rights.
+"""
+
+import argparse
+import hashlib
+import json
+import re
+from collections import Counter
+from pathlib import Path
+from urllib.parse import unquote, urlsplit
+
+import build_navigation
+from build_navigation import TOPICS, generated_pages, topic_link
+from platforms import platforms
+from build_legacy_links import pages as legacy_pages
+from translations import validate_translations
+
+ROOT = Path(__file__).resolve().parents[1]
+CONTENT = ROOT / "amazon"
+COURSE_FILES = {
+    "transcript.md", "transcript.txt", "captions.vtt", "course.json",
+}
+IGNORED = {".git", "__pycache__", ".venv", ".DS_Store"}
+MEDIA = {".mp4", ".mp3", ".wav", ".m4a", ".mov", ".pdf", ".zip"}
+TIMING = re.compile(r"^(\d{2}:\d{2}:\d{2}\.\d{3}) --> (\d{2}:\d{2}:\d{2}\.\d{3})$")
+
+
+def require(condition, message):
+    if not condition:
+        raise ValueError(message)
+
+
+def read_json(path):
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def write_json(path, data):
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def sha(path):
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def compact(text):
+    return re.sub(r"\s+", "", text)
+
+
+def seconds(stamp):
+    hours, minutes, secs = stamp.split(":")
+    require(int(minutes) < 60 and float(secs) < 60, "Invalid VTT timestamp")
+    return int(hours) * 3600 + int(minutes) * 60 + float(secs)
+
+
+def validate_captions(path, text, duration):
+    blocks = re.split(r"\n\s*\n", path.read_text(encoding="utf-8").strip())
+    require(blocks[0] == "WEBVTT", f"Invalid VTT header: {path.relative_to(ROOT)}")
+    previous_end = 0
+    words = []
+    for block in blocks[1:]:
+        lines = block.splitlines()
+        timing = TIMING.fullmatch(lines[0])
+        require(timing and len(lines) > 1, f"Invalid VTT cue: {path.relative_to(ROOT)}")
+        start, end = map(seconds, timing.groups())
+        require(previous_end <= start < end <= duration + 0.001,
+                f"VTT bounds/overlap: {path.relative_to(ROOT)}")
+        previous_end = end
+        words.extend(lines[1:])
+    require(words and compact("".join(words)) == compact(text),
+            f"VTT text differs from TXT: {path.relative_to(ROOT)}")
+
+
+def public_files():
+    paths = []
+    for path in ROOT.rglob("*"):
+        relative = path.relative_to(ROOT)
+        if any(part in IGNORED for part in relative.parts):
+            continue
+        require(not path.is_symlink(), f"Symlink is not allowed: {relative}")
+        if not path.is_file() or relative.as_posix() == "manifest.json":
+            continue
+        require(path.suffix.lower() not in MEDIA, f"Unexpected media/archive: {relative}")
+        require(not path.name.startswith(".env"), f"Environment file is not allowed: {relative}")
+        paths.append(path)
+    return sorted(paths)
+
+
+def validate_links_and_privacy(paths):
+    forbidden = [
+        r"/(?:Users|Volumes|home)/[^\s]+", r"file://", r"https?://(?:localhost|127\.0\.0\.1)",
+        r"https?://[^\s)]*\.cloudfront\.net", r"五批", r"幸哥",
+        r"gh[pousr]_[A-Za-z0-9]{30,}", r"github_pat_[A-Za-z0-9_]{40,}",
+        r"-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----",
+    ]
+    for path in paths:
+        if path.suffix.lower() == ".png":
+            data = path.read_bytes()
+            require(data.startswith(b"\x89PNG\r\n\x1a\n") and b"IEND" in data[-12:],
+                    f"Invalid PNG: {path.relative_to(ROOT)}")
+            continue
+        if path.suffix.lower() in {".jpg", ".jpeg"}:
+            data = path.read_bytes()
+            require(data.startswith(b"\xff\xd8\xff") and data.endswith(b"\xff\xd9"),
+                    f"Invalid JPEG: {path.relative_to(ROOT)}")
+            continue
+        content = path.read_text(encoding="utf-8")
+        relative = path.relative_to(ROOT)
+        # Detection expressions in this script are not publication content.
+        if relative.parts[0] != "scripts":
+            for pattern in forbidden:
+                require(not re.search(pattern, content), f"Privacy/source-link check failed: {relative}")
+        if path.suffix != ".md":
+            continue
+        targets = re.findall(r"\]\(([^\s)]+)\)", content)
+        targets += re.findall(r'''\b(?:href|src)=["']([^"']+)["']''', content)
+        for target in targets:
+            url = urlsplit(target.strip("<>"))
+            if url.scheme or url.netloc:
+                continue
+            destination = (path.parent / unquote(url.path)).resolve() if url.path else path
+            require(destination.is_relative_to(ROOT) and destination.exists(),
+                    f"Broken/local-external link in {relative}: {target}")
+            if url.fragment and destination.suffix == ".md":
+                headings = re.findall(r"^#{1,6}\s+(.+)$", destination.read_text(encoding="utf-8"), re.M)
+                anchors = {re.sub(r"[^\w\- ]", "", h.lower()).replace(" ", "-") for h in headings}
+                require(unquote(url.fragment) in anchors, f"Broken section link in {relative}: {target}")
+
+
+def verify_collection(config, refresh=False):
+    global CONTENT, TOPICS
+    CONTENT=config["root"]
+    TOPICS=config["topics"]
+    build_navigation.configure(config)
+    catalog = read_json(CONTENT / "catalog.json")
+    release = read_json(CONTENT / "release.json")
+    require(len({c["moduleId"] for c in catalog}) == len(catalog) == release["courseCount"],
+            "Course count or duplicate module mismatch")
+    seen_assets, expected_paths, locales = set(), set(), Counter()
+    note_assets = unresolved_assets = 0
+    pending_metadata = []
+    for course in catalog:
+        seen_locales = set()
+        for variant in course["variants"]:
+            locale, asset = variant["locale"], variant["assetId"]
+            require(locale not in seen_locales and asset not in seen_assets, "Duplicate variant/asset")
+            seen_locales.add(locale)
+            seen_assets.add(asset)
+            locales[locale] += 1
+            directory = CONTENT / "courses" / course["moduleId"] / locale
+            for name in COURSE_FILES:
+                path = directory / name
+                require(path.is_file(), f"Missing course file: {path.relative_to(CONTENT)}")
+                expected_paths.add(path)
+            for key, name in [("transcript", "transcript.md"), ("subtitles", "captions.vtt")]:
+                require(variant[key] == (directory / name).relative_to(CONTENT).as_posix(), "Catalog path mismatch")
+            metadata_path = directory / "course.json"
+            metadata = read_json(metadata_path)
+            for key, value in [("moduleId", course["moduleId"]), ("title", course["title"]), ("locale", locale), ("assetId", asset)]:
+                require(metadata[key] == value, f"Metadata {key} mismatch: {asset}")
+            if metadata["editorialNoteCount"]:
+                note_path = directory / "校注.md"
+                require(note_path.is_file(), f"Missing reading notes: {asset}")
+                require(variant.get("notes") == note_path.relative_to(CONTENT).as_posix(), f"Notes path mismatch: {asset}")
+                expected_paths.add(note_path)
+            else:
+                require(not variant.get("notes"), f"Unexpected notes link: {asset}")
+            require(not metadata["unresolvedCount"] or metadata["editorialNoteCount"], f"Uncertain wording needs a reading note: {asset}")
+            require(metadata["unresolvedCount"] == variant["unresolvedCount"], f"Unresolved catalog mismatch: {asset}")
+            require(metadata["releaseVersion"] == release["version"], f"Version mismatch: {asset}")
+            text = (directory / "transcript.txt").read_text(encoding="utf-8").strip()
+            markdown = (directory / "transcript.md").read_text(encoding="utf-8")
+            require(text and text in markdown, f"Markdown/TXT mismatch: {asset}")
+            validate_captions(directory / "captions.vtt", text, metadata["sourceVideoDurationSeconds"])
+            for field, name in [("transcriptSha256", "transcript.txt"), ("captionSha256", "captions.vtt")]:
+                actual_hash = sha(directory / name)
+                if refresh:
+                    metadata[field] = actual_hash
+                require(metadata[field] == actual_hash, f"Hash mismatch: {asset}/{name}")
+            pending_metadata.append((metadata_path, metadata))
+            note_assets += metadata["editorialNoteCount"] > 0
+            unresolved_assets += metadata["unresolvedCount"] > 0
+    actual_paths = {p for p in (CONTENT / "courses").rglob("*") if p.is_file()}
+    require(actual_paths == expected_paths, "Unregistered course files")
+    require(len(seen_assets) == release["transcriptCount"], "Transcript count mismatch")
+    require(dict(locales) == release["locales"], "Language counts mismatch")
+    require(note_assets == release["editorialNotesAssets"], "Editorial note count mismatch")
+    require(unresolved_assets == release["unresolvedAssets"], "Unresolved asset count mismatch")
+    translations = validate_translations(catalog, release, CONTENT, config["sourceName"])
+    for name, content in generated_pages(catalog).items():
+        require((CONTENT / name).is_file() and (CONTENT / name).read_text(encoding="utf-8") == content,
+                f"Navigation mismatch: {name}; run scripts/build_navigation.py after reviewed edits")
+    counts = Counter(c["navigationTopic"] for c in catalog)
+    for english, name in [(False, "README.md"), (True, "README.en.md")]:
+        readme = unquote((CONTENT / name).read_text(encoding="utf-8"))
+        for topic, titles in TOPICS.items():
+            platform_query = '' if config['id']=='amazon' else 'platform='+config['id']+'&'
+            entry = f"[{titles[int(english)]} · {counts[topic]}](https://haloshin.github.io/seller-university/#{platform_query}topic={topic}&ui={'en' if english else 'zh'})"
+            require(entry in readme, f"README topic link/count mismatch: {name}/{topic}")
+    link_path=CONTENT/'official-links.json'
+    if link_path.exists():
+        links=read_json(link_path)['courses']
+        require(set(links)=={c['moduleId'] for c in catalog}, 'Official link coverage mismatch')
+        for course in catalog:
+            for variant in course['variants']:
+                link=links[course['moduleId']]['variants'][variant['locale']]
+                metadata=read_json((CONTENT/variant['transcript']).with_name('course.json'))
+                require(metadata['officialLearningEntry']==link['url'], 'Official link metadata mismatch')
+                require(metadata['officialLinkStatus']==link['status'], 'Official link status mismatch')
+                if link['status']=='archive_match':
+                    require(link['archivedInstanceId']==link['currentInstanceId'] and link['archivedVersion']==link['currentVersion'], 'Official archive version mismatch')
+                    require(course['moduleId'] in link['url'] and variant['locale'] in link['url'], 'Wrong course/locale in official URL')
+    paths = public_files()
+    validate_links_and_privacy(paths)
+    if refresh:
+        for path, metadata in pending_metadata:
+            write_json(path, metadata)
+    manifest = {
+        "version": read_json(ROOT / "platforms.json")["version"],
+        "files": [{"path": p.relative_to(ROOT).as_posix(), "bytes": p.stat().st_size, "sha256": sha(p)} for p in paths],
+    }
+    if refresh:
+        write_json(ROOT / "manifest.json", manifest)
+    require(read_json(ROOT / "manifest.json") == manifest, "Manifest mismatch; inspect edits, then run --refresh")
+    return {"result": "PASS", "courses": len(catalog), "topics": dict(counts), "transcripts": len(seen_assets), "translations": translations, "locales": dict(locales), "unresolvedAssets": unresolved_assets, "files": len(paths) + 1, "scope": "local navigation, links, text consistency and file integrity"}
+
+
+def verify(refresh=False):
+    registry, configs=platforms()
+    for name, text in legacy_pages():
+        require((ROOT/name).read_text()==text, 'Legacy pointer mismatch: '+name)
+    results={key:verify_collection(config, refresh) for key,config in configs.items()}
+    build_navigation.configure(configs[registry['defaultPlatform']])
+    return {'result':'PASS','version':registry['version'],'platforms':results}
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--refresh", action="store_true", help="Update metadata hashes and manifest after reviewed edits")
+    args = parser.parse_args()
+    try:
+        print(json.dumps(verify(args.refresh), ensure_ascii=False))
+    except (AssertionError, ValueError, KeyError, OSError) as error:
+        parser.exit(1, f"FAIL: {error}\n")
