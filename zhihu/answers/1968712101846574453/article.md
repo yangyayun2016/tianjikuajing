@@ -1,0 +1,171 @@
+# 亚马逊主图设计/a+设计，怎么设计好看？
+
+Source: https://www.zhihu.com/question/372483059/answer/1968712101846574453
+
+## 亚马逊爆款高转化产品图设计技巧 [亚马逊作图技巧⑩](https://zhuanlan.zhihu.com/p/1968710578001413449)
+
+## 亚马逊图片如何展示产品核心卖点？
+
+在众多竞争对手中脱颖而出，吸引消费者的关注，主图的设计起着至关重要的作用。如何打造一张能够快速引爆产品销售的亚马逊主图，为你的产品赢得更多曝光和销售机会？  
+  
+在亚马逊上，产品图片是吸引顾客的重要元素之一。除了显示产品本身外，主图的设计起着至关重要的作用。使用图片设计来表现产品特点和优势是非常重要的，因为图片是吸引用户注意力和传达产品信息的最直接的方式。  
+  
+图片可以传达品牌形象和产品特点，吸引更多的顾客，从而在众多竞争对手中脱颖而出，进而提高销售量和品牌知名度。因此，巧妙地运用亚马逊产品图片技巧，为Listing设计出富有创意的内容是很有必要的。
+
+**以下是展示产品核心卖点的几个方法：**  
+  
+**主图：**
+
+主图是用户在搜索结果中首先看到的图片，因此应该突出产品的核心卖点。确保主图清晰、高质量，并突出产品的最重要特征和外观。使用简洁的背景和明亮的灯光，以便产品能够更加突出和吸引用户的注意力。  
+  
+**多角度展示：**
+
+在图片库中添加多个角度的产品图片，展示产品的不同特点和功能。用户希望了解产品的细节和外观，因此提供多角度的图片可以更好地满足他们的需求。确保图片清晰、高分辨率，并使用不同的拍摄角度来展示产品。  
+  
+**标注和文字说明：**
+
+在图片上添加标注和文字说明，以突出产品的核心卖点和特点。这可以帮助用户更好地了解产品，并在浏览时快速获取关键信息。确保标注和文字说明简洁明了，易于阅读和理解。  
+  
+**使用场景展示：**
+
+在图片中展示产品的使用场景，以展示产品的实际应用和效果。用户希望了解产品在实际使用中的效果和功能，因此使用场景展示可以帮助他们更好地理解产品的价值和优势。  
+  
+**产品比较：**
+
+在图片中展示产品与竞争对手的比较，突出产品的独特卖点和优势。用户通常会比较不同产品的特点和价值，因此通过直观的比较可以帮助他们更好地理解产品的优势和价值。  
+  
+作为最能引起消费者注意的“主力军”，图片素材在提升广告创意的转化率上，有着不可忽视的贡献度。实践证明，消费者的注意力持续时间只有几秒钟，因此，在制作广告图片时，我们可从【视觉层面】和【视觉传达】两个维度来完成创意设计，让消费者一眼就能看到我们想要呈现的关键信息，提高信息传递的效率。  
+  
+**一、【视觉层面】**  
+  
+**技巧1：留白**  
+  
+为重要信息留出充足的空间，“减法”设计，少即是多！
+
+![](https://pic1.zhimg.com/50/v2-3150a69a3106b5f3ba9bfd200b234a8c_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='424'></svg>)
+
+**技巧2：颜色、大小和对比度**  
+  
+利用多种工具制造信息的层级关系，利用字体与字形的差异， 让关键占据“视线”！
+
+![](https://pic1.zhimg.com/50/v2-ce649d9d688fc341d86a3c44d302895b_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='432'></svg>)
+
+**二、【视觉传达】**  
+  
+**技巧1：**
+
+展示商品在生活中的实际应用场景。通过借助与目标消费者“相似”的人物形象，来拉近商品与处在认识了解、考虑对比阶段消费者之间的心理距离。
+
+![](https://pic1.zhimg.com/50/v2-a29274630d96c012ba86ca63cc4db974_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='772' height='858'></svg>)
+
+**技巧2：**
+
+突出展示商品本身，并配合有吸引力的促销、折扣、及文案。刺激处在下单购买阶段消费者的购物欲望。
+
+![](https://pic1.zhimg.com/50/v2-315ed0442b34899fd9bbdfcd8ed741e3_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='499' height='412'></svg>)
+
+通过以上方法，您可以在亚马逊图片中展示产品的核心卖点，并吸引用户的注意力和兴趣。确保图片清晰、高质量，并突出产品的特点和外观，以提高用户对产品的了解和购买意愿。  
+  
+通过使用图片设计来表现产品特点和优势是亚马逊跨境电商上提高销售和吸引用户注意力的关键之一。通过展示产品的外观、用途、规格和尺寸，比较产品与竞争对手的差异和优势，以及使用高品质的图片，可以更好地展示产品的特点和优势，提高用户的购买意愿和转化率。[亚马逊作图技巧⑩](https://zhuanlan.zhihu.com/p/1968710578001413449)
+
+亚马逊爆款高转化产品图设计技巧
+
+[亚马逊作图技巧⑩](https://zhuanlan.zhihu.com/p/1968710578001413449)
+
+**技巧一：用对比图展示多功能性**
+
+此技巧的核心是**用对比图展示产品的多功能性**。如果你的产品本身具备多功能属性，推荐采用这种方法展示卖点。
+
+比如保温杯强调“冷热双用”，吸尘器展示“多种地面适用”。
+
+作图要点是用**直观**的图片展示产品功能。
+
+![](https://pic1.zhimg.com/50/v2-7db7ddd88149672120177a0dd768b3b8_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='688' height='597'></svg>)![](https://pic1.zhimg.com/50/v2-4b5b07eaafb09542c7600697e3db9746_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='675' height='675'></svg>)
+
+**技巧二：让信息一目了然，遵循3秒法则**
+
+核心方法是用**图形+短文本**来代替大段文字。
+
+顾客不想读“小作文”，信息图要一眼扫完重点。
+
+通过提炼核心关键词，用图标和关键词排版，能大大加强卖点信息的可读性，提高转化率。
+
+![](https://pic1.zhimg.com/50/v2-180cd339c68c8066dea3771c0f2afe39_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='685' height='856'></svg>)![](https://pica.zhimg.com/50/v2-c3d8b7963acbf312962035ef2343f48b_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='694' height='694'></svg>)
+
+**技巧三：在主图适当添加“小道具”**
+
+有些卖家会在**主图上添加一些辅助元素**，比如一些原料展示或小标签，用于加强顾客的理解。
+
+比如产品中含有某种特殊成分，可以在背景上加入一些原料的元素以凸显产品的品质。
+
+但要注意，这种方法有一定的风险，可能引起主图审核不通过，如果竞品普遍使用的情况下，可谨慎尝试。
+
+注意，这种方法主要是帮助顾客理解产品的用途，而不是单纯为了装饰。
+
+![](https://picx.zhimg.com/50/v2-e1300a955a9f48811ac1a6e3446c89a0_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='523' height='524'></svg>)![](https://pic1.zhimg.com/50/v2-d2caa09457244559d9a44b07739e6bc1_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='543' height='677'></svg>)
+
+**技巧四：包装展示图，合规又吸睛**
+
+如果产品包装设计美观或能传递关键信息（如用途、成分、数量等），可以在主图上直接展示！
+
+这种方法特别**适合产品本身同质化严重的品类**。
+
+换个思路，如果你的产品同质化严重，可以设计一个“吸睛”的包装来提高点击率。
+
+![](https://pica.zhimg.com/50/v2-000e0fcfe3c4cf8f6bf3f157692e49bf_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='662' height='792'></svg>)![](https://picx.zhimg.com/50/v2-900a5504d6cc30d5937570a6680fe0a7_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='777' height='696'></svg>)
+
+**技巧五：“全家福”主图，展示所有配件**
+
+心理学告诉我们，**顾客看到配件越多，越觉得“超值”！**比如水壶展示附赠的配件。
+
+如果产品有**多个颜色的变体**，也可以在主图上全部展示出来，方便顾客可以快速决策。
+
+![](https://picx.zhimg.com/50/v2-a19bd75f55985a6d35010be760007394_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='781' height='772'></svg>)![](https://picx.zhimg.com/50/v2-d20babb475169d77e3ad2c9594aa13e8_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='833' height='831'></svg>)
+
+**技巧六：移动端优化，放大细节，简化信息**
+
+手机用户浏览速度更快，关键信息要**“大字+高对比”**。避免文字堆砌，使用图标替代长句。
+
+同时，多角度展示产品，尤其是关键部件，可以打消顾客疑虑，提高转化。
+
+![](https://picx.zhimg.com/50/v2-5c1fc48e88514c06174ed036e662277d_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='848' height='848'></svg>)![](https://picx.zhimg.com/50/v2-29df9e7a7b3892ab1adfede2c47f0b6d_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='853' height='853'></svg>)
+
+**技巧七：色彩营销，用颜色抢注意力**
+
+透明材质的产品如何展示？**注入彩色液体瞬间吸睛**！底层逻辑是，90%的人会点击色彩鲜艳的图，尤其是移动端。
+
+如果产品本身颜色不够鲜艳，可以通过这种方法提高图片的吸引力，提高点击率。
+
+![](https://pic1.zhimg.com/50/v2-c760888a693d0a762f0e64c2dfbd0768_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='799' height='802'></svg>)![](https://pic1.zhimg.com/50/v2-631bd4117dc37488649dedde722e7316_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='809' height='823'></svg>)
+
+**技巧八：预判差评，提前回答**
+
+分析竞品差评（如“漏水”“易碎”），在**主图中直接展示解决方案**！亚马逊“客户评论洞察”（Brand Analytics）可以一键提取品类差评关键词。
+
+水壶漏水？直接在图片中展示“倒置不漏水”！
+
+![](https://picx.zhimg.com/50/v2-eece591736ec6c3023be39dc25d207d0_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='830' height='830'></svg>)![](https://pica.zhimg.com/50/v2-3ee8bd75f8411f9453e2f1fcd366522f_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='821' height='821'></svg>)
+
+**技巧九：尺寸参照图，减少退货率**
+
+展示产品尺寸不要简单的在产品周围标上长宽高尺寸。可以**使用常见的物品作为参照物**（硬币、A4纸、人手）对比产品大小。可以让顾客对产品大小有更真实的体会。
+
+下图的睡袋产品使用人形图作为参考，比直接写“长220cm”更直观。
+
+![](https://picx.zhimg.com/50/v2-112db8372dbcd1af275ada39a5b8a335_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='642' height='803'></svg>)![](https://pic1.zhimg.com/50/v2-98637919f506535de68fa3a2a52854d4_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='641' height='802'></svg>)
+
+**技巧十：目标用户画像是谁，就用谁当模特**
+
+通过Brand Analytics查看用户画像（性别、年龄），**图片模特要符合目标用户群体画像**。
+
+如果数据显示产品用户主要为中老年用户，模特图就要展示中老年人的形象。
+
+肤色与人种，尽量不要只用金发碧眼的白人模特，如果拿不准可以使用不具有明显人种特征的模特，增加受众人群的普适性。
+
+![](https://picx.zhimg.com/50/v2-9758c254c014a1b374022326dcd4131c_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='709' height='709'></svg>)![](https://picx.zhimg.com/50/v2-2312c1fc27207030e50ab3d630bb9c0d_720w.jpg?source=2c26e567)![](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='717' height='717'></svg>)
+
+最后总结一下，通过**对比图展示多功能性、遵循3秒法则**是让信息一目了然降低顾客阅读负担、**在主图添加“道具”、展示包装设计和“全家福”**是为了传达产品价值提高点击率，而**移动端文字优化、色彩营销、预判差评提前回答、尺寸参照图以及使用目标用户画像作为模特**，这些技巧则进一步增强了图片的实用性和针对性。
+
+**亚马逊图片设计不能自嗨，要始终站在用户的角度规划图片内容。**
+
+如何展示产品核心卖点[亚马逊作图技巧⑩](https://zhuanlan.zhihu.com/p/1968710578001413449)
