@@ -4,7 +4,7 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 
 `seller-university/` 已在 `master` 根目录，不在本目录。
 
-## 本 PR 已导入（batch 1 / 13）
+## 本 PR 已导入（batch 1–2 / 13）
 
 快照时间：2026-10-23 15:23 Asia/Shanghai。
 
@@ -21,5 +21,8 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 | [`ClaudeSkills/`](ClaudeSkills/) | [haloshin/ClaudeSkills](https://github.com/haloshin/ClaudeSkills) | Claude Code skill 合集 |
 | [`DeepTutor/`](DeepTutor/) | [haloshin/DeepTutor](https://github.com/haloshin/DeepTutor) | Agent 个性化辅导 |
 | [`Humanizer-zh/`](Humanizer-zh/) | [haloshin/Humanizer-zh](https://github.com/haloshin/Humanizer-zh) | 中文 AI 写作去痕 |
+| [`Vibe-Trading/`](Vibe-Trading/) | [haloshin/Vibe-Trading](https://github.com/haloshin/Vibe-Trading) | 个人交易 Agent（研究、回测、量化） |
+| [`awesome-design-md/`](awesome-design-md/) | [haloshin/awesome-design-md](https://github.com/haloshin/awesome-design-md) | 面向开发者站点的 DESIGN.md 合集 |
+| [`awesome-design-skills/`](awesome-design-skills/) | [haloshin/awesome-design-skills](https://github.com/haloshin/awesome-design-skills) | 设计系统 skill 合集（SKILL.md + DESIGN.md） |
 
-`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 2–13 会继续追加到本目录。
+`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 3–13 会继续追加到本目录。
