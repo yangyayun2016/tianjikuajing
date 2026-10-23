@@ -1,0 +1,20 @@
+{
+  "moduleId": "09a25aab-2175-41ad-b349-443e73a9d646",
+  "assetId": "asset-d9b5b96e0e6e4475",
+  "title": "Choose a targeting strategy for your campaign",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "b2b86bb8391242070fa7838a1cdf330b045f231887d62265061fe409f2122cf1",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=09a25aab-2175-41ad-b349-443e73a9d646",
+  "officialEntryType": "verified_course_page",
+  "releaseVersion": "0.9.2",
+  "sourceVideoDurationSeconds": 287.920967,
+  "transcriptSha256": "29b85940bb643adc9f07dce15d92db7e264b288d2dd6d328bc7e5407f8f08871",
+  "officialLinkStatus": "archive_match",
+  "officialLinkCheckedDate": "2026-10-08"
+}

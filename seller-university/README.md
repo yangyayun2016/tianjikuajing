@@ -1,0 +1,271 @@
+<h1 align="center">Seller University</h1>
+<p align="center"><strong>多平台卖家学习库</strong></p>
+<p align="center">读课程、查资料，也能带着问题使用 AI Skill。<br>从 Amazon 开始，持续整理。</p>
+<p align="center"><a href="https://haloshin.github.io/seller-university/"><strong>开始阅读 ↗</strong></a> &emsp; <a href="amazon/README.md"><strong>Amazon 专区 →</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>下载资料 ↓</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2"><strong>安装 Skill ↓</strong></a></p>
+<p align="center"><strong>270 门课程可中文阅读 · Skill 覆盖 356 个模块</strong></p>
+<p align="center"><sub><a href="README.en.md">English</a> · <a href="https://github.com/haloshin">SHIN</a> 整理维护 · 非官方项目</sub></p>
+
+<br>
+
+![Seller University：270 门课程阅读库与 356 模块 Skill Beta](assets/seller-university-cover-skill-beta.png)
+
+<br><br>
+
+## 当前已上线：Amazon
+
+第一站是**亚马逊卖家大学**。按原课顺序整理，尽量保留案例、数字与适用条件，方便系统学习，也方便带着问题查阅。
+
+| 已收录课程 | 原语言转写稿 | 补充中文译文 |
+| :---: | :---: | :---: |
+| **270 门** | **455 份** | **85 份** |
+
+<sub>以上数字仅属于 Amazon 板块。270 份英文稿、185 份中文音轨稿，另补 85 份中文译文；全部 270 门课程可中文阅读。其他平台尚未上线。</sub>
+
+<br>
+
+**[进入 Amazon 专区 →](amazon/README.md)** &emsp; [按主题找课](amazon/学习导航.md) &emsp; [试读 FBA 入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
+
+[![阅读站首页：Seller University 品牌与 Amazon 当前内容](assets/amazon-reading-cover.png)](https://haloshin.github.io/seller-university/)
+
+<br><br>
+
+## 270 门课，覆盖哪些经营问题？
+
+从开店、发布商品、发货，到广告、品牌和全球经营，分成 **8 个主题**。下面列的是已收录内容，点击主题即可进入课程库。
+
+| 主题 | 课程数 | 可以查到什么 |
+| :--- | ---: | :--- |
+| [入门与账户](https://haloshin.github.io/seller-university/#topic=start&ui=zh) | **12** | 卖家平台入门、新卖家开店步骤、付款控制面板 |
+| [商品发布与定价](https://haloshin.github.io/seller-university/#topic=listings&ui=zh) | **42** | 商品信息、图片与视频、变体、自动定价 |
+| [物流与配送](https://haloshin.github.io/seller-university/#topic=fulfillment&ui=zh) | **52** | FBA、卖家自配送、AWD、MCF、退货与货件管理 |
+| [广告与促销](https://haloshin.github.io/seller-university/#topic=ads&ui=zh) | **54** | 商品推广、定向策略、预算规则、优惠券与促销 |
+| [品牌与买家体验](https://haloshin.github.io/seller-university/#topic=brands&ui=zh) | **30** | 品牌注册、A+ 内容、评论与评分、品牌保护 |
+| [合规与账户健康](https://haloshin.github.io/seller-university/#topic=compliance&ui=zh) | **30** | 销售政策、受限商品、账户状况、违规处理 |
+| [企业购与经营分析](https://haloshin.github.io/seller-university/#topic=business&ui=zh) | **31** | B2B、企业资质、协议价格、品牌分析报告 |
+| [全球开店](https://haloshin.github.io/seller-university/#topic=global&ui=zh) | **19** | 选择站点、跨境发布、配送、收款与扩展案例 |
+
+[![Amazon 课程库：按主题、语言与关键词筛选课程](assets/library-preview.jpg)](https://haloshin.github.io/seller-university/#view=library&ui=zh)
+
+<sub>主题与中文导航名由本项目整理；课程页保留官方原标题。数字来自当前 <a href="amazon/catalog.json">课程目录</a>，不是全部官方课程的总量。</sub>
+
+<br><br>
+
+## 第一次来，先挑一门试读
+
+| 你正在做什么 | 从这门课开始 |
+| :--- | :--- |
+| 准备开店，先建立整体认识 | [新卖家 5 分钟开店概览 ↗](https://haloshin.github.io/seller-university/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=zh_CN&ui=zh) |
+| 已有商品，准备发布到亚马逊 | [商品发布入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3&lang=zh_CN&ui=zh) |
+| 想了解亚马逊代发货 | [亚马逊物流（FBA）入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh) |
+| 正在自己处理订单和发货 | [卖家自配送（FBM）入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01&lang=zh_CN&ui=zh) |
+
+**[浏览全部课程 →](https://haloshin.github.io/seller-university/#view=library&ui=zh)** &emsp; [Markdown 学习导航](amazon/学习导航.md)
+
+<br><br>
+
+## 找得到，也读得下去
+
+按主题选课，搜索课程标题与全文；在阅读页切换中文、英文，调整字号，顺着同主题课程继续读。中文音轨稿与中文译文分别标明来源。
+
+[![Amazon 课程阅读：短段落、中文英文切换与同主题目录](assets/html-reader-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
+
+### 中文音轨与补充译文，分别标清
+
+**185 门**有中文音轨转写，另外 **85 门**补充了中文译文；每门都保留英文稿。合计 **540 份阅读文本**，对应 270 门课程的中英文内容，不重复计算成课程数。
+
+译文参照现有中文音轨稿与术语库，尽量保留课程的步骤、案例、数字和适用条件。正文按讲述节奏分段，方便连续阅读；也可以直接搜索一个术语，回到它在课程里的上下文。
+
+<details>
+<summary><strong>看看只有英文音轨的课程，如何用中文阅读</strong></summary>
+
+[![AWD 课程中文译文：可切回英文原文，页面单独标注译文来源](assets/chinese-translation-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=zh)
+
+[打开 AWD 中文译文 ↗](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=zh) · [查看全部中文译文](https://haloshin.github.io/seller-university/#view=library&language=zh_CN_translation&ui=zh)
+
+</details>
+
+<br><br>
+
+## 带着问题，用卖家大学 Skill
+
+**356 个 Amazon 知识模块 · 13 个能力包 · 全量 Beta 已发布。** 把课程用到具体问题里：找资料、解释概念、排查问题，也能结合你提供的信息整理 SOP。
+
+![Skill 使用流程：提出问题、定位课程、得到回答与来源](assets/skill-workflow.png)
+
+### 可以怎么问？
+
+| 你可以这样问 | Skill 会怎样帮你 |
+| :--- | :--- |
+| “Sessions 和 Page views 有什么区别？” | 解释概念，给出对应课程和阅读入口 |
+| “这个商品为什么上架失败？” | 先了解站点和错误提示，再定位相关排查资料 |
+| “FBA 库存积压，该清仓还是继续打广告？” | 先问库龄、库存和成本等必要信息，再整理方案，不凭空编数字 |
+| “把这个流程整理成员工 SOP。” | 根据已提供事实，整理步骤、检查项和课程依据 |
+
+其中 270 个模块连接中文课程阅读页，另 86 个暂无公开转写页。模块来源包含视频和文档，因此与阅读库的 270 门视频课程统计范围不同。Skill 不代操作店铺，也不把历史课程当作当前政策。
+
+<br>
+
+### 怎么安装？
+
+**1. 一条命令安装**
+
+电脑已安装 Node.js/npm 和 Git 后，在你使用 Agent 的项目文件夹里打开终端，运行：
+
+```bash
+npx skills add https://github.com/haloshin/seller-university --skill seller-university-skill
+```
+
+按安装器提示选择 Codex 或 Claude Code。也可以在命令后加 `--agent codex` 或 `--agent claude-code` 指定宿主。默认仅安装到当前项目；加 `-g` 则安装到用户目录，供其他项目使用。确认前检查安装位置与覆盖提示；已有同名 Skill 时先备份。这个第三方安装器可能替换旧版，与下方 ZIP 安装器的“不覆盖”机制不同。
+
+Skill 的本地检索需要 **Python 3.10+**，不需要额外 Python 包或作者提供的 API Key。本次已验证 macOS 下 `skills 1.7.1` 的项目安装：安装文件与源码一致，安装后检索可用；这不等于宿主 UI 或 Windows 的完整实机验收。安装器选项见[官方说明](https://github.com/vercel-labs/skills#readme)。
+
+<details>
+<summary>不使用 npx，或想下载固定版本？展开 ZIP 安装说明</summary>
+
+![Skill 安装指引：下载、解压安装、开启新会话、提出问题](assets/skill-installation.png)
+
+**1. [下载 Skill 安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2)**，选择 `seller-university-skill-1.0.0-beta.2.zip` 并解压。它与 v0.9.2 课程阅读 ZIP 是两个独立下载包。
+
+**2. 在解压得到的 `seller-university-skill` 文件夹内打开终端。** 需要 Python 3.10+，无需第三方 Python 包，也不依赖作者的服务器或 API Key。
+
+```bash
+# 先预览安装位置，不写入文件
+python3 scripts/install.py --agent codex
+
+# 确认目标位置后安装
+python3 scripts/install.py --agent codex --apply
+```
+
+Claude Code 用户把 `codex` 换成 `claude`。已有同名 Skill 时安装器会停止，不自动覆盖；手动安装、自定义目录与回滚方式见[完整安装说明](skills/seller-university-skill/README.md)。
+
+</details>
+
+**2. 在该项目中开启新的 Agent 会话，直接发送：**
+
+```text
+请使用 seller-university-skill。
+解释 Sessions 和 Page views 的区别，
+并给出对应课程的阅读链接和来源。
+请区分历史课程内容与当前规则。
+```
+
+不想自己操作终端，也可以把[安装与启动说明](skills/seller-university-skill/START-HERE.md)复制给你的 Agent。
+
+<sub>当前为 Beta：已做隔离安装验证和 Agent 模拟；WorkBuddy、Windows 完整客户端流程尚未实测。知识卡图集和课程题库仍未发布。</sub>
+
+<br><br>
+
+## 更多学习方式
+
+### 知识卡
+
+一个主题，一组图。以「商品推广入门」为例，用封面和四张讲解卡，说明核心价值、展示位置、点击计费与每日预算。
+
+[![商品推广入门知识卡：一张封面与四张连续讲解卡](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
+
+<sub>预算卡按当前官方说明整理。<a href="amazon/docs/SOURCES.md#预算说明">查看课程与现行规则差异</a>。</sub>
+
+<br>
+
+### 课程题库
+
+读完课程，用问答检查理解，结合参考答案回到原文复习。
+
+[![课程题库：问题、参考答案与课程出处](assets/question-bank-preview.jpg)](assets/question-bank-preview.jpg)
+
+<sub>知识卡与题库正在整理，敬请期待。点击图片可放大查看。</sub>
+
+<br><br>
+
+## 带走离线阅读
+
+**[下载完整 ZIP ↓](https://github.com/haloshin/seller-university/releases/latest)**，解压后打开根目录的 **`index.html`**。课程正文、目录和全文搜索可离线使用，无需安装软件。
+
+### 下载包包含什么？
+
+当前发布版 **v0.9.2** 包含：
+
+- **270 门 Amazon 课程**：455 份原语言转写稿（270 英文＋185 中文音轨稿），另附 85 份中文译文。
+- **HTML 离线阅读版**：课程导航、全文搜索、中英切换与字号调整。
+- **Markdown、TXT 正文**，以及原音轨对应的 **455 份 VTT 字幕**；中文译文不附 VTT。
+- **学习导航、课程目录、来源与使用说明**，以及 LICENSE、NOTICE 等随包文件。
+
+不含视频文件；完整知识卡和课程题库尚未发布。Skill 提供[独立安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2)，不包含在这个 v0.9.2 阅读 ZIP 中。
+
+<br>
+
+### Releases 页面该下载哪个？
+
+**普通阅读请选择 `seller-university-v0.9.2.zip`。** 后续版本按同样的文件名格式选择阅读包。
+
+| 下载项 | 包含什么 / 有什么用 |
+| :--- | :--- |
+| **`seller-university-v0.9.2.zip`** | 整理好的完整阅读包，解压后打开根目录的 `index.html` |
+| `SHA256SUMS.txt` | 阅读包的 SHA-256 校验值，用于核对文件完整性 |
+| `Source code (zip)` | GitHub 自动生成的该版本仓库快照，含课程资料、页面与脚本 |
+| `Source code (tar.gz)` | 同一版本的仓库快照，压缩格式不同 |
+
+<sub>仓库首页 README 和配图可能先于下一次发版更新；Release 下载包固定对应其标注版本，不会随仓库修改自动更新。以该版本发布说明与包内文件为准。</sub>
+
+<br>
+
+![在线阅读、离线查阅、字幕对照](assets/reading-formats.png)
+
+也可以在 GitHub 阅读 [Markdown 学习导航](amazon/学习导航.md)，或使用课程 TXT。原音轨稿附 VTT 字幕，译文提供 Markdown 与 TXT；本项目不提供视频文件，课程页提供逐课官方链接，并标明尚未确认的入口。
+
+<details>
+<summary>文件放在哪里？</summary>
+
+```text
+seller-university/
+├── README.md             项目总览
+├── index.html            在线与离线阅读入口
+├── amazon/               Amazon 课程专区
+│   ├── README.md         专区介绍与学习入口
+│   ├── 学习导航.md        按主题找课
+│   ├── courses/          原语言转写与字幕
+│   ├── translations/     中文译文
+│   └── docs/SOURCES.md   来源与阅读边界
+├── assets/               展示图片
+└── scripts/              构建与校验工具
+```
+
+其他平台在有实际内容后加入同级目录。克隆仓库：
+
+```bash
+git clone https://github.com/haloshin/seller-university.git
+```
+
+完整说明见 [使用说明](使用说明.txt)。
+
+</details>
+
+<br><br>
+
+## 接下来的更新
+
+| 内容方向 | 当前状态 |
+| :--- | :--- |
+| **Amazon 课程阅读库** | 已发布：原语言转写、中文译文、字幕与离线阅读 |
+| **知识卡与课程题库** | 筹备中，部分内容见上方展示 |
+| **Seller University Skill** | [Amazon 全量 Beta](skills/seller-university-skill/README.md)：356 个模块、13 个能力包 |
+| **TikTok Shop · Walmart · Shopify** | 后续平台方向，尚未上线 |
+
+希望从“读课程”逐步延伸到“看知识卡、做练习、辅助学习”。具体范围与安排以后续公告为准。
+
+**Star 收藏项目 · Watch 订阅版本更新**<br>
+在 Watch → Custom → Releases 中选择版本通知。[查看已发布版本](https://github.com/haloshin/seller-university/releases)
+
+<br><br>
+
+## 来源、署名与反馈
+
+由 **[SHIN](https://github.com/haloshin)** 独立整理维护，非任何平台官方发布或背书。分享请保留课程来源、整理署名和[原仓库链接](https://github.com/haloshin/seller-university)，勿冒充原创或官方发布。
+
+课程及相关标识归原权利人所有，本项目未重新授权。SHIN 的使用条件仅适用于依法享有著作权的原创编辑内容；正常 Fork、法定使用权利与脚本 MIT 许可保留。[使用条件](NOTICE.md) · [LICENSE](LICENSE)
+
+当前 Amazon 资料来自 2026-07-27 归档课程，转写与翻译经 AI 辅助校对，未经过人工逐字听审或逐句译审。课程不代表现有全部官方课程；费用、政策与界面请核对当前官方页面。[Amazon 来源说明](amazon/docs/SOURCES.md)
+
+发现错字或漏句，可[提交纠错](https://github.com/haloshin/seller-university/issues/new?template=correction.yml)，请附平台、课程名、语言、位置和依据。[贡献说明](CONTRIBUTING.md)
+
+**授权状态：**尚未取得原课程权利人对完整转写、翻译与再分发的明确书面许可。[适用条款与来源](amazon/docs/SOURCES.md#再发布授权)。
