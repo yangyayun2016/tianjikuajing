@@ -1,0 +1,46 @@
+{
+  "title": "亚马逊站内CPC基础内容 Day4-Advertising Reports",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/pA5ZmEW5rZhS5OR6vrXdIw",
+  "canonical_url": "https://mp.weixin.qq.com/s/pA5ZmEW5rZhS5OR6vrXdIw",
+  "published_at": "2018-04-06T21:44:24+08:00",
+  "excerpt": "亚马逊站内CPC基础内容 Day4-Advertising Reports 我们的宗旨：传递价值 -- 传播分享最有价值的知识和技巧。不忘初心，做一个真正有温度的，最接地气，最贴近读者",
+  "language": "zh-CN",
+  "content_hash": "763995a5ccd89a402b7c0c1a037d70438921a6005f9b1e6f93dd3782a175bd34",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDp49iafib5D4hHssGPUvFBIu9htrbpvZVsjIhpsf2sppsQ3jM2GnQNEdib3HwTvB1oru9tjrbfAAiaDw/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEC3YROhicF3XKrOHwD9AHun1micicicW1ajTIl2OBWQTHcpAo9xaPJPCEETyRAVSZwmcVRZmXE0g1qanw/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDp49iafib5D4hHssGPUvFBIuNmeib0gFPB4uB4vUAAWmD19enZibRAZcMKYq2PaWicDIStpicEdey2nV1Q/640?wx_fmt=jpeg#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDp49iafib5D4hHssGPUvFBIuJVuOdALibKQQZIkHtSgBAQT7km3e4rRJklY81uH0O7IKStia56kpxR3w/640?wx_fmt=jpeg#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDp49iafib5D4hHssGPUvFBIuOGtZGf8GsSyqp3u3SzHWhxnWJVDEUhK51AKqBtop4ID4RM8WRU2Ghw/640?wx_fmt=jpeg#imgIndex=3",
+      "local_path": "images/img_004.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

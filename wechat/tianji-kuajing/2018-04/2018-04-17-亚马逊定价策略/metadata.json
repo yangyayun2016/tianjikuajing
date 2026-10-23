@@ -1,0 +1,25 @@
+{
+  "title": "亚马逊定价策略",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/k-IS8RdzvnSEVlHc615QUw",
+  "canonical_url": "https://mp.weixin.qq.com/s/k-IS8RdzvnSEVlHc615QUw",
+  "published_at": "2018-04-17T23:59:14+08:00",
+  "excerpt": "亚马逊定价策略",
+  "language": "zh-CN",
+  "content_hash": "3d779eb9133b73480053ff44e297dfb987c8c7b3c22fef2aff8bea164a2396c7",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDzKBvd6g65BpdOZ13LzT1GhUgckic11ibVZ3T9f1HjuFykgMT9ejckyMibEiaY76llh4n8Rm3Xr0vnDg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

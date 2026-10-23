@@ -1,0 +1,25 @@
+{
+  "title": "亚马逊关键词搜索工具（史上最全的）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/PPJddbbstV-Mqo06fv4xdg",
+  "canonical_url": "https://mp.weixin.qq.com/s/PPJddbbstV-Mqo06fv4xdg",
+  "published_at": "2018-03-19T10:22:06+08:00",
+  "excerpt": "史上最全面的关键词查找工具，60种关键词查找工具，百晓堂提供3种付费的关键词工具购买服务，需要请联系百晓堂小百.",
+  "language": "zh-CN",
+  "content_hash": "d2f5c935ec16778f017bf1495d57c463c707b04245c5dd77931d361b2835ab44",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEB4icndZIJ2oW0AFjhOV7u0IoMaXnExjibKIBLzJV3PQnbQicYMcW7oxXTtliaF9DcY3F3fWlRXjlGiaSg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

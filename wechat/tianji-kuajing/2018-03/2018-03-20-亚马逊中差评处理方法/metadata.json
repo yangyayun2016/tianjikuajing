@@ -1,0 +1,46 @@
+{
+  "title": "亚马逊中差评处理方法",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/tu46ZVagwQqv5jiMpQPguA",
+  "canonical_url": "https://mp.weixin.qq.com/s/tu46ZVagwQqv5jiMpQPguA",
+  "published_at": "2018-03-20T10:05:55+08:00",
+  "excerpt": "亚马逊中差评处理: 一. 四类亚马逊可以直接移除的中差评 二. 常见中差评种类及处理技巧 三. 三个诀窍 四.总结 2018亚马逊找差评方法集锦.",
+  "language": "zh-CN",
+  "content_hash": "446044d68f857593115cc90d369e66672f6bb25b7d4f490631852f26ee40d149",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDgUkEiax7SO1SlMDgqnxJynQL8diavXibyRIE1NsUL0icLy5vqjNHGqKblxeCXDBibsCk7E5hlwPje2Rg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDgUkEiax7SO1SlMDgqnxJynOUibphG8rUaEtuR0FFFv1icShA7tarkgaZQt3yhPHTIlVs0vkHAAeqcg/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDgUkEiax7SO1SlMDgqnxJynKicXcPggYm602En204vpEUG6mRBRVZGA9UByAjUPNkH5ibdlEyO9WQjQ/640?wx_fmt=jpeg#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDgUkEiax7SO1SlMDgqnxJynmmeCo5XM3IicAKaca63etNMtwk1DyyEcBwY8AZfcbX2kBzia4Yu6q7yQ/640?wx_fmt=jpeg#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEDgUkEiax7SO1SlMDgqnxJynAiajyrYiaTLyDDtBibkyTRcXVd8J8xeP7k6WRWUgNeP1UbjDRSv5Qv5eg/640?wx_fmt=jpeg#imgIndex=3",
+      "local_path": "images/img_004.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

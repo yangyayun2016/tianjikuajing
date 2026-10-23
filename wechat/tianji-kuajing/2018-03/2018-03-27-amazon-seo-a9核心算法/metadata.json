@@ -1,0 +1,46 @@
+{
+  "title": "Amazon SEO A9核心算法",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/wNEPUT5sofQo1k5Zqb94tA",
+  "canonical_url": "https://mp.weixin.qq.com/s/wNEPUT5sofQo1k5Zqb94tA",
+  "published_at": "2018-03-27T15:38:22+08:00",
+  "excerpt": "A9 核心算法 1，转化率: review, 图片质量，价格 2，相关性：Listing 内容 3，消费者满意度：Feedback, ODR 4，总结",
+  "language": "zh-CN",
+  "content_hash": "5171a51e9b1f216e71bdea0ddeae5e00219d3f98a95f17fa46118fe998babae7",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEAfa756nGe9MiadzjibeLn2KyXlFGCVeZTrRsL2ic7EibvCjs4ozHo8xKNKqJjibGrlx8ZR3RMElVzlbow/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": null,
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEAfa756nGe9MiadzjibeLn2Ky2ibB5fkZCNjLIULLH9rh3r9JT3ibEc4OO1fVSJDhPaJgyaZiavCbcv3ZQ/640?wx_fmt=jpeg#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEAfa756nGe9MiadzjibeLn2KyziaJ6JqHf9uQ25UT93W7nXI3qEJLeTIjx1B3I41ibCxQL74bEd1GPeOQ/640?wx_fmt=jpeg#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEAfa756nGe9MiadzjibeLn2Kys5VlczawsCNTzDSsfTzJYtJvNKKbIv4VicwSq9vVkSfvIiblMerKicOSw/640?wx_fmt=jpeg#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/YJS4vjiaDdEAfa756nGe9MiadzjibeLn2KyHgmQG3XyMNicwEwDrBM1icqRfdmJAv8jdL0sR9g5sp9ew5hkAHJ1ul3w/640?wx_fmt=jpeg#imgIndex=3",
+      "local_path": "images/img_004.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
