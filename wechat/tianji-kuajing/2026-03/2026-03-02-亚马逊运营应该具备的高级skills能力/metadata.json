@@ -1,0 +1,65 @@
+{
+  "title": "亚马逊运营应该具备的高级skills能力",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/LAwqbiLbI04Lr1euiQEcrw",
+  "canonical_url": "https://mp.weixin.qq.com/s/LAwqbiLbI04Lr1euiQEcrw",
+  "published_at": "2026-03-02T20:50:24+08:00",
+  "excerpt": "亚马逊运营应该具备的高级skills能力- 怎么写skills如何写出高级Skills？",
+  "language": "zh-CN",
+  "content_hash": "7a1053a1e1654d039004840428680273901f6328645163bb1c8d098702cf49e1",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5HibkvPmFibcDXKQBiaG6ybuCb5fLlJ9ibK8hcuL3cibhFcuvic1rsMibkvKIibIHlkjjhbLHDEvvfubRdeszGDW3Ek7wb5XeJMF5oEESvA/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H81CaUvupQpURHNfIHOnEKxWPxrI0N1R8ql22F3nMagMscJUiasaDpITVRNGLAl7t9BUNEzCo5kcaUY94qicFiblzMhEXs3YaZdKc/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibNBCMcibyIhvkDXkJuPyADaxDbzIibTuxzL2eCxyeSlRlj8KlnvicSEVZ7Gqibhd7BibbqgAeIaT5XaHaSyNFAkicECBrCIkP7vU1N0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicJNXmrnuaN7BK1pPmEUq1BhbOBd8icTS7v1J7XCwzogI8XJHfpZEkgYXYgm5NJNibfr3PdkicNRicjKt5rPnia38ibo3U7nWictNkYuw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9fiaqicWias2DHw8c8MzjBCSAxJaoT82Bb0icq1fEP28rCDS0NSBylvVPiaOPzwLFgs5ymcbFfjaUmQ2rK9odVDdnDKGia71V3ssJvg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HiblDKYib8gNUQHO1zbtpTZfibvTzM4duicJDyCdRicibPu3ibQCfaiaSolPbLOy9WyBDTwNCLT1TgFBelYicJia5hyI1sWNKjUuxB3SHPfg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9ZQiahSdCK0la9J7QuXRsvicciaxXOVN5fqoGE3njPyTjSy4KYnts8uvTjUicePKJ3wVngiapGlp79wNGBI7Al68CbXaJqRuaxqaXA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8913QtQLowhty4ibricBveBiciaWefKnjtQdJVdVMyPbc0W4BUH8C8gl9icOuc9awPuX3UN6S972Bxhaog3cbqTgA6CuqXDmxVsce0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hic6ibrSMicicLoh9aovjS6eGof83J49KYmxiaElzumtEibUyEKOeWLeSXTyXg9r70ImBichtjy2cYdxa6KOUkiac2oWZV0Vy5o9LpcATc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
