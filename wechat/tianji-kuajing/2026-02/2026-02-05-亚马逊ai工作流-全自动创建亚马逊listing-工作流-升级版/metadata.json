@@ -1,0 +1,80 @@
+{
+  "title": "亚马逊AI工作流-全自动创建亚马逊listing 工作流（升级版）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/lC2YAjL0CfhS5IUkraHzbw",
+  "canonical_url": "https://mp.weixin.qq.com/s/lC2YAjL0CfhS5IUkraHzbw",
+  "published_at": "2026-02-05T22:56:09+08:00",
+  "excerpt": "一个标准的数据驱动型 SEO Listing 生成工作流拆解。这个工作流的核心在于：先做数据清洗与画像侧写，再进行针对性的文案输出。",
+  "language": "zh-CN",
+  "content_hash": "e3c06fd2016df39d397ef2f95dde9b6bb4c63c022d6b27c1b6a6047f215e963f",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5H9lXRTcAPamyINbnlhxlI8xQenYSKsP1fYYCwYo0ibUp1lc1LvMuPTIRpszdY3nG0iaDgZzmyYXvIVDrXiaTy0cOk9fdibuOK3VhDQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5HibS16jBc0exr60RJR5PjsYjTLvLWO0SWqQ1C47b7niaeEkxawKfmtsFsiaNsJRGfPR8lJ1Emor85RhwSWo1yktVsEvDwqcI7bqkI/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HichJLRn2Ktu0icQ5Giadtib9UvibyicPq3TESXXmLV2qJ90UOUBloCxDU9hBJL1vNStAHjqJRDx4DiaFwyudibh6ymKzXnQLRcxUbxlvU/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9EhYSFNHXibJic2XRWMIMTL47iafXlXAJQHXIPBBIzMDV7iaPtr5DhcRrbzM6JjAWWkfmtmhHSbD2l7eIBLDY0BDicObRe7jMOJcQM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9U5W8EYdHwBepXeX2ARCx1muDWgFjhaPq5nGlEfyjrKRHXvvTdq1GXABagfvbvQALAVsnUOHAyE2pUk7KhB0hjdLORLsXasyg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicAMz8oDG6FUpyYNmp0bhDYjwyaPzb8jTAkSRkk5O2hoyM1qbAdJU8PZsUILI089j4tvUvX6qgpnC60rvdELLaL2oUhXynFxbI/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9fSicE9vlpptN84LeEXiaK1PtlutWiaV4yevRgJajElHRaNqbQL4qChJwLwRyED2TyESichhpwatvRUyhE7H8dib7CplibxtFBSrJvw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hic2wIFRKdZ5n4LMMhzkTqtEQ0aJDKA2wk4tT3uGQDk7d7HRoYZtZbYlSCBzSxjrHp3liboxo196ib9qG9MKtAC1kHI4rRWPRpHuk/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9icpWpHacl3xXawTvW77g6XmxwakIYQI6DJsiaZibu5Sn8kAHfiazjglq55NxqBeSPWcPwbF5yw0x6hpRXn9dFZKia1xErlU7uxuI8/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicPbibbsdcM5SASNG5xkA0qwnJyhichRlicNOibLLrxoKWkuQrU7Gw82Waibicrp7iaBUtyD0nVJgDPUHz9g5T0PLOJCEx7vsBROBInHY/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9WgoETWZ9q8NlbnST8jy5WJuhWEh9CFpOcvnUiaxVQnhWCCwp9SNetfEqJoHB6gF0bvd4lOYDIMZ9zJ2rRkMJecmGmR2KxdRHc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibLOQauiadCeiaeq2UTcF250GjIPasFcIiaqAEbE8EDKl4jGzuBv9vTtJacUHEb7VO74yicAszu4owRceTjS0zJSpoFaqjVdIj7dxc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=9",
+      "local_path": "images/img_010.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

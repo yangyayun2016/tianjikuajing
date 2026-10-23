@@ -1,0 +1,40 @@
+{
+  "title": "写作是最值得投资的技能（）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/V7GV46hOuVESB0Bqyglf2Q",
+  "canonical_url": "https://mp.weixin.qq.com/s/V7GV46hOuVESB0Bqyglf2Q",
+  "published_at": "2026-02-01T12:11:59+08:00",
+  "excerpt": "写作是最值得投资的技能\n\n今天在家整理自己以前写的文章和资料，发现这么多年来，写作给自己带来太多太多东西，很庆幸自己在步入社会时就开始坚持写作（一写就是14年），它是我在面对这喧嚣的世界，依然在自己心灵最深处，为自己亮着一盏灯，每当夜深人静时，伏案写作，文思泉涌，享受此刻宁静的美好，它也让我在人生道路上结识了很多良师益友，我发自内心的，感谢写作，感谢自己，感谢一路相伴的朋友，是你们让我遇见更好的自己，是你们让我更清楚想要什么，怎样过好我这一人生，谢谢~！以后我还是一如既往的坚",
+  "language": "zh-CN",
+  "content_hash": "1eec655676f1a9aa99379166d6594d3a4c6fd98e92a7e119c6708827816f6134",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEB4auJCtaHWGggPnCG4WoQEBboxfVo2PK8fZX2NDJfSsvyZ7dtcBnDLRHnXwVria3yzhhw6GDDdk8A/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEB4auJCtaHWGggPnCG4WoQEFrVUavxiaSl589bt861Zn5QBib41SVq07ibzZ2Rq4crNmYwB0tOLd13ug/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB4auJCtaHWGggPnCG4WoQELsJnr5gehBKEKlJWib8kXUYGjbNmzKr17j4ekatz45D3cYgldamfedw/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEB4auJCtaHWGggPnCG4WoQEbBfX1HeYB7wQRDDkOWywNOMJX0NkmamsxPkqbiaRunGib9hHicB7aGCew/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

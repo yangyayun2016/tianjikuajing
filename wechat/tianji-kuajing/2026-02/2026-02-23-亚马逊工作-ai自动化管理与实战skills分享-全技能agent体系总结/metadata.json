@@ -1,0 +1,29 @@
+{
+  "title": "亚马逊工作 AI自动化管理与实战skills分享 — 全技能agent体系总结",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/7fkld1lm7cxhWAJOwF4K7w",
+  "canonical_url": "https://mp.weixin.qq.com/s/7fkld1lm7cxhWAJOwF4K7w",
+  "published_at": "2026-02-23T00:06:58+08:00",
+  "excerpt": "",
+  "language": "zh-CN",
+  "content_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5Hicb9odAUFqJpeXWZMgibibA6re36IfCaOulvXpU99MlalHj3m6KMj0FbW5q790rpFCW14Z8wzmv2KKNpicWH4AAby1BLtvWFRZKYk/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5HichpXaxQ6nho7EibnE3KtuibV0gIgoJns99ich1aJulAyBGombcT3QHFuJSMMNkudkr9QMZze7lZKpCf311c6Gk1xdLG2YH0dBkqQ/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

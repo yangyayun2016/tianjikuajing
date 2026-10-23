@@ -1,0 +1,55 @@
+{
+  "title": "亚马逊广告skills高级玩法",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/QQemJfOs1i0r2DfQQ-urPQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/QQemJfOs1i0r2DfQQ-urPQ",
+  "published_at": "2026-02-25T00:02:01+08:00",
+  "excerpt": "写在前面：\n\n今天要写的一个广告skills是针对精品模式（新品-打曝光打收录为主，老品-打转化，打位置 降ACOS,打进攻）\n\n其中，用核心竞品ASIN 9个+自己ASIN,多产品进行流量比较（找词，定方向），再用小时坑位快照，找出核心词，长尾词等，小时级广告位，自然位，推荐位，曝光时长，曝光的位置，具体微调，具体思路看文章后半段\n\n分析效果\n\n![Image](https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8Cnk49Diaib",
+  "language": "zh-CN",
+  "content_hash": "83fd707bef5004dd8b9d279916beb8719881e666df65d54bfca60d71ca5a0815",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/rhRdOgho5HibiaTylmias7bWbzx4S0Af2kasEXhlEaVkU69M4FoCFl4CZkjmvRWPGlobRBx8NqkSBkukethXSxictJOY5cA1V5LiaB7C0RCu5Hvs/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5H9RwsEdBTibspftP9kvrLY1XibB074btyqOuUic0WVvf67n4Qhhbrz3kRvZUkHxY8UKia65Q6ia2sgGukKae1cg3BTsOHJmkIicNZFDw/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8Cnk49DiaibYtxiaJ5zC4TThhhWrlcI68GBiaE1hKGDicLwTxaD5SGq1cAwZRoGokxPff6ibGdPMlvY3k1iaN31JVoJ3F8kkLkjGPpnM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HicXsntWcbFLMheCZ5Zp3tnCGsz1zlBrtnI8quKaHP1XmhicgxaKvQIKOj5Nx8ZQVCg8Us87rhKsiaOLpgekkJmajOEib6XfGwt4Lc/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hibly8TaS07deppL0c4DL51BQOKnrG7hvtPwG62dj8Lx7icxgFPn2p8Tx1JXP0L2Ma2333lECDcnURv5IynN1fdI6pEkg0w9RMzQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8vOw728lEKPhQz3AucD7zTOyo1L5uwHqlVJf4CXzdvV2kVj2aKfVqjvG9WukUKy8UEhOPyc9kNfCy3icysqySdm6quKCFaskMM/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HicTibPbLVvCicAfeBKlGGITLvJx51ZGSNCibOsTwYbbvkqqGE0jtfoQbVQcO6GgzZtyJTN6fubkO2z9Kr6ALP6icE5gFibJ6myzJEz0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

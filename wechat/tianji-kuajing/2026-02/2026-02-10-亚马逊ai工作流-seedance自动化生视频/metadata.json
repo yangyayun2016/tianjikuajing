@@ -1,0 +1,60 @@
+{
+  "title": "亚马逊AI工作流- Seedance自动化生视频",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/2kAQ9Rcsv3dldj3_qJuu1g",
+  "canonical_url": "https://mp.weixin.qq.com/s/2kAQ9Rcsv3dldj3_qJuu1g",
+  "published_at": "2026-02-10T23:59:52+08:00",
+  "excerpt": "①AI视频生产效率与系统化工作流指南（n8n和Seedance）②如何从简单的AI对话跨越到高效的自动化工作流",
+  "language": "zh-CN",
+  "content_hash": "4baedfad14cb90a99d91a807e9dfdc98c95ead4a646173f9379a89a4359d0db2",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5HibV3rf6xTq7RXhTavstJSvnVTXzrejyB5DCp4NWs7PricfuvicRj4qpOeNrROb3VbEiaUY1Yk73OZGgAaU7cZVEVVic4Lmw53l2rx0/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5HibxrTmFxibsKUl6R9yETnutpFPDpwV0tqoeGFjdOe3qeOBx8Uhn85rxJt8TR0O9BbEibeFPR6HVUgPplOsAGVd2lEiaVyeLOHM8Vk/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibnlLV5Q5W7iaYgJicqSaXygEhCuyZUpu6Gibb2z7MZUqdarE9DmD7hZFIlRyfXQPOdTgnK2vWaOficyNLf9icoFKPw0ibOuzm826dew/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hib5ClMm3u51vRyv1JyJmQZiboUvec5Vn7qh575jMMIjmZicbGKbuHqTAKLQKgDWVF153O1Rg3Q6ib1a3NibAMBxVfKiabsNOlzibQYpA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H87un7Kz4Ag0WGnryC6pSSSW4xM3Im0QjbMQC6ibBnnhrPOcRlzIB7xib32YXh6fnibKUc9gEQRNhdyL4b1bqvnpA6kjft3bxiagic0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibAMkT2cwkkfrNv7onVaww3f1rGLwHtdSkbg6NGtp5H10T8S2FwKpMJHtJSxibajlribjCOJCtJWa0oTC1H8NH5ia6hcQH01nomHQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H9PX3OyLgKKedPH5EgibMa4HrdlIBllEicKZiccPa61FJwibbJsXOzCB4oEjKGiap7vkgFrnUZTiaI8utvwXKrVwsW2v7SuEPmhegKps/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibzgIoibpCT3iavj3ibjE6LJBz2RA42GdeDSCYTqe6kP5IhfArNHiacqzO5Atrl0B2n016ee8OImpZo61wxSbicgZeCZDFy98MiafrzA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

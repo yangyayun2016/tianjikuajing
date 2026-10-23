@@ -1,0 +1,75 @@
+{
+  "title": "亚马逊广告skills使用手册（全部文档，找我）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/pWHu95zvW1_5V3IpJstLIg",
+  "canonical_url": "https://mp.weixin.qq.com/s/pWHu95zvW1_5V3IpJstLIg",
+  "published_at": "2026-02-16T23:54:42+08:00",
+  "excerpt": "《亚马逊广告知识库》核心指南文件的创建。该知识库的完整文件结构验证及核心内容概览。",
+  "language": "zh-CN",
+  "content_hash": "524733b43e04ccfb60aa5328e5904c9abc34e9e137685a8c3bd5e952b3a48316",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5Hic2z8aib4avo8SN7L6zTJcLYK4sicHbbgFSib4dfuZEIvPX9IEkpoxYIpdl4336DcGfDuKN5nBGyruicmyHGaKicicfjX9Ln4ze17U2E/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/rhRdOgho5HibohcHqWwwnjxeNHzK6vAvxqA6kWcV3cBFcIIGicniaG8Iicel1FO8scGx3ouRGeWYBwAT3ANbfzKfOmMfl6Y9ZaiaZszV8ItaicXuc/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibwBYhM9DXDZUjG0txyAtyu9FBuV2lz7GtFseca8ZlNgyYicIBAhO9icCoTnJiccz3cx7Q3XG6YYUKT6wniclyBfvFLgkTHlNhYdFA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hibk2ia4iaAGJCTecicrYkXq7SHFJYavw1eQSJjYjMczk556ArZwdbtYrZgyUu3BO87dyfKBrxWv0WB48icmmVxLW8bRZfnsuvSjo1o/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibibF1zu4Pfx6jkxERiaeiawGSxicV5t0JL6F6YtFpoNY70ibj3cBqhZdnBtJUGNJVOPL7ShZiaoPP7PIRHaJDnbc71flG4VGeoGmhDQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5HibXib57mqZcVXrBRx4uok7EJ9mF4EiaOaLop6zBQVqMPhrysoRKticw8ppM12kRibgicou2tkBFBd2K9qALytphDUZict2O9cIInRRC0/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5Hicq6aDQ6ndaNkmichDG7Vk48E2LluwFPRydeuUGAVJQ5z8UYBuBcmcakg1OOXdsGCI0Ipk2nIjItnerhjokH35Og5ib4hvKMicNtQ/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5H9zAkc5l3EF7G9hQUaUkYibtqicMiamGN8EIXvIIomdsiclOustg2cMVrc8UBSHhcPziccgPmcGZKq4k4ZuOKkIoqTFRhBJeRvsopIg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/rhRdOgho5HibjRLJPbniaVFHUT7vuqCVic4R93a62TJOO1Hx7iazibFTDIjFoJFcwM5CXoIhafsia6junrm1iaj7OZTXiaVL4Ce6gqYTLxrlmaEIq6M/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5Hib5UYWxQta63Spwbo6N1L1pKNZGm3q1avzBDgR6O7jWMvpaTBygh1kjLQj0iaEankw1Ho6oH9NeLWvs3ayq10EpLTN4XL1t08cs/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/rhRdOgho5H8mAYtk7YZIYuvbiaa2wTTJWSlI2iciaeeiatEPiaSiar8ZwQF8fGCk8TNVhh5GKnPaD1kuF7Nqx4yCCUQxzwsIicEtm3hD3FQUfmYxIo/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=9",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
