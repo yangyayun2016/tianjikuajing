@@ -1,0 +1,50 @@
+{
+  "title": "亚马逊优惠券最新政策更新，请查收~",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/xOBfjILtNUttE3KsT37-7w",
+  "canonical_url": "https://mp.weixin.qq.com/s/xOBfjILtNUttE3KsT37-7w",
+  "published_at": "2025-03-25T23:09:53+08:00",
+  "excerpt": "亚马逊促销新政引发行业地震：分层收费机制下卖家如何重构运营策略？",
+  "language": "zh-CN",
+  "content_hash": "816696f457aae829797bd14c5cb4e4ea72207470fce8359a8325283e92b97706",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAMGd8IovMhQcAoWX2FoIegwgJ2tV2U2MfgUhHXCUqHPEicw3VK3zgwmwcm2ibITD9JDJVZ7IK6NrUQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAMGd8IovMhQcAoWX2FoIegUzAh7Ic7IhtY2HetaXpIMxUJ0ORambw74rsxwnbqO5guic5uhO7wLUA/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAMGd8IovMhQcAoWX2FoIegDll8Cia5cENN79kv9cWc14OKTNF1H3zibGx3vwFvia0QuTaSAXYlkicMRw/640?wx_fmt=png&from=appmsg#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAMGd8IovMhQcAoWX2FoIegSOFekXmvbSQRuVO5EozSqcKVuPeWDkkJAaxiaDQRVKtaUs7oyeADTug/640?wx_fmt=png&from=appmsg#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAMGd8IovMhQcAoWX2FoIegSO7asy0oJKickHkib8tV3wvtaKGbvWHcIkLLudMPzzhTBMwAWNxn4Q0w/640?wx_fmt=png&from=appmsg#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAMGd8IovMhQcAoWX2FoIegibhiawRLVOxKQZljLoBEQGzKEtSNnBkrsHSG6AKHcOWnicKn19IqbzseA/640?wx_fmt=webp&from=appmsg#imgIndex=3",
+      "local_path": "images/img_004.webp",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

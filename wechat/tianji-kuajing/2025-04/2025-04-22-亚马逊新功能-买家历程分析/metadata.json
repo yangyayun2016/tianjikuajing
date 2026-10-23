@@ -1,0 +1,160 @@
+{
+  "title": "亚马逊新功能“买家历程分析”",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/BrpoMUtdPcLgmB8LM-JOSg",
+  "canonical_url": "https://mp.weixin.qq.com/s/BrpoMUtdPcLgmB8LM-JOSg",
+  "published_at": "2025-04-22T21:43:45+08:00",
+  "excerpt": "亚马逊后台上线：“买家历程分析”功能\\x0d\\x0a该功能能把买家购物前的历程规划成了“认知，考虑，意向，购买”四个阶段，并提供四个阶段买家的一些数据参考，卖家可以借此来分析未产生转化的原因以及改进的方向。",
+  "language": "zh-CN",
+  "content_hash": "725aaa83f19a5aeb13309fb7c321f0522e0865ddb87e4f78dd2f2aac7f16287c",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKIWTlQ6ew9cQDaKDSyHrOwOrpl6EyR2mib49ubp1sibLcz2KuhWFYiaCUw/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKEBRTdpTIL54H8Yse0ATV2jOia9AfKmrB5ypO0voOtibzKKuyw0V11gUg/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKPrxGjVTSjCGl6icJ66Y8Gpecsrsl9NYoeorHYNLTEPnSUUmsCVgHg3w/640?wx_fmt=png&from=appmsg#imgIndex=1",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKeVZiaE5qiaXfZ27pAH8f3LAwnK1Hz4RVZbYjnRyfVwpiaD2mk7qYicom2A/640?wx_fmt=png&from=appmsg#imgIndex=2",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyK0gpZgib1GB3AGibMOjkWxxpcJrlQHLDMlpicgSSXOJquXwgKVcMjkFQpQ/640?wx_fmt=png&from=appmsg#imgIndex=3",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKgNNZngun5eSTycA5V7R7H6FQ0Tgth4oAIpia6KPUNWlHhwibicaOcRJ7A/640?wx_fmt=png&from=appmsg#imgIndex=4",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKFEJyRbCPFTQSh7eicBNIHjh3CzcvvGqpL8UUkEm0CiajicBEic7S9fqaXA/640?wx_fmt=png&from=appmsg#imgIndex=5",
+      "local_path": "images/img_005.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKiauxibRDkA1qJVYRQv4ElovicGh1FenOOuP0vPq3J9l9w0E1xWtdPEdBg/640?wx_fmt=png&from=appmsg#imgIndex=6",
+      "local_path": "images/img_006.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKAb9IIT14qvbeFkdeVfy5KOcjkbBT73JETdtwQkLOXx8M8bqy9KHFPQ/640?wx_fmt=png&from=appmsg#imgIndex=7",
+      "local_path": "images/img_007.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKrryoYkf3zdZXWOMugicMPW4DBqNVMVHhrJiaZcB5icDcqcZQts4iauYmSA/640?wx_fmt=png&from=appmsg#imgIndex=8",
+      "local_path": "images/img_008.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKUscoLfD22rTgUJKicApicSTHjw9UcHEfJ55QaSoohicTjP6J2gW3gslxA/640?wx_fmt=png&from=appmsg#imgIndex=9",
+      "local_path": "images/img_009.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKWTH5SicevEXakice3L6K7micZEZoDCoOe22XOQibCViaFQT7QSPTxnfxLtg/640?wx_fmt=png&from=appmsg#imgIndex=10",
+      "local_path": "images/img_010.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKELiakodosw0AICWIwZQKJTvWBWuAvViajzLwI2yHl9NcKggc4cPxE44g/640?wx_fmt=png&from=appmsg#imgIndex=11",
+      "local_path": "images/img_011.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyK0FYEsibX6TnwArv3c8sFygB0GZ7NPic7wgiadmt7WicYqAcAZo1Cgyopqw/640?wx_fmt=png&from=appmsg#imgIndex=12",
+      "local_path": "images/img_012.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyK01ib0vibXnCTOf1fPquiaJbQ3sOsh57BISFfEB0v7jFapiakxV8gWQx2rA/640?wx_fmt=png&from=appmsg#imgIndex=13",
+      "local_path": "images/img_013.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKh996qo72Lviaj1KWstJXB1Nmno4q1lgwFBRickuf2o7pVJkwfQsiaibqZg/640?wx_fmt=png&from=appmsg#imgIndex=14",
+      "local_path": "images/img_014.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKRujIQG0q4icJKoCVfnnuofjH8nefYuPBQG86965j5OcHpeuVQo6G0oA/640?wx_fmt=png&from=appmsg#imgIndex=15",
+      "local_path": "images/img_015.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKMbXmyPia7Qib9avJic1jzpkOxX22jsP3KegtMvr8ujNRuebuOmMLNtjGA/640?wx_fmt=png&from=appmsg#imgIndex=16",
+      "local_path": "images/img_016.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKQ8hsNTqRbZicx0ojlfjT7iaqQtOtUHHRIgTQdJHKm52UOFY1Tb0icG96g/640?wx_fmt=png&from=appmsg#imgIndex=17",
+      "local_path": "images/img_017.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKTMh5pN6bMJGCncGoiaQKs8nPajzprTobbdyaIk4yYIomCDR2WWiaI5oQ/640?wx_fmt=png&from=appmsg#imgIndex=18",
+      "local_path": "images/img_018.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKwGnGKjeMudMnxNca3yq1esv5SR9sTyyxfibCwdxKcK1RUTRs0rR1HjA/640?wx_fmt=png&from=appmsg#imgIndex=19",
+      "local_path": "images/img_019.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKg39JdaaMgsObibPkCaPHZsEhQTLu7EyQyCSfJicFg6czhQibPKh1aS3rA/640?wx_fmt=png&from=appmsg#imgIndex=20",
+      "local_path": "images/img_020.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyK7ZOkJQ8WfSPBLiawgWAkRU9cFwvJrO5hPFGTWEX7qmoDl7v76Jwq06g/640?wx_fmt=png&from=appmsg#imgIndex=21",
+      "local_path": "images/img_021.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKbpichVfgXm1Yvq1JfNQbicq3deB5Y4UkMKxg1iagu2EZl5H1nicX8OOqtQ/640?wx_fmt=png&from=appmsg#imgIndex=22",
+      "local_path": "images/img_022.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKoR7jScfibszl4sEibkhwJlurXDGQSyHRPJPeo1GZQic2cLyqeHooYl8iaA/640?wx_fmt=png&from=appmsg#imgIndex=23",
+      "local_path": "images/img_023.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKkbOMaq85QzcEJlbqgcwIjSReENZy02xkWn0Ilxepgzib8YpGC4WD6icA/640?wx_fmt=png&from=appmsg#imgIndex=24",
+      "local_path": "images/img_024.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKRoeF9IQnddCOGqqXhdLUI7Qa594vQNe44USTWibITvpAcz56VG8jyhQ/640?wx_fmt=png&from=appmsg#imgIndex=25",
+      "local_path": "images/img_025.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEAcZ8dibT0v4ia2nfBKJw3lyKRoeF9IQnddCOGqqXhdLUI7Qa594vQNe44USTWibITvpAcz56VG8jyhQ/640?wx_fmt=png&from=appmsg#imgIndex=26",
+      "local_path": "images/img_026.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

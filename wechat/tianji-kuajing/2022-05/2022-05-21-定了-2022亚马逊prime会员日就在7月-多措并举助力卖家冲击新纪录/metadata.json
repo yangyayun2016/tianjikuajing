@@ -1,0 +1,45 @@
+{
+  "title": "定了！2022亚马逊Prime会员日就在7月！多措并举助力卖家冲击新纪录",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/gk1YCCsq7YbqZFiozf5VtQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/gk1YCCsq7YbqZFiozf5VtQ",
+  "published_at": "2022-05-21T23:26:16+08:00",
+  "excerpt": "今日，亚马逊宣布2022年亚马逊Prime会员日将在今年7月举行，活动将覆盖亚马逊全球超过20个站点。包括中",
+  "language": "zh-CN",
+  "content_hash": "e7c747bc4324dbd07682381ba7087677ec3aa7442abee429abde450ab091d5e2",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/qVOXPgC30qKlFdResBEcA0lmmcldIlPCJYxp3Md3E4jyLJ7iaibticlbMBb3fqSghRb9ABAvibj0QqhSe7dZ5TxREQ/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/qVOXPgC30qKlFdResBEcA0lmmcldIlPCJYxp3Md3E4jyLJ7iaibticlbMBb3fqSghRb9ABAvibj0QqhSe7dZ5TxREQ/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qKlFdResBEcA0lmmcldIlPC5wS5xOtjicOMiaHZWKZmACsiaVjiaWUA3ekPF1jcHAT7ddJtRyLetuglRQ/640?wx_fmt=png#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qKlFdResBEcA0lmmcldIlPCRRxGatW6tcVlyiaBluWS2Pe62sAC2RafVsDlJYXhvgdf1icLFhibmvt0A/640?wx_fmt=png#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/qVOXPgC30qKlFdResBEcA0lmmcldIlPCMfdBdibys4wc9aTsVEyoHMQuav1zdLPbqGBUicGI5XTqLicWEoOXooqUA/640?wx_fmt=png#imgIndex=3",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
