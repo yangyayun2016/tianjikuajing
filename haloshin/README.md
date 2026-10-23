@@ -4,7 +4,7 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 
 `seller-university/` 已在 `master` 根目录，不在本目录。
 
-## 本 PR 已导入（batch 1–2 / 13）
+## 本 PR 已导入（batch 1–3 / 13）
 
 快照时间：2026-10-23 15:23 Asia/Shanghai。
 
@@ -24,5 +24,6 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 | [`Vibe-Trading/`](Vibe-Trading/) | [haloshin/Vibe-Trading](https://github.com/haloshin/Vibe-Trading) | 个人交易 Agent（研究、回测、量化） |
 | [`awesome-design-md/`](awesome-design-md/) | [haloshin/awesome-design-md](https://github.com/haloshin/awesome-design-md) | 面向开发者站点的 DESIGN.md 合集 |
 | [`awesome-design-skills/`](awesome-design-skills/) | [haloshin/awesome-design-skills](https://github.com/haloshin/awesome-design-skills) | 设计系统 skill 合集（SKILL.md + DESIGN.md） |
+| [`awesome-gpt-image-2/`](awesome-gpt-image-2/) | [haloshin/awesome-gpt-image-2](https://github.com/haloshin/awesome-gpt-image-2) | GPT-Image2 提示词案例库（**不完整**：仅 parts 1–2/5，其余在后续 batch） |
 
-`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 3–13 会继续追加到本目录。
+`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。`awesome-gpt-image-2` 目前只有 parts 1–2/5。后续 batch 4–13 会继续追加到本目录。
