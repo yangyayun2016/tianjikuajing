@@ -1,0 +1,760 @@
+# 第一章 亚马逊A9算法解析
+
+Source: https://zhuanlan.zhihu.com/p/674926467
+
+第一章 亚马逊A9算法解析：思维导图：[https://sanjdqeje0.feishu.cn/mindnotes/bmncnfVMWFbq4Xs0ft6wm2Soauc?from=from\_copylink](https://link.zhihu.com/?target=https%3A//sanjdqeje0.feishu.cn/mindnotes/bmncnfVMWFbq4Xs0ft6wm2Soauc%3Ffrom%3Dfrom_copylink)
+
+培训中所有用的思维导图链接 整理如下：
+
+A9算法思维导图： [https://sanjdqeje0.feishu.cn/file/RK3NbLo7topEL0x3UBXcSH2anBh](https://link.zhihu.com/?target=https%3A//sanjdqeje0.feishu.cn/file/RK3NbLo7topEL0x3UBXcSH2anBh)  
+A9算法四大原理解析： [https://www.kdocs.cn/view/l/cvnJJLbQ3cH5](https://link.zhihu.com/?target=https%3A//www.kdocs.cn/view/l/cvnJJLbQ3cH5)  
+  
+全文链接： [https://sanjdqeje0.feishu.cn/docx/QhWvdlO6jokTLExncKpcrlpBnCc](https://link.zhihu.com/?target=https%3A//sanjdqeje0.feishu.cn/docx/QhWvdlO6jokTLExncKpcrlpBnCc)
+
+---
+
+亚马逊A9算法 链接[亚马逊A9算法：知其然必知其所以然Algorithm LIST (1).xmind](https://link.zhihu.com/?target=https%3A//sanjdqeje0.feishu.cn/file/RK3NbLo7topEL0x3UBXcSH2anBh)   
+第一章 亚马逊A9算法全解析  
+思维导图链接：[https://kdocs.cn/l/cvnJJLbQ3cH5](https://link.zhihu.com/?target=https%3A//kdocs.cn/l/cvnJJLbQ3cH5) [金山文档] 第一课A9算法.pdf  
+1 关于A9算法的介绍  
+1.2 什么是A9算法？[https://sanjdqeje0.feishu.cn/mindnotes/bmncnfVMWFbq4Xs0ft6wm2Soauc?from=from\_copylink](https://link.zhihu.com/?target=https%3A//sanjdqeje0.feishu.cn/mindnotes/bmncnfVMWFbq4Xs0ft6wm2Soauc%3Ffrom%3Dfrom_copylink)  
+算法单词Algorithm 刚好9个字数  
+2018年以前A9算法是公开的，现在打不开，可以通过时光机追溯  
+  
+  
+[https://web.archive.org/web/20190304171641/https://a9.com/what-we-do/product-search.html](https://link.zhihu.com/?target=https%3A//web.archive.org/web/20190304171641/https%3A//a9.com/what-we-do/product-search.html)  
+  
+  
+从A9算法官网我们可以看到算法的核心：
+
+![](https://pic2.zhimg.com/v2-cfa3f1414fe4eabf552161c6e97588cd_1440w.jpg)
+
+1.2 刷单为什么容易查出来？   
+因为新品没有历史流量源头，如果10个订单都是新账号，很容易就被追溯到。  
+不要去做违反规则的事情比如标题字数写超了，可能会被惩罚.  
+2 A9算法四大原理 [https://www.kdocs.cn/view/l/cvnJJLbQ3cH5](https://link.zhihu.com/?target=https%3A//www.kdocs.cn/view/l/cvnJJLbQ3cH5)
+
+![](https://pic1.zhimg.com/v2-139905dea246a263948cfd0ba90e5d6a_1440w.jpg)
+
+2.1 **第一大原理 Searching Indexing搜索收录**
+
+![](https://pica.zhimg.com/v2-70ece8d29b648b2b46cb4dd7a2c1890a_1440w.jpg)
+
+2.1.1 我们写的Listing哪里的内容会被收录？  
+标题，5点，ST，长描述，预期用途，商品类型，特定风格，相关主题，A+等等。  
+  
+  
+2.1.2 这些内容会被亚马逊怎么使用？  
+我们listing上的内容有的会被亚马逊拿来做Index By Search（搜索流量收录），有的会被拿来做Browsed（归类作用）具体请参考：
+
+![](https://pic4.zhimg.com/v2-ba0a02ba36ac77d810f0aa59d110415b_1440w.jpg)
+
+关键词属性说明  
+概览  
+下表说明了卖家在管理商品信息时遇到的关键词属性。大部分关键词属性需要有效值，  
+这些值可在分类树指南 (BTG) 中找到。属性 specific\_uses\_keywords、thesaurus\_attribute\_keywords 和 target\_audience\_keywords 主要在美国使用，并且正在逐步停用。可以为 generic\_keywords 和 subject\_keywords 输入自由文本。subject\_keywords 应仅用于媒介类商品。您无需填充 platinum\_keywords，因为它们现在是多余的。
+
+![](https://pica.zhimg.com/v2-128d4ab793042a3626f6123ec31ae11e_1440w.jpg)
+
+Indexed by Search: [https://sellercentral.amazon.com/gp/help/GF2C2L6RCFZGWBXC](https://link.zhihu.com/?target=https%3A//sellercentral.amazon.com/gp/help/GF2C2L6RCFZGWBXC)  
+如何使用这些数据？  
+卖家填写属性，亚马逊使用这些数据帮助买家找到商品。例如，亚马逊使用这些数据为买家关键词搜索生成搜索结果。该数据还用于自动将商品分配到分类导航中，这是买家查找商品的另一种方式。例如，“style\_keywords:sport-sandals”的分类分配查询会将 style\_keywords 值为 sport-sandals 的商品分配到“运动凉鞋”分类节点。  
+  
+  
+我应该使用下拉列表还是自由文本？  
+在卖家平台中添加或编辑商品信息时看到的“关键词”选项卡上，卖家可以选择一个下拉值或输入自由文本。自由文本必须与分类树指南中列出的有效值匹配，以便在分类查询中使用数据。亚马逊不会发布有效值的完整列表，而是会指导卖家查看与其销售商品分类相对应的分类树指南，以确保他们重点关注与其相关的值。  
+  
+  
+长度限制  
+搜索词 (generic\_keywords) 的长度应少于 250 个字节（阅读更多）。如果超出限制，亚马逊搜索将完全忽略该属性。  
+  
+  
+对于上表中的其他长度限制，如果超出限制，亚马逊搜索会在长度限制之前进行索引并忽略任何多余限制。
+
+![](https://pic1.zhimg.com/v2-c3b939116d33a712ce20713c2d44e9b4_1440w.jpg)
+
+BTG 分类树指南 [https://sellercentral.amazon.com/help/hub/reference/G1641](https://link.zhihu.com/?target=https%3A//sellercentral.amazon.com/help/hub/reference/G1641)  
+2.1.3 学习之后我们应该认识到：
+
+1. 不要超过字数，要严格按照规范写listing，防止被降权
+2. BTG是我们必看的指南，根据自己类目去看
+3. Item Package Qty 后期是不能更改的。
+4. 变体为何合并之后评论不见了？因为属性不匹配，需要一个个检查，是否只有一两个不一样，比如Size，Color等。
+
+2.2 **第二大原理：Product Relevance商品匹配度**
+
+![](https://pic4.zhimg.com/v2-e7deb580fea639dcac2e481e5f7e31cf_1440w.jpg)
+
+2.2.1 什么是产品相关性的判断标准？  
+转化率，匹配关联性，客户满意度留存度，  
+ECT（Expected Conversion Rate）:老客户复购/Add to Cart/Wish List/Gift Idea/QA 等等  
+  
+  
+2.2.2 转化率  
+这个不用解释大家都懂  
+2.2.3 匹配关联性  
+比如有两个词“蓝牙音箱”，“音箱蓝牙”，客户搜索蓝牙音箱，当然是“蓝牙音箱”匹配度高  
+  
+  
+2.2.4 客户满意度留存度  
+好评Review等数据  
+  
+  
+2.2.5 ECR预计转化率  
+新品的ECR很重要，因为它没有历史数据。包括老客户复购/Add to Cart/Wish List/Gift Idea/QA。QA也入选的逻辑，因为有人问的产品，证明客户感兴趣，亚马逊也会给流量倾斜  
+  
+  
+我们运营有时候会有错误认识。认为卖不好是价格太高了，其实不对，影响转化率的因素有很多，价格是我们最后才要考虑的因素，当然，价格也很重要，因为价格永远是平台的核武器。  
+  
+  
+2.3 **第三大原理：Past Search Patterns 过往搜索痕迹**
+
+![](https://pic4.zhimg.com/v2-78a4a4db83440bc61b31bb7a32296dcb_1440w.jpg)
+
+- 包括Keywords(ST), Frequently Bought Together(FBT), Similar Item, Buddle等因素
+- Keywords 和 ST的区别，比如你投放Bluetooth Speaker，客户搜索Portable Bluetooth Speaker，广泛匹配模式下，Bluetooth Speaker就是Keywords，而Portable Bluetooth Speaker则是ST
+
+2.4 **第四大原理：Past Traffic Patterns 过往流量痕迹**
+
+![](https://pica.zhimg.com/v2-fe4cf11a03528aac6833e28cbc2d8a5a_1440w.jpg)
+
+```
+2.4.1 首先我们看下我们主要有什么样的流量？
+
+Organic,Advertising(Post Stores), Off-Site(Amazon Attribution/Affiliate) URLs(5种),Amazon B2B
+```
+
+- 广告Post和Store现在被严重忽视，大家要关注起来。
+- Attribution，跟踪站外推广的表现。之前推广效果无法检测，大家不愿意做站外推广。
+- Affiliate：联盟，都有自己的标签的，能追踪到
+- URLs：5种短链，后面会介绍
+- Amazon B2B：目前没有公开。我们后台的Business Price一定要设置，低1%甚至一分钱。低了才会显示。
+
+2.4.2 站内流量十大入口  
+  
+[https://www.kdocs.cn/view/l/cvnJJLbQ3cH5](https://link.zhihu.com/?target=https%3A//www.kdocs.cn/view/l/cvnJJLbQ3cH5)
+
+![](https://pic4.zhimg.com/v2-8c8d154d0308164c5317f35633af94fb_1440w.jpg)
+
+1. **搜索流量：**
+
+![](https://pic1.zhimg.com/v2-bebe532d8d8be4096eb250fe3aef081c_1440w.jpg)
+
+**Discovered by Customers**  
+任何站外关键的推广，归类到这个版块来，这个版块是实时更新的  
+  
+  
+**Editorial Recommendation**  
+编辑推荐，可以尝试主动联系，靠真心话术。找官网找Contact Us或者去领英  
+  
+  
+**Filter by category**  
+比如搜索哈利波特，会让我们选择是书还是衣服等
+
+1. **类目流量**
+
+标题要含有所在类目关键词，增加匹配性。
+
+1. **Top 100榜单流量**
+
+**Best Seller:**
+
+![](https://pic4.zhimg.com/v2-afd7ed003e979910386f2508b0416851_1440w.jpg)
+
+谷歌搜索Best Bluetooth Speaker，出来的结果导向到Best Seller页面。国外人买东西和我们不一样，他们喜欢先上谷歌搜索。现在国人的习惯也改变了，会先搜索小红书，知乎好物等等搜索  
+  
+  
+**New Release等其他榜单:**  
+前台导航顶部左边热力位置就是New Release，权重非常高。Today’Dealls和其他榜单等等也是
+
+1. **站内Deals流量**
+
+![](https://pica.zhimg.com/v2-60a71face852c9468b9740f9044028fc_1440w.jpg)
+
+- 站内Deals流量
+
+- Lighting Deals 秒杀 又称LD秒杀
+- Best Deals（7 Day Deal）7天秒杀又称BD
+- DOTD （Deal of The Deal）镇店之宝
+- Prime Day Deal 会员日
+- Black Friday Deal 黑五
+- Cyber Monday Deal 网一
+- Back to School Season 返校季
+- Holiday Gift Guide 礼品
+
+1. **Coupon流量**
+
+![](https://pic2.zhimg.com/v2-6d1f92228b23611252439cb472acdf45_1440w.jpg)
+
+我们有条件的还是要做coupon，首页有专门的coupon流量入口，甚至有的用户会直接在coupon里面搜索。
+
+1. **促销流量**
+
+![](https://picx.zhimg.com/v2-bcde9c40028a12def481665ff4a2bc73_1440w.jpg)
+
+促销流量：  
+有些Listing有绿色的小标签是Extra Saving
+
+1. **关联流量**
+
+![](https://pic2.zhimg.com/v2-3668de92b58460d7aaad613f25c456fd_1440w.jpg)
+
+**FBT:Frequently Bought Together一起买**  
+**F**requently Bought Together是亚马逊根据买家的购买习惯自动生成的，这项功能对于提升产品的销量很有帮助。FBT可以提升产品的曝光率，同时也可以增加了流量的入口  
+  
+  
+**看了又看：**  
+手机端还存在，PC端部分类目还存在，或者是新listing上架的时候也还有。2个新品一起推的时候，看了又看的流量如果通过同时推广也能做成自己的  
+  
+  
+**Similar Item:**  
+不同关键词下的排序是不一样的，前2个是比较稳的，如果前2个能做成自己的，基本上下面的都会是自己的。  
+  
+  
+**Video关联流量：**  
+看到Influencer的时候就要注意，亚马逊要把视频的红人属性加大权重。Amazon Influencer Program 亚马逊红人计划在推广  
+  
+  
+**小结：关联流量一定要重视起来，亚马逊有30%的流量是关联流量。**  
+  
+  
+思考：FBT(怎么样才会出现这种关联呢?)  
+就是经常有买家购买某个产品之后又购买了你的产品，在大量同时购买的动作发生之后就会被系统获取并且展示出来，简单来讲就是看了又看、买了又买或者看了又买。  
+  
+  
+如何形成关联销售  
+  
+  
+早些时候有那种发邮件给买家或者是通过不同的IP频繁来回点击两个listing这种办法来形成关联，短期内可以奏效，但是如果生效之后很少有人真的这样购买，那很快就会被真实一起购买的产品替换。  
+  
+  
+1、比较常见的方式就是设置捆绑销售，即两者一起买的话可以打折，比如说冰箱和插座一起买，手机和贴膜一起买，久而久之其中主产品就会带动副产品的销量提升，这是目前比较稳定形成Frequently Bought Together的办法。  
+  
+  
+2、利用PPC广告，你想要做的关联对象是个listing，那么就一定会设置长尾词，在PPC的广告词组里面设置这些常委给出，因为竞争比较小，所以价格不会很高，只要顾客进入到那个listing中，就会出现你的广告，点击广告查看或者购买了你的产品，数量达到一定程度就会出现关联了。  
+  
+  
+还有一些利用黑科技或者邮件营销的技巧费时费力，又容易产生一些负面的效果，还是比较不推荐的，还是考虑一些比较正经的事情，比如  
+  
+  
+什么产品之间的关联才会让买家接受  
+  
+  
+就如同前面所说买个冰箱关联插座，买个手机关联钢化膜，这些关联可以让大多数买家接受，要是买双鞋然后关联了图钉，这是几个意思？  
+**1、互补关联**  
+  
+  
+互补关联强调搭配的商品和主推商品有直接的相关性，如主推商品为鼻贴，那可以搭配面膜、洗面奶等同场景产品。  
+  
+  
+**2、替代关联**  
+  
+  
+替代关联指主推商品和关联商品可以完全替代，如主推商品为圆领t恤，那么关联产品可以是V领T恤，也可以是立领等。  
+  
+  
+**3、潜在关联**  
+  
+  
+潜在关联重点强调潜在互补关系，这种搭配方式一般不推荐，但是针对多类目店铺时，可以考虑。如主推商品为泳衣，那潜在关联的商品可以为防晒霜/项链，明面上，两种产品毫无关系，但是潜在意义上，买泳装的人可能在户外游泳，因为防晒霜也是必要的。  
+  
+  
+Frequently Bought Together 只会显示在该卖家在您的商城中浏览产品或是您的产品出现在黄金购物车上。除此之外可以再其他的平台如 Facebook / Twitter / Pinterest 等等努力推广 promos 或promo codes，借此获得更多流量与曝光。  
+  
+  
+总的来说，Frequently Bought Together是个不错的流量入口，只要两个产品的相关性不会太差，带来的转化率一般也比较高，如此便可以达到关联的目的。
+
+1. **买家标签，历史记录流量**
+
+![](https://pica.zhimg.com/v2-49656e17943f8db1670bc01dcb597f06_1440w.jpg)
+
+**Featured items you may like/Inspired by your browsing history/ Top Picks for you in 某个类目**
+
+- Featured items you may like/Inspired by your browsing history
+
+这两个版块流量非常大，会展示在PC端和手机端的首页
+
+- Top Picks for you in 某个类目
+
+当你经常逛某个类目的时候会推荐这个给你
+
+- 通过SD广告可以干预这些版块，必然有买家标签用于SD广告
+
+**Registry & Gifting**  
+在首页能找到Registry的入口，礼物属性比较强的卖家可以考虑。怎么用？  
+比如美国人结婚的时候，会把购物清单公开出来发布到社交网站，然后大家看到礼物之后会帮他购买。老一辈很喜欢这个功能，家长也会帮小孩购买他的心愿清单，还是有一定的玩法技巧。
+
+1. **Amazon Choice**
+
+智能音响购物的流量  
+AC标的获得，转化率影响最大，和关键词排名等不大。测试过第四页的产品都能获得AC标。
+
+1. **广告流量**
+
+![](https://picx.zhimg.com/v2-155fbca8c55c64faa2b73f5ef1b3645b_1440w.jpg)
+
+- SP：Sponsored product
+
+- SB/SBV: Sponsored Brand/ Sponsored Brand Video 品牌广告
+- SD：Sponsored Display 展示广告
+- DSP： 目前感觉亚马逊在弱化DSP功能
+- Post：目前是免费的。在PC端的尾部，部分类目和关键词已经出现了Post
+- Store: 亚马逊品牌旗舰店需要装修，其他平台招商看重的一个点，也是B2B买家看重的一个点，对SB推广有奇效。
+
+2.4.3 站外七大流量入口
+
+![](https://pic1.zhimg.com/v2-321773f1cca66fab548b1fb8286cc03c_1440w.jpg)
+
+1. **站外deals网站**
+
+Dealnews, [http://woot.com](https://link.zhihu.com/?target=http%3A//woot.com)等
+
+1. **社交媒体**
+
+Facebook, Pintest, Ins, Tiktok，YouTube等
+
+1. **搜索引擎**
+
+Google， Bing， 雅虎，亚马逊权威链接，各种人工URL  
+  
+  
+**亚马逊权威链接:** Canonical link. 根据我们的标题生成，增加我们listing在谷歌的权重。
+
+- **如果找？**Listing页面用Google 浏览器右键检查，搜索Canonical，找到亚马逊链接，复制出来查看是什么关键词。通常是5个词，如果6-7个，那么标题有横线符号。
+- 如果有用户在谷歌搜这个词语，你会排在前面。
+- 站外要下功夫在权威链接
+
+1. **论坛红人博主**
+
+![](https://pica.zhimg.com/v2-d7c18c5b15de4e357f443e7994118e92_1440w.jpg)
+
+1. **媒体网站**
+
+1. **EDM营销**
+
+![](https://pic3.zhimg.com/v2-272274b32160fee451616585b05261a4_1440w.jpg)
+
+亚马逊会主动给我们推广。购买过的用户会通过Q&A让他们回答，是随机的。  
+那么我们思考是不是可以用老款的Q&A去推广新品呢？比如说我买了A款，但是我看最近上新了New Model B，值不值得购买呢？
+
+1. **独立站/官网**
+
+美国人购物是会记品牌的。希望大家去重视品牌。Anker 40%的流量来自于品牌搜索。同时我们也要知道，需要通过广告创建自己的品牌流量保护。  
+3 A9算法3核心支柱
+
+![](https://pica.zhimg.com/v2-502f806066354328d9ccd65d5e2b9c0e_1440w.jpg)
+
+3.1 转化率（9大因素）
+
+![](https://picx.zhimg.com/v2-a21863b3aa0c35a0781df7de2f14d35d_1440w.jpg)
+
+3.1.1 Product Rank
+
+![](https://pica.zhimg.com/v2-092d5e78d349f010a1d850634baa02ca_1440w.jpg)
+
+- 一些大卖做站外是为了保持BSR排名，对关键词排名作用不大。
+- 美国有用户专门去浏览买新品(New Release)新晋榜单，有加权
+- 记住，BSR只和销量有关。有时候订单没涨，但是排名涨，因为你的对手流量降了，类目流量降了。
+
+3.1.2 Review产品评论
+
+![](https://pic1.zhimg.com/v2-5df6309ac6c5ca3ab731eef50712100c_1440w.jpg)
+
+新品如果能做到10条高质量或者6条Review，就可以获得很高的转换率。  
+3.1.3 QA 问答 question ＆answer
+
+![](https://pica.zhimg.com/v2-a8775c98ebe079451d6bed2619414266_1440w.jpg)
+
+QA是被大家严重忽视的，因为无论在PC端还是手机端其位置都在在Review之前，亚马逊还是希望用户先看到QA。我们需要把QA做好  
+  
+  
+3.1.4 Image Size and Quality
+
+![](https://pic1.zhimg.com/v2-0a2c2a92c15556320ceaf11f4a5a5ef4_1440w.jpg)
+
+- 第二，三张图片影响尤其重要！消费者看到不喜欢就直接走了。有案例直接调换了主图顺序，转化率瞬间提升的。
+- Anker主图是500\*500，为了加载更快。其他图片是2300\*1500，为了PC端展示
+
+大家一定要注重手机移动端的流量，加强APP页面优化 和加载速度优化  
+3.1.5 Price
+
+![](https://pic3.zhimg.com/v2-87995dd5b4886ae11bb1cc44f3d8a0b0_1440w.jpg)
+
+即使在价格没有优势的情况下，其他的方面包装的好转化率也不会太差  
+  
+  
+3.1.6 Parent Child Product
+
+![](https://pic1.zhimg.com/v2-9f9a99b656be6b36c8c6fd09febd2d5c_1440w.jpg)
+
+亚马逊官方是希望更多变体的，增加客户选择和提高转换率  
+  
+  
+3.1.7 页面停留和跳转率
+
+![](https://picx.zhimg.com/v2-5ea7f3577f5fac282ddac51065431be9_1440w.jpg)
+
+这也是我们为甚要优化好长描述和A+的道理，增加用户停留时间。  
+3.1.8 Listing完整性
+
+![](https://pic3.zhimg.com/v2-37528c6a983478a812c6d852f03ebcca_1440w.jpg)![](https://pica.zhimg.com/v2-882f80dd22a78d2b9a90ed4733948028_1440w.jpg)
+
+- 有的ASIN连产品尺寸都有没有，配件信息也没有写，不可取
+- 注重排版，图中只有一个listing的排版做了优化，其他杂乱无章
+- Sold By名称，也是有技巧，需要花心思，品牌加类目或者市场，让人觉得专业性高
+
+3.1.9 Listing包装
+
+![](https://pic4.zhimg.com/v2-f82539101f3430628702da82d7da2e13_1440w.jpg)
+
+- 五点，A+，描述等等需要专业。
+- 符合语法逻辑的排序更受欢迎。比如Bluetooth Speaker，和Speaker Bluetooth，前者更好
+
+**转化率总结：**  
+影响转化率的因素有9大个，我们需要一个个排查看是否都做好了。只有在其他都做好情况下，  
+才会考虑价格。如果你只考虑价格的话就会发现，降价有销量，涨价没销量。  
+3.2 相关性（7大因素）
+
+![](https://pic1.zhimg.com/v2-93835ad9fcaac23460030c010c7a5582_1440w.jpg)
+
+3.2.1 Title  
+产品标题，不超过250个字符
+
+![](https://pic3.zhimg.com/v2-2ebb21501d5c1333fe47f0972b587140_1440w.jpg)
+
+- 标题占了50%的分数。很重要不要乱写。
+- 卖点的唯一性，我们找到唯一核心的卖点词，会影响你的点击率和转化率。当然卖点要真实唯一
+
+3.2.2 Features/Bullet Points
+
+![](https://picx.zhimg.com/v2-a60fab3ede10ce54dd0f26e51002c2f1_1440w.jpg)
+
+- 如果留了邮箱的，要经常检查，很有可能会已经被删除了
+- 策略：研究+模仿+超越+10倍内容
+
+3.2.3 Product Description
+
+![](https://pic1.zhimg.com/v2-a9e72f64bdc35127cc83d5b991079020_1440w.jpg)
+
+- 会增加客户的停留时间，描述 A+ 视频，图文并茂绘声绘色，会讲品牌故事
+
+3.2.4 Brand Name and Manufacture Part Number
+
+![](https://pic1.zhimg.com/v2-c5c8536426daa79d8f4d3cb1ebe86e32_1440w.jpg)
+
+3.2.5 Specifications
+
+![](https://picx.zhimg.com/v2-c32d9ee0c9139831e3c78e37f6de4d79_1440w.jpg)
+
+如果没写参数就会像上面出现的那张对比图一样，很多信息缺失。
+
+![](https://pic1.zhimg.com/v2-c2dd4f80da4e6c3cb385dfc5825a4a24_1440w.jpg)
+
+3.2.6 Category and Sub-category
+
+- 如果消费者搜索 Harry Potter in books，那么系统就会去书的类目去找
+- 问题：有了A+, Description还需要填吗？答：现在需要，因为前台同时展示了，有权重
+
+3.2.7 Search Terms
+
+![](https://pic2.zhimg.com/v2-411598a64be564b24580610eb29152e3_1440w.jpg)
+
+- 以前是标题-五点-长描述-ST的顺序，现在ST从以前的5行改成了1行现在，权重会提升,现在是标题-ST-五点-长描述
+- 平台有新功能开放，我们卖家第一时间去测试，然后思考为什么。前期有流量红利
+- 自动广告前期的词来源于ST和Title，如果写的很乱，那么跑出来的词很泛。如果我们的关键词很少，预算不够，那么可以不写ST，这样标题的权重就会放大，而且自动广告跑的时候流量比较精准一点~
+
+3.3 客户满意度和保留率（5个因素）
+
+![](https://pic4.zhimg.com/v2-f7b84fa495c9a91174c022416d0cacb3_1440w.jpg)
+
+3.3.1 Negative Seller Feedback
+
+![](https://pica.zhimg.com/v2-d597db5dec35efe71928eacf07c01cfc_1440w.jpg)
+
+现在需要重视起来。甚至影响一些大型的折扣网站，如果Feedback不够，可能上不了。  
+  
+  
+3.3.2 Order Processing Speed
+
+![](https://pic2.zhimg.com/v2-c0ceecffabff2b0e08a86def7cab5537_1440w.jpg)
+
+针对于FBM卖家的指标  
+  
+  
+3.3.3 IPI
+
+![](https://pic3.zhimg.com/v2-a763b9cafd66cc4c975ef0a1ffbc3e8a_1440w.jpg)
+
+如果经常断货，会被平台觉得没有实力，流量得不到倾斜。大卖会补很多货进去  
+现在亚马逊算法会根据产品的库存在哪个地区去匹配更高的流量给卖家  
+  
+  
+3.3.4 Perfect Order Percentage
+
+![](https://pic2.zhimg.com/v2-353f16d01a956323e60fe66336609607_1440w.jpg)
+
+Anker的创始人就很喜欢看Voice of customer，发现了包装和售后不够好，于是聘请当地的团队来做，产品完善的基础上，从用户体验开始优化~  
+  
+  
+3.3.5 订单缺陷率ODR
+
+![](https://pic2.zhimg.com/v2-fca78ef215614022416b628c6f40ae5b_1440w.jpg)
+
+3.4 关键词稳定排名的因素
+
+![](https://pic3.zhimg.com/v2-95cabfe52f6445058a86a2a648e4767e_1440w.jpg)
+
+3.4.1 A9 下关键词排序的影响因素
+
+![](https://pic2.zhimg.com/v2-04765b5ca2e6cb836fbb2cc9eff47b4b_1440w.jpg)
+
+- 该词下出单
+- 该词下转化率
+- 该词下出单利润贡献比
+
+不管那个产品哪个词下，你都会发现都有1~2家比较贵的，因为其能给亚马逊带来的利润更多，亚马逊整个平台的底层逻辑是平台利益最大化，也就是让他赚尽可能多的钱 符合这一逻辑，就不难看出，客单价，广告预算，广告花费，广告销售额，把流量给到转化率高，利润最大化，广告花费占比，广告销售额占比，利润率，广告和自然流量和花费占比这些我们卖家一定要去扣，去关注  
+  
+  
+3.4.2 A9体系下关键词的稳定性因素
+
+![](https://pic3.zhimg.com/v2-62700d3a65551953cb233cddbb355976_1440w.jpg)
+
+- 该词下单量的基数
+- 该词下好评累计个数
+- 该词下好评的增长频率
+
+老listing下的单量基础相当高，所以稳定。  
+好评个数和相关性有关，如果好评多，当然会优先照顾。  
+好评增长率是为了给新卖家，新品，新listing机会  
+**所以我们后台催评一定要做，是我们运营的基本工作。**  
+**亚马逊对评论的一个计算逻辑是，它参考每一条评论 它的留评时间，（评论的最新性）以及评论是否在亚马逊平台有真实的购买该产品，它还分析评论，验证评价的可信度**  
+3.4.3 关键词曝光排名系统解析  
+产品一直处于小类目节点35名左右，销量一直无法增长？  
+为什么小类目节点前3名的产品，销量是第4名以后产品的2-4倍以上？  
+目前平台大部分产品都是供大于求，那么亚马逊的爆款系统就很有必要研究了  
+亚马逊一般只给大类前20页产品曝光机会，后面基本没什么销量和曝光，那么20页大概有400个产品，但是小分类大部分出单在前三页，那么亚马逊就需要公平的给这400个产品展示的机会，400名以外的产品基本出单就非常少了。
+
+![](https://picx.zhimg.com/v2-2cbf06fd22d446afea25f557b003dd21_1440w.jpg)
+
+- 首先让我们来研究下搜索热力图。根据亚马逊曾经公开的数据，70%用户在第一页达成成交，50%的用户选择前3-4位购买。当然这是总体数据。每个类目具体会有出入。
+
+- 其次，让我们使用SimilarWeb查看亚马逊每个月的流量，大概每个月有2.72B的搜索流量（美国站） [https://www.similarweb.com/](https://link.zhihu.com/?target=https%3A//www.similarweb.com/)
+
+- 最后我们对自己的商品判断要有1个思维，就是该产品是侧重关键词搜索流量还是侧重关联流量。比如牙签，属于搜索流量，一般第一页就成交。像女装就属于关联流量，买家会慢慢看慢慢挑。这关系到我们的运营方向，是往搜索流量推还是关联流量推。
+
+- **搜索第一页的曝光规则：**
+
+处于**BestSeller 1-3名**：  
+因为此类产品自身转化率较高，消费者认可度较高，可以长期**稳定出现在关键词首页前三名**，享受平台流量扶持，这一部分流量基本是第4名以后商品的**5倍以上**，所以订单自然比后面的商品高出好几倍。  
+  
+  
+处于**BestSeller4-20名**：  
+搜索第一页，只有**6个曝光位，**处于销量排名4-20的产品，大家**排队**轮流获得等量的曝光数量，所以订单量不稳定。  
+  
+  
+处于BestSeller**21-70名：**  
+搜索第一页只有**7个曝光位**，处于销量排名21-70的产品，大家排队轮流获得等量的曝光数量，所以订单及其不稳定。  
+  
+  
+处于BestSeller**71-400名**：  
+搜索第一页只有**3个曝光位**，处于销量排名71-400的产品，，大家排队轮流获得等量的曝光数量，由于分到的曝光量非常少，所以订单非常不稳定，容易出现某些天订单多，某些天订单少的情况。  
+  
+  
+不同浏览器，不同时间段去看，搜索结果不一样，因为现在商品太多了，需要采取这种机制。  
+由于种族歧视等因素，亚马逊没有千人千面，但是它会加入标签。后台已经可以看到人群标签画像了。现在由于Tik Tok影响，亚马逊也在慢慢尝试标签。
+
+- **搜索第2页的曝光规则：**
+
+处于BestSeller**4-20名**：  
+搜索第2页，只有**6个曝光位**，处于销量排名4-20的产品，大家排队轮流获得等量的曝光数量，所以订单量不稳定。  
+  
+  
+处于BestSeller**21-70名**：  
+搜索第2页只有**7个曝光位**，处于销量排名21-70的产品，大家排队轮流获得等量的曝光数量，所以订单及其不稳定。  
+  
+  
+处于BestSeller**71-400名**：  
+搜索第2页只有**3个曝光位**，处于销量排名71-400的产品，，大家排队轮流获得等量的曝光数量，由于分到的曝光量非常少，所以订单非常不稳定，容易出现某些天订单多，某些天订单少的情况。  
+  
+  
+处于BestSeller**400-2000**名：  
+搜索第2页只有**4个曝光位**，处于销量排名400-2000的产品，，大家排队轮流获得等量的曝光数量。  
+  
+  
+数量相对应第一页会多很多
+
+- **搜索第3页的曝光规则：**第三页产品数量更多，但展现量将变得很少
+
+**小结：**我们推广爆款，要紧盯BSR目标。新品上市冲到2000名，接着400，接着70，接着20。  
+  
+  
+3.4.4 市面上5种关键词上首页的方法
+
+![](https://pic1.zhimg.com/v2-46e04884e068a0148075da0348e0bf7c_1440w.jpg)
+
+1. **海量的关键词点击+加购（BA里面关键词Clickshare 100%）**
+
+底层逻辑是提高相关性。 Clickshare 100%的卖家打上黑科技标签，不是我们的参考对手，打造手法不一样。
+
+1. **通过点击加购来控制关键词位置，同时配合出单，效果更加稳定。**
+
+提高ECR
+
+1. **关键词送测，最稳定的一种方式**
+
+增加关键词好评，数量等等。不建议大家刷单
+
+1. **SD系统控制PPC的CTR和CR控制关键词上首页（可以刷PPC的Pending单）**
+
+自己有广告系统，可以完美的控制点击率和转化率。Pending订单不建议
+
+1. **手法之5：EDM邮箱采集器，采集邮箱，针对发测评邮件**
+
+早期服务商采集了很多客户数据，他们通过发邮箱去测评。这非常危险，违反当地法律政策，不允许做非许可式营销的。会被标注Spam，加入黑名单  
+3.4.5 市面上3种关联流量解密
+
+![](https://pica.zhimg.com/v2-dd6f181e2e1d3b187ae11e593d5974ec_1440w.jpg)
+
+3.4.6 关联流量有什么好处？
+
+- 被动关联：比竞争对手有优势的产品，平台互补产品转化率降低的情况下主动关联公司优势产品或者补充产品线增加新品流量增加整体账号转化率。
+
+测试数据**淡季5%，旺季出单8%，大促13%**
+
+- FBT: Frequently Bought Together
+
+通过广告推在别人的FBT板块，假设绑到Best Seller成功，会增**5%到13%订单**。甚至有的公司只做关联这块的流量。  
+  
+  
+3.4.7 三种关联流量方法解密：
+
+1. **一些卖家通过SD系统进行强制关联，可是需要资源（单系统卖家小号）小号。**
+
+这会容易出问题，第一成本高，第二会把BS刷没了。那么如何低成本操作呢？答案是跟卖。加入你有AB两个账号，拿A账号跟卖别人家产品，同时也跟卖自己的B账号产品，创建Promotion设置99% off，这时候下单成本超级低。接着用买家账号真实的去购买，由于是FBM发货，发货什么的也很好操作。  
+那么这里就提醒我们了，如果店铺出现跟卖，一定要赶走，因为你不知道它到底要干什么。
+
+1. **通过购买想要关联产品的出单邮箱，进行EDM邮件营销**
+
+1. **CPC广告有2套流量入口，特别是自动广告，那我们可以针对产品开多个自动广告组，加强产品的关联流量入口，产品初期的时候使用，另外手动广泛品牌定位广告。**
+
+这是白帽手法。我们知道自动广告4项匹配：相似，紧密，广泛，互补匹配。可以把Close Match关掉，专门让自动广告去跑Asin，加强商品的关联入口。或者可以直接打ASIN定位，品牌定位广告。  
+  
+  
+3.4.8 关于FBT(Frequently Bought Together)流量的：
+
+![](https://pic1.zhimg.com/v2-3ec637fd2defd3515a9b6e20085005ac_1440w.jpg)
+
+- 新品的时候就要刻意的去做FBT。
+- 作用维护自己的流量，提高自己产品的销量，流量坑位矩阵霸屏。
+- 假设我有A和B，在同一流量渠道同时推广！不一定是同时购买，比如我今天买了A款，明天买B款，购买的客户多了也会形成关联。
+- 或者选择同一渠道低折扣放量。一般新品的时候持续做一个星期，就会很稳定了，因为新品没有历史数据积累。
+
+3.5 Listing销量突然下降的原因解析：
+
+![](https://pic2.zhimg.com/v2-f0b03438e4b043c3aa1b401e1d024319_1440w.jpg)
+
+1. **账号本身受到处罚，并且是暗中被处罚**
+
+1. **热销品的生命周期已经到尾期，市场饱和**
+
+比如Iphone4的例子，现在已经到尾期。
+
+1. **Listing长期不优化**
+
+长期不优化也会导致
+
+1. **产品在短时间内断货，差评，退款，A to Z增多**
+
+这个最伤的，也是恶搞招数之一。我们一定要设置最大购买量。如果你还有20个库存，竞争对手一次性买空，然后退款差评，基本上这条listing就废了。而且竞争对手还可以通过最大购买量来测试你的库存量和销量。
+
+1. **竞争对手销量增加，占了靠前的排名**
+
+市场的份额是一定的，别人拿走多，你就少
+
+1. **竞争对手在短时间内多次参加秒杀**
+
+3.6 各类账号权重比拼布局未来
+
+![](https://pica.zhimg.com/v2-b50995c34707d90ae50247359296809e_1440w.jpg)
+
+1. 普通的SC账号权重是最差的，流量也有上限
+
+1. 美国的个人号，俗称个人专业卖家，简称SSN账号，流量不封顶，旺季自发货完全不影响单量。
+
+1. 美国企业资料好，俗称EIN号，可以卖杀虫剂，农药产品，大部分账号不能卖的都可以卖，比如去灰指甲或者马应龙
+
+1. Merch账号，传说中的设计者账号，可以卖自己的设计，前台显示sold by Amazon 之前一些反华的T Shirt就是这些账号弄的，其实没有库存。
+
+1. 品牌加速计划，所有营销免费
+
+建议有条件的同学一定要备一个美国公司账号，挺重要的。  
+3.7 关于Buddle Listing
+
+- Buddle Listing前台可搜索，我们一定要放关键词，放品牌词。
+- 客户搜索品牌词，所有listing都会出现。
+- 目前Buddle主图不是很严格，我们可以做一些小动作比如买一送一。
+- Buddle Listing 的Review是单独的，这个有点不好
+- Buddle还有一个霸屏效果，在Promotion和广告前面，PC端目前
+
+4 行动计划
+
+1. 背诵A9算法框架图
+2. 后台阅读文章了解Index
+
+[https://sellercentral.amazon.com/gp/help/GF2C2L6RCFZGWBXC](https://link.zhihu.com/?target=https%3A//sellercentral.amazon.com/gp/help/GF2C2L6RCFZGWBXC)
+
+1. 下载自己类目的BTG并学习
+2. 后台下载
+3. 把后台催评加入到日常运营工作中来，每日进行催评
+4. 旗舰店装修列入计划，计划一个月把旗舰店装修起来
+5. 了解Post玩法
+
+---
+
+最后补充一些关于评论，评分和vine  
+Understanding Customer Reviews and Ratings  
+ How We Keep Reviews Trustworthy and Useful 了解客户评论和评分  
+**客户评论和评分指南。**  
+  
+  
+我们如何保持评论的可信性和实用性:为了确保只有真实的客户发布评论，我们有提交要求。  
+  
+  
+亚马逊买家只有在过去12个月内在亚马逊上花费至少50美元的，才能提交评分和评论。  
+  
+  
+在发布评论之前，我们会检查其是否符合我们的社区准则。这包括我们的规定，即禁止因获得补偿而创建、编辑和删除评论。禁止诱导客户改评论  
+  
+  
+我们会检查评论者是否在亚马逊购买或使用（例如流媒体）了该商品，并支付了大多数亚马逊购物者可用的价格。如果我们确认了这两点，我们会使用VP“已验证购买”标签标注该评论。没有此标签的评论也可能是有帮助的。例如，客户从另一家公司购买了商品，但希望在亚马逊分享他们的意见。  
+  
+  
+我们的自动化和人工检查会在顾客看到之前阻止数百万条可疑评论。我们还对付费让客户发布虚假评论的团体采取法律行动。请参阅我们的反操纵政策。  
+  
+  
+我们倾听顾客的意见。如果您认为某个评论违反了我们的准则，或者有人提出给您报酬以创建、编辑或删除评论，请告诉我们。请参阅我们社区准则中的如何举报违规行为部分。  
+  
+  
+**我们如何计算总体星级评分？**  
+亚马逊使用机器学习模型而不是简单的平均值来计算产品的星级评分。  
+  
+  
+这些模型考虑诸如评分或评论撰写的最新程度和已验证购买状态，买家profile状态等因素。它们使用多个标准来确立反馈的真实性。系统会随着时间不断学习和改进。  
+  
+  
+在顾客以文本、图片或视频形式添加更多细节之前，我们不会考虑没有亚马逊已验证购买状态的顾客评级在产品的总体星级评分中。  
+  
+  
+**免费产品的Vine客户评论**  
+为了帮助您决定产品是否适合您，我们创建了亚马逊Vine计划。   
+[https://www.amazon.com/vine/about](https://link.zhihu.com/?target=https%3A//www.amazon.com/vine/about)  
+  
+  
+我们邀请在亚马逊社区中赢得信任的客户担任Vine Voices，撰写见解深刻的评论。Voices可以请求他们想要审查的产品，并免费试用它们。然后，他们可以在评论中分享他们诚实、公正的意见。卖家和品牌不被允许联系Voices，亚马逊也不会编辑他们的评论。  
+  
+  
+**卖家反馈feedback**  
+要留下卖家反馈，请参阅“留下第三方卖家反馈”帮助页面。  
+ [https://www.amazon.com/gp/help/customer/display.html?nodeId=G5346HRPNJFYRA49](https://link.zhihu.com/?target=https%3A//www.amazon.com/gp/help/customer/display.html%3FnodeId%3DG5346HRPNJFYRA49)  
+**顾客说的评论亮点**  
+“顾客说的评论亮点”是一种由人工智能驱动的功能，它指出了在书面评论中经常提到的顾客情绪。在详细页面上显示一个简短的段落和产品见解，以帮助您更容易确定产品是否适合您。
