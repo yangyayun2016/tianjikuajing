@@ -1,0 +1,85 @@
+{
+  "title": "Rufus随想",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/wMBQSw3WPTH3ZxXGbPKEbw",
+  "canonical_url": "https://mp.weixin.qq.com/s/wMBQSw3WPTH3ZxXGbPKEbw",
+  "published_at": "2026-01-15T00:00:17+08:00",
+  "excerpt": "listing优化方案，建议下载\n\n![Image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8f5mb4onsoIkyGK6d20WqMiatzqnZMW973cqyXEY3Lpxq9jH8On0Gb5Tg/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=0)\n\n![Image](https://mmbiz.qpic.cn/sz_m",
+  "language": "zh-CN",
+  "content_hash": "6bf14dcee489dab9ee1c66bd738d6cc5ed6288b08f8c6ec39c73beffdd93b91e",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fz1ndnAdoU6pBDMLFJNiaNKcETZXh3zTEBwkjzkB13zEwsL9WgdhWjxg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fNjjG5XLBx66Zd7RSqE7cJ78EEYnZlqOh3BLI3YQsaT1cF6su2qjedA/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8f5mb4onsoIkyGK6d20WqMiatzqnZMW973cqyXEY3Lpxq9jH8On0Gb5Tg/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=0",
+      "local_path": "images/img_001.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fIS0RwE6AqcDjPQx4hc350oNdunQ6IdmjR7r925GlPguHdIXEeUygxw/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=1",
+      "local_path": "images/img_002.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fpXQCygtxhgxPibrG6Kx1j2DptYmw9EkVJMIWMHTswIUEicnDlEYJhwZQ/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8f1QicVKglnqgCKueLFgQLHQwESTptl13p38vqoB9ZxWjiaf7Hf9tdFWTQ/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fbDcfzSLB2FxIvvg5rqiaZrEdhhhNlbZRhhpSECFPajyysPPS7JjEXug/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=4",
+      "local_path": "images/img_005.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fB5DEoar6BlVCVM0slk7ZXhqasjRfmZ8ct0TdCfN42ibbssPrWcFX6EQ/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=5",
+      "local_path": "images/img_006.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fP0sv4QUEiacYwCF8wZQ8E7jj03Diaau0OH4ictt54Q7GKTXouGRfay5pQ/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=6",
+      "local_path": "images/img_007.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fvtD22QeBdtQhflPygNibrNnLoGasf2OJDTrZEibVTW41hV7Ih47zYE4A/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=7",
+      "local_path": "images/img_008.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fliaIiay34xvs5VmALOO2csM5L1j76TEdqC7FgbqorKdbibARMVPd7icoGA/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=8",
+      "local_path": "images/img_009.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8fFSgYCiaEYRWkS1F7e4Yl1sVUSe9mWSGKQ0YvO5MgGHGKYctxx9VlNZg/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=9",
+      "local_path": "images/img_010.jpg",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEBwyax6s7zdE0esYiaL1BL8f61Jz3hLAiaUiaLjibQLUcdo7NOreCWOtg8mDHIAb7DKA9nmPcaCw4ibJ5g/640?wx_fmt=jpeg&from=appmsg&watermark=1#imgIndex=10",
+      "local_path": "images/img_011.jpg",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

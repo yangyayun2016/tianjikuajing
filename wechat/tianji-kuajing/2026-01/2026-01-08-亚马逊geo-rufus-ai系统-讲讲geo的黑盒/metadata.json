@@ -1,0 +1,50 @@
+{
+  "title": "亚马逊GEO-Rufus AI系统，讲讲GEO的黑盒",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/sB-BITHUVnhJewE-aUdJ_g",
+  "canonical_url": "https://mp.weixin.qq.com/s/sB-BITHUVnhJewE-aUdJ_g",
+  "published_at": "2026-01-08T23:50:40+08:00",
+  "excerpt": "一文讲透如何做 GEO 让你的品牌被 AI 推荐？Webflow的CEO Ethan Smith爆出了一个惊人的数据：来自AI搜索结果的转化率是传统搜索的6倍。",
+  "language": "zh-CN",
+  "content_hash": "2d276f30d8a2c14ca3d0e9a025976af16b6214e3c8642ae3ae08b9e98690d7be",
+  "cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEDGXs3MeGcf6icUdicpENOrGzia0Xc0ZpftFv24x6PE0R3JNSFIuY3bawlIx4pj7Xed7ibvLXib4hIUjMg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/YJS4vjiaDdEDGXs3MeGcf6icUdicpENOrGzNibzXbrwKesWtc8ELfmCS06TPJaw76kIx3mzGdJUM1ViayKiaiaiaeWf00Q/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEDGXs3MeGcf6icUdicpENOrGzWkpFb8hXQehCAvlBbEtdKNML1SXG4tCqoD3LWWN0Y9HjE42OQEL1icg/640?wx_fmt=png&from=appmsg#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEDGXs3MeGcf6icUdicpENOrGzSiclEgVNHPwoGwU6r9Hfvdgn6lKsicaMaGmpicNVnQEhpuwDwIBzbl4XQ/640?wx_fmt=png&from=appmsg#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEDGXs3MeGcf6icUdicpENOrGzshcV6zOuJhbibPfyuHR0ewtMEV6svYZEueibPOssEMMXV8UiaAUg434vg/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/YJS4vjiaDdEDGXs3MeGcf6icUdicpENOrGzrnmNBOWdTeQ7yzrmll9wXA4x1UAee1F33TyoiavMFg16RqP1N8UnxibA/640?wx_fmt=png&from=appmsg&watermark=1#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
