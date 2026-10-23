@@ -2,11 +2,11 @@
 
 haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库。不是 git submodule。各目录里的 `SOURCE.md` 记录上游地址、快照时间和 commit；有 `LICENSE` / `LICENSE.md` 的一并保留。
 
-`seller-university/` 已在 `master` 根目录，不在本目录。
-
-## 本 PR 已导入（batch 1–12 / 13）
+**导入已完成（batch 1–13 / 13）。** 本目录下保留 37 个学习仓库。`seller-university/` 留在仓库根目录，不在这里。`BSC-Amazon-OPC-Agent-OS/` 里的 `BSC-OPC-Agent.exe` 因体积过大未纳入。
 
 快照时间：2026-10-23 15:23 Asia/Shanghai。
+
+## 已导入的 37 个仓库
 
 | 目录 | 上游 | 内容 |
 |---|---|---|
@@ -39,5 +39,11 @@ haloSHIN 公开仓库的离线学习快照，按 `haloshin/<repo>/` 放进本库
 | [`markdown-to-image/`](markdown-to-image/) | [haloshin/markdown-to-image](https://github.com/haloshin/markdown-to-image) | 把 Markdown 渲染成社交图片与海报 |
 | [`nuwa-skill/`](nuwa-skill/) | [haloshin/nuwa-skill](https://github.com/haloshin/nuwa-skill) | 女娲 skill：把人物与经验蒸馏成可复用 Agent skill |
 | [`open-design/`](open-design/) | [haloshin/open-design](https://github.com/haloshin/open-design) | 本地优先的开源设计工作台（parts 1–10/10，已齐） |
-
-`BSC-OPC-Agent.exe` 因体积过大未纳入本次快照。后续 batch 13 会继续追加到本目录。
+| [`skills-hub/`](skills-hub/) | [haloshin/skills-hub](https://github.com/haloshin/skills-hub) | 本地 AI agent skills 管理工作台 |
+| [`skills-manage/`](skills-manage/) | [haloshin/skills-manage](https://github.com/haloshin/skills-manage) | 跨平台管理 coding agent skills 的桌面应用 |
+| [`taste-skill/`](taste-skill/) | [haloshin/taste-skill](https://github.com/haloshin/taste-skill) | 提升 AI 界面质感的前端 skill |
+| [`title-humanizer/`](title-humanizer/) | [haloshin/title-humanizer](https://github.com/haloshin/title-humanizer) | 按读者视角改写标题 |
+| [`watchless/`](watchless/) | [haloshin/watchless](https://github.com/haloshin/watchless) | 把视频转成带关键帧的可读文档 |
+| [`wechat-article-obsidian/`](wechat-article-obsidian/) | [haloshin/wechat-article-obsidian](https://github.com/haloshin/wechat-article-obsidian) | 公众号排版、配图与草稿的 Obsidian 插件 |
+| [`xiaohu-wechat-format/`](xiaohu-wechat-format/) | [haloshin/xiaohu-wechat-format](https://github.com/haloshin/xiaohu-wechat-format) | 公众号排版、封面与发布 skill |
+| [`zhangxuefeng-skill/`](zhangxuefeng-skill/) | [haloshin/zhangxuefeng-skill](https://github.com/haloshin/zhangxuefeng-skill) | 张雪峰视角的志愿与职业分析 skill |
