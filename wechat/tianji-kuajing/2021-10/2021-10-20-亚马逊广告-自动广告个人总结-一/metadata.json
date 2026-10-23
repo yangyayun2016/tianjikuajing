@@ -1,0 +1,35 @@
+{
+  "title": "亚马逊广告-自动广告个人总结（一）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/YnujwDTaVL3thLpDd7a2Nw",
+  "canonical_url": "https://mp.weixin.qq.com/s/YnujwDTaVL3thLpDd7a2Nw",
+  "published_at": "2021-10-20T22:43:50+08:00",
+  "excerpt": "亚马逊广告技巧个人总结一、自动广告作用1、可以增加曝光与收录；2、可以帮助检测listing的质量；3、可以",
+  "language": "zh-CN",
+  "content_hash": "2aa9a11eef026daf198fb7f0541a5aa4f5cd542ec78743abb193b6a98e3a1091",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVsPhvbKYKKpjRtjsOTMD9nP3nhX2eC6ghVpstaM0RJgeOgQNF9HKhTw/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVzzJTmLMamNeIqibqtto7icjBuVn5PzBJc2qUo9SzqHODgfLjwSVPbZ0A/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVV528C8tCicDvxtrs2w7QpCKNyickVZHBRf05TSruRcCs3ocW1SYttWQg/640?wx_fmt=png#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}

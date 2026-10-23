@@ -1,0 +1,50 @@
+{
+  "title": "亚马逊广告-自动广告个人总结（二）",
+  "author": "天机跨境",
+  "platform": "wechat",
+  "source_url": "https://mp.weixin.qq.com/s/AZmebb6eo4nI3c7TXgxBsQ",
+  "canonical_url": "https://mp.weixin.qq.com/s/AZmebb6eo4nI3c7TXgxBsQ",
+  "published_at": "2021-10-21T08:00:00+08:00",
+  "excerpt": "自动广告个人总结（二）四、自动广告的持续优化 （文章最后部分有详细总结，建议看完全文）1、点击率点击率的影响",
+  "language": "zh-CN",
+  "content_hash": "f6894f337f482d1f93c39bbc8c1f606a0dcab993bb575bc27e27b5662e925048",
+  "cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVhaiczmA6gC47icFJESFaReaRnicUcerUVFppB6xSbxicScBAdibJg4lDZsg/0?wx_fmt=jpeg",
+    "local_path": "images/cover.jpg",
+    "alt": "cover"
+  },
+  "share_cover_image": {
+    "source_url": "https://mmbiz.qlogo.cn/mmbiz_jpg/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVzzJTmLMamNeIqibqtto7icjBuVn5PzBJc2qUo9SzqHODgfLjwSVPbZ0A/0?wx_fmt=jpeg",
+    "local_path": "images/share_cover.jpg",
+    "alt": "share cover"
+  },
+  "images": [
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVks7ibyZC22cICXA4B8sLPpmqODsSvYdHVMtExfTVqdYNoYmxpplXBDg/640?wx_fmt=png#imgIndex=0",
+      "local_path": "images/img_001.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuV6jnz8ASl84G84ZLMKmm8EAyKo5dLIOkDWa7IOXXlfM0NsCpXPQ4dcg/640?wx_fmt=png#imgIndex=1",
+      "local_path": "images/img_002.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVOibCFDJgZHfOk6IZTztqGmeBuNMeoD3U0JCBTMic1N5WX62qcaflkGUg/640?wx_fmt=png#imgIndex=2",
+      "local_path": "images/img_003.png",
+      "alt": "Image"
+    },
+    {
+      "source_url": "https://mmbiz.qpic.cn/mmbiz_png/YJS4vjiaDdECGoI86zLhxUpnuOyEkicibuVJ225aEes4UxrwGw5rfcRN58ibQcOaPIB5DR7MtgrqHknNfgkJ6fRQ8A/640?wx_fmt=png#imgIndex=3",
+      "local_path": "images/img_004.png",
+      "alt": "Image"
+    }
+  ],
+  "videos": [],
+  "extraction": {
+    "status": "success",
+    "platform": "wechat",
+    "parser": "wechat",
+    "warnings": []
+  }
+}
