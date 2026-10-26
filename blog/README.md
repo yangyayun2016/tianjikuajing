@@ -1,7 +1,8 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (3)
+## 亚马逊AI (4)
 
+- 2026-10-26 [多店铺接亚马逊官方 SP-API，怎么安全部署与防关联？（组织架构篇）](amazon-ai/2026-10-26-multi-store-sp-api-anti-association.md)
 - 2026-10-15 [亲测：我最近一直有在测试几个最新的个人智能体，我来谈谈这几个personal agent，说说我的看法](amazon-ai/2026-10-15-personal-agent.md)
 - 2026-09-17 [亚马逊 sp-api 中国开发者大会 2026 会议资料-截图](amazon-ai/2026-09-17-sp-api-2026.md)
 - 2026-09-02 [如何给自己的Claude或者codex工具一个纯净的国外IP环境](amazon-ai/2026-09-02-claude-codex-ip.md)
