@@ -12,9 +12,9 @@ Contextual Landing Page 上下文语意相关着陆页，
 
 一个完整的思维导图架构：
 
-![image|690x334](https://tianjikuajing.com/uploads/default/original/1X/32b7c1ec9a7c24a05fff04939e19feec7768b2bb.png)
+![image|690x334](https://tianjikuajing.com/uploads/short-url/7eFzttVaRboNhLny8uZ8zfCpgoP.png)
 
-![image|690x320](https://tianjikuajing.com/uploads/default/original/1X/deed3b46bf5176bacfb80ae5743042aa88c8bd6a.jpeg)
+![image|690x320](https://tianjikuajing.com/uploads/short-url/vO6gpsve4gHmAZ2cYfcpWSIVLXI.jpeg)
 
 **1. 链接打开格式**
 
@@ -26,13 +26,13 @@ Contextual Landing Page 上下文语意相关着陆页，
 
 打开可以看到，它的产品信息 评论情况，它的类目信息属性，包括按照每一个分类节点给你推荐，竞品信息 ，现在亚马逊收录的它的竞品情况
 
-![image|690x339](https://tianjikuajing.com/uploads/default/original/1X/c002ec46c392eb32907c0e182e3e645b2b2d0f7a.jpeg)
+![image|690x339](https://tianjikuajing.com/uploads/short-url/roBW4MuIPQyjqRDFoA67sBPPUJY.jpeg)
 
-![image|690x294](https://tianjikuajing.com/uploads/default/original/1X/debded4fc02e96de32078a740d3a09a328871f2f.jpeg)
+![image|690x294](https://tianjikuajing.com/uploads/short-url/vMsUJRqB6OKXqAJdGYnICVRYVHh.jpeg)
 
-![image|690x299](https://tianjikuajing.com/uploads/default/original/1X/5e4e5304c0197ff0d4f03536c0b728ff2ac8b75f.jpeg)
+![image|690x299](https://tianjikuajing.com/uploads/short-url/dsgGR8nP5DVg3OSuSENI9CGYtrx.jpeg)
 
-![image|690x421](https://tianjikuajing.com/uploads/default/original/1X/ce69b4ddb1b3d53f111e2e8bc3ea6371eb28dabb.jpeg)
+![image|690x421](https://tianjikuajing.com/uploads/short-url/ts0PI84HvbMMzvilaVnXlRgUF75.jpeg)
 
 **2. 落地页的趋势（AI购物推荐）**
 
@@ -127,3 +127,5 @@ CLP 与 DAF 的推进，对卖家运营提出了一个隐性但关键的要求�
 Contextual Landing Page 之所以值得认真对待，不在于它是一个可以立即“优化”的战术动作，而在于它标志着亚马逊商品分发逻辑的一次结构性调整：**详情页不再唯一，展示的粒度与位置由情境决定，而系统对商品信息的读取方式，正在从“呈现”转向“提取与重组”**。
 
 对于卖家而言，最务实的应对不是等待 CLP 的查询链接或流量数据，而是回到 Listing 本身，审视一个基础问题：当你的商品信息被拆解、压缩、嵌入到一个陌生的购物场景中时，它是否依然清晰、一致、足以促成决策。
+
+目前只有美国站， 欧洲和其他站点还没有，第125集|亚马逊新CLP页面!A挖掘真实购买理由亚马逊CLP页面能查看产品用户评价、买家购买动机，还能横向对比竞品，精准优化Listing卖点，适配亚马逊AI购物趋势。#亚马逊运营#跨境电商干货#亚马逊AI#亚马逊选品#跨境亚马逊
