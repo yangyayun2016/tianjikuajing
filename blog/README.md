@@ -52,8 +52,9 @@
 
 - 2026-08-18 [自我介绍+开办论坛的初衷，重启论坛和博客](feedback/2026-08-18-8.md)
 
-## 常规 (7)
+## 常规 (8)
 
+- 2026-10-27 [亚马逊特征词分析系统：构筑思路讲解](general/2026-10-27-amazon-feature-word-analysis-system.md)
 - 2026-09-18 [亚马逊特征词分析（广告词根及属性数据分析 ）](general/2026-09-18-105.md)
 - 2026-09-01 [创建新场景Scenario Modeling：亚马逊正在把运营决策变成“可计算的实验”](general/2026-09-01-scenario-modeling.md)
 - 2026-08-31 [Amazon ASIN 竞品推广节奏分析 SKILL](general/2026-08-31-amazon-asin-skill.md)
