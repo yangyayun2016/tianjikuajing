@@ -7,7 +7,8 @@
    - **结构化轮次索引**：`docs/11-chatgpt-share-archive.md`（指向 docs 01–10 / skills）
 
 2. **SIF 价值打法 PDF（刘松 / COSMO+Rufus）**  
-   提取文本：`sources/sif-value-play-pdf.txt`  
+   原件：`sources/sif-value-play-cosmo-rufus-liusong.pdf`（25 页演示文稿导出，约 3.3MB）  
+   提取文本：`sources/sif-value-play-pdf.txt`（幻灯片以图为主，可抽取文本较少）  
    核心信条：投放核心不是关键词，而是具体的消费者需求；六步路径；始于关键词但不止于关键词。
 
 3. **Canonical Page（Canvas）**  
