@@ -1,8 +1,9 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (4)
+## 亚马逊AI (5)
 
 - 2026-10-26 [多店铺接亚马逊官方 SP-API，怎么安全部署与防关联？（组织架构篇）](amazon-ai/2026-10-26-multi-store-sp-api-anti-association.md)
+- 2026-10-26 [介绍亚马逊新功能workflows，工作流的搭建 myworkflows agents](amazon-ai/2026-10-26-workflows-myworkflows-agents.md)
 - 2026-10-15 [亲测：我最近一直有在测试几个最新的个人智能体，我来谈谈这几个personal agent，说说我的看法](amazon-ai/2026-10-15-personal-agent.md)
 - 2026-09-17 [亚马逊 sp-api 中国开发者大会 2026 会议资料-截图](amazon-ai/2026-09-17-sp-api-2026.md)
 - 2026-09-02 [如何给自己的Claude或者codex工具一个纯净的国外IP环境](amazon-ai/2026-09-02-claude-codex-ip.md)
@@ -60,8 +61,12 @@
 - 2026-08-18 [欢迎来到 天机跨境论坛！:wave:](general/2026-08-18-5.md)
 - 2026-08-18 [关于你，有哪些有趣的小事？谢谢大家的支持！谢谢](general/2026-08-18-7.md)
 
-## 亚马逊VC (16)
+## 亚马逊VC (20)
 
+- 2026-10-26 [别再用sc思维玩vc！2026亚马逊vc卖家 策略2](amazon-vc/2026-10-26-sc-vc-2026-vc-2.md)
+- 2026-10-26 [亚马逊vc运营技巧 销量预测分析，截图WOC](amazon-vc/2026-10-26-vc-woc.md)
+- 2026-10-26 [亚马逊vc账号没有卖家记号如何注册vc账号的vat](amazon-vc/2026-10-26-vc-vc-vat.md)
+- 2026-10-26 [亚马逊 GFA审计回复邮件模板-中英以及亚马逊应收款和 亚马逊GFA审计-应收账款明细账申请解读.d](amazon-vc/2026-10-26-gfa-gfa-d.md)
 - 2026-10-21 [亚马逊VC条款可选性分析（“Agreements” ）](amazon-vc/2026-10-21-vc-agreements.md)
 - 2026-10-18 [亚马逊新功能Amazon Curated里面147指标 Add or change metrics and dimensions](amazon-vc/2026-10-18-amazon-curated-147-add-or-change-metrics-and-dimensions.md)
 - 2026-10-18 [亚马逊VC新功能，Amazon Curated，详细讲解](amazon-vc/2026-10-18-vc-amazon-curated.md)
@@ -97,4 +102,3 @@
 - 2026-08-23 [亚马逊广告打法 广告捡漏打法②](amazon-ads/2026-08-23-47.md)
 - 2026-08-23 [亚马逊广告打法 广告捡漏打法①](amazon-ads/2026-08-23-45.md)
 - 2026-08-23 [不同类型的产品对应不同的广告打法](amazon-ads/2026-08-23-51.md)
-
