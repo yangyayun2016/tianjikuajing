@@ -2,7 +2,9 @@
 
 1. **ChatGPT share（完整对话）**  
    https://chatgpt.com/share/6ae0608d-97f0-83ea-99c6-b2f8bef41897  
-   覆盖：体系 V2 → 空净 ABA → hair clips → SIF 六步路径 → Skill 请求 → 广告策略推广计划 → 英国/德国布艺清洗机。全文结构化归档见 `docs/11-chatgpt-share-archive.md`。
+   覆盖：体系 V2 → 空净 ABA → hair clips → SIF 六步路径 → Skill 请求 → 广告策略推广计划 → 英国/德国布艺清洗机。  
+   - **逐字全文镜像**：`sources/chatgpt-share-6ae0608d-full.md`（分享页 loader 还原，9 轮用户 + 助手正文）  
+   - **结构化轮次索引**：`docs/11-chatgpt-share-archive.md`（指向 docs 01–10 / skills）
 
 2. **SIF 价值打法 PDF（刘松 / COSMO+Rufus）**  
    提取文本：`sources/sif-value-play-pdf.txt`  
