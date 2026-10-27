@@ -40,6 +40,7 @@
 | [`wall/`](wall/README.md) | **战报墙**：一线真实结果的短记录 |
 | [`feishu/`](feishu/README.md) | **飞书知识库**：阳亚运的知识库导出（文档、表格与附件） |
 | [`obsidian/`](obsidian/README.md) | **Obsidian 系列**：LinSee、Obsidian Vault、亚运的远程仓库三个库 |
+| [`amazon-keyword-to-tag/`](amazon-keyword-to-tag/README.md) | **关键词打标**：ABA 通用版①、SIF 价值打法②、ChatGPT 归档与案例 |
 
 ## Obsidian 系列
 

@@ -1,8 +1,9 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (6)
+## 亚马逊AI (7)
 
 - 2026-10-27 [领星 AI品类基准洞察：ASIN vs 品类基准全解读](amazon-ai/2026-10-27-lingxing-ai-category-benchmark-insight.md)
+- 2026-10-26 [亚马逊卖家工作流 AI 上线：5 个模板、两种模式，以及怎么用它赚钱而不是瞎忙](amazon-ai/2026-10-26-amazon-seller-assistant-workflows.md)
 - 2026-10-26 [多店铺接亚马逊官方 SP-API，怎么安全部署与防关联？（组织架构篇）](amazon-ai/2026-10-26-multi-store-sp-api-anti-association.md)
 - 2026-10-26 [介绍亚马逊新功能workflows，工作流的搭建 myworkflows agents](amazon-ai/2026-10-26-workflows-myworkflows-agents.md)
 - 2026-10-15 [亲测：我最近一直有在测试几个最新的个人智能体，我来谈谈这几个personal agent，说说我的看法](amazon-ai/2026-10-15-personal-agent.md)
@@ -52,8 +53,9 @@
 
 - 2026-08-18 [自我介绍+开办论坛的初衷，重启论坛和博客](feedback/2026-08-18-8.md)
 
-## 常规 (7)
+## 常规 (8)
 
+- 2026-10-27 [亚马逊特征词分析系统：构筑思路讲解](general/2026-10-27-amazon-feature-word-analysis-system.md)
 - 2026-09-18 [亚马逊特征词分析（广告词根及属性数据分析 ）](general/2026-09-18-105.md)
 - 2026-09-01 [创建新场景Scenario Modeling：亚马逊正在把运营决策变成“可计算的实验”](general/2026-09-01-scenario-modeling.md)
 - 2026-08-31 [Amazon ASIN 竞品推广节奏分析 SKILL](general/2026-08-31-amazon-asin-skill.md)
