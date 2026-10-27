@@ -2,6 +2,7 @@
 
 ## 亚马逊AI (5)
 
+- 2026-10-26 [亚马逊卖家工作流 AI 上线：5 个模板、两种模式，以及怎么用它赚钱而不是瞎忙](amazon-ai/2026-10-26-amazon-seller-assistant-workflows.md)
 - 2026-10-26 [多店铺接亚马逊官方 SP-API，怎么安全部署与防关联？（组织架构篇）](amazon-ai/2026-10-26-multi-store-sp-api-anti-association.md)
 - 2026-10-26 [介绍亚马逊新功能workflows，工作流的搭建 myworkflows agents](amazon-ai/2026-10-26-workflows-myworkflows-agents.md)
 - 2026-10-15 [亲测：我最近一直有在测试几个最新的个人智能体，我来谈谈这几个personal agent，说说我的看法](amazon-ai/2026-10-15-personal-agent.md)
