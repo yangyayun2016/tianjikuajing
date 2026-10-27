@@ -1,7 +1,8 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (4)
+## 亚马逊AI (5)
 
+- 2026-10-26 [亚马逊卖家工作流 AI 上线：5 个模板、两种模式，以及怎么用它赚钱而不是瞎忙](amazon-ai/2026-10-26-amazon-seller-assistant-workflows.md)
 - 2026-10-26 [多店铺接亚马逊官方 SP-API，怎么安全部署与防关联？（组织架构篇）](amazon-ai/2026-10-26-multi-store-sp-api-anti-association.md)
 - 2026-10-15 [亲测：我最近一直有在测试几个最新的个人智能体，我来谈谈这几个personal agent，说说我的看法](amazon-ai/2026-10-15-personal-agent.md)
 - 2026-09-17 [亚马逊 sp-api 中国开发者大会 2026 会议资料-截图](amazon-ai/2026-09-17-sp-api-2026.md)
