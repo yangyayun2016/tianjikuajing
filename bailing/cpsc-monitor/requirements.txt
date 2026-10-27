@@ -1,0 +1,36 @@
+# CPSC 监控 Skill 依赖
+# Python 3.9+
+
+# 配置和 YAML
+pyyaml>=6.0
+
+# HTTP 请求（抓取 CPSC 公告）
+requests>=2.31.0
+feedparser>=6.0.10
+
+# HTML 解析（公告详情页）
+beautifulsoup4>=4.12.0
+
+# Playwright 真实浏览器（绕过 CPSC 反爬）
+playwright>=1.40.0
+playwright-stealth>=2.0.0
+# 注意：安装后还需要 playwright install chromium 下载浏览器（~100MB）
+
+# 邮件发送
+emails>=0.6.0
+jinja2>=3.1.0
+
+# 短信告警（Twilio）
+twilio>=8.10.0
+
+# AI 调用（anthropic / openai / google 都行，按你 config 选）
+anthropic>=0.25.0
+openai>=1.30.0
+google-generativeai>=0.5.0
+
+# 日志和工具
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# 定时任务（不在 Python 端，用 cron 即可，这个留着备用）
+# APScheduler>=3.10.0
