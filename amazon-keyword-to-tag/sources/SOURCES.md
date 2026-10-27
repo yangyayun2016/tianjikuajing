@@ -21,6 +21,7 @@
 
 5. **样例 Excel**  
    `samples/hair-clips-aba-tagged-sample.xlsx` — 美国站发夹 ABA 已打标（561 词）
+   - `samples/air-purifier-us-aba-tagged.xlsx` — 美国站空气净化器 ABA 关键词打标结果
 
 6. **ChatGPT 先例数据点**  
    - 美国空净 ABA：622 词（规则 V1）与 SIF 版（S44/A82 等）  

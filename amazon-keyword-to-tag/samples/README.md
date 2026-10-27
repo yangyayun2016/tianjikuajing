@@ -39,3 +39,5 @@
 - bulk / pack / set 套装
 
 空净与英/德布艺先例见 `docs/08`、`docs/10`，不在本 xlsx 内。
+
+- `air-purifier-us-aba-tagged.xlsx` — 亚马逊美国站空气净化器 ABA 关键词打标结果（ChatGPT 先例）
