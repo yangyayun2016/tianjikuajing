@@ -31,3 +31,11 @@
 7. **外部参考**  
    - Maslow：https://www.simplypsychology.org/maslow.html  
    - Amazon Ads 匹配类型：https://advertising.amazon.com/library/guides/targeting-with-sponsored-products
+
+8. **用户补档（2026-10-27）** — `sources/uploads/`
+   - `amazon-keyword-tagging-sif-value-play.SKILL.md`：ChatGPT 导出的 SIF 价值打法 Skill 原文（已同步到 `skills/sif-value-play/SKILL.md`）
+   - `sif-value-play-path-v2.md`：价值打法版核心路径/逻辑算法源稿（另见 `docs/13-…`）
+   - `amazon-keyword-to-tag-intelligence-base.md`：原子级打标系统「基础款」全文（另见 `docs/12-…`）
+   - `feibiaopin-tuipin-dafa.pdf` + `.txt`：亚马逊非标品推品打法（绝对/相对/一般精准词分层）
+   - `cdqv3-it-ops-cosmo-listing-quality.docx`：CDQv3 / IT 思维做运营 / COSMO·Rufus Listing 质量相关合集
+
