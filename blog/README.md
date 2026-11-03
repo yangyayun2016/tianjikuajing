@@ -1,13 +1,16 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (9)
+## 亚马逊AI (12)
 
+- 2026-11-02 [别再把 Grok Bot 当聊天框：一个亚马逊运营团队这两个月的学习笔记 + 11 月最新情报](amazon-ai/2026-11-02-grok-bot-11.md)
+- 2026-11-02 [亚马逊AI Alexa 、Rufus AI问答洞察报告,借鉴学习](amazon-ai/2026-11-02-ai-alexa-rufus-ai.md)
+- 2026-11-02 [Rufus AI问答洞察报告：GEIZO香薰蜡烛灯（图片文字提取与学习归纳｜2026-11-02）](amazon-ai/2026-11-02-rufus-ai-geizo-2026-11-02.md)
 - 2026-10-28 [领鹿SI BOT Agent组织与群体智能协作系统 总体方案](amazon-ai/2026-10-28-si-bot-agent.md)
 - 2026-10-28 [我的亚马逊运营Bot---天机跨境 · Grok Bot 运营团队架构（基础版）](amazon-ai/2026-10-28-bot-grok-bot.md)
 - 2026-10-27 [领星 AI品类基准洞察：ASIN vs 品类基准全解读](amazon-ai/2026-10-27-lingxing-ai-category-benchmark-insight.md)
-- 2026-10-26 [亚马逊卖家工作流 AI 上线：5 个模板、两种模式，以及怎么用它赚钱而不是瞎忙](amazon-ai/2026-10-26-amazon-seller-assistant-workflows.md)
 - 2026-10-26 [多店铺接亚马逊官方 SP-API，怎么安全部署与防关联？（组织架构篇）](amazon-ai/2026-10-26-multi-store-sp-api-anti-association.md)
 - 2026-10-26 [介绍亚马逊新功能workflows，工作流的搭建 myworkflows agents](amazon-ai/2026-10-26-workflows-myworkflows-agents.md)
+- 2026-10-26 [亚马逊卖家工作流 AI 上线：5 个模板、两种模式，以及怎么用它赚钱而不是瞎忙](amazon-ai/2026-10-26-amazon-seller-assistant-workflows.md)
 - 2026-10-15 [亲测：我最近一直有在测试几个最新的个人智能体，我来谈谈这几个personal agent，说说我的看法](amazon-ai/2026-10-15-personal-agent.md)
 - 2026-09-17 [亚马逊 sp-api 中国开发者大会 2026 会议资料-截图](amazon-ai/2026-09-17-sp-api-2026.md)
 - 2026-09-02 [如何给自己的Claude或者codex工具一个纯净的国外IP环境](amazon-ai/2026-09-02-claude-codex-ip.md)
@@ -43,8 +46,9 @@
 - 2026-08-20 [Hello!第二次发帖！亚马逊账号关联（案例分析+详细介绍）+ 店铺体检报告](amazon-sc/2026-08-20-hello.md)
 - 2026-08-20 [Hello!第三次发帖！亚马逊关键词广告市场曝光量的计算方法](amazon-sc/2026-08-20-hello-32.md)
 
-## 亚马逊选品 (5)
+## 亚马逊选品 (6)
 
+- 2026-11-02 [Voc结构化分析 研究和学习（第一版） 进行详细分析拆解， 每一个细节内容， 需要学习](amazon-selection/2026-11-02-voc.md)
 - 2026-09-18 [知道亚马逊类目的平均转化率，我们可以用来做什么？这个数值有什么实际价值 意义，](amazon-selection/2026-09-18-106.md)
 - 2026-09-18 [“细分市场转化率区间模型” 如何判断一个细分市场转化率](amazon-selection/2026-09-18-107.md)
 - 2026-09-18 [Overview: Mobile Gaming #8f8e14b1](amazon-selection/2026-09-18-overview-mobile-gaming-8f8e14b1.md)
@@ -66,8 +70,10 @@
 - 2026-08-18 [欢迎来到 天机跨境论坛！:wave:](general/2026-08-18-5.md)
 - 2026-08-18 [关于你，有哪些有趣的小事？谢谢大家的支持！谢谢](general/2026-08-18-7.md)
 
-## 亚马逊VC (20)
+## 亚马逊VC (22)
 
+- 2026-11-02 [亚马逊运营日记之一个相对正常的爆款链接拆解](amazon-vc/2026-11-02-130.md)
+- 2026-11-02 [亚马逊vc 目标拆解，思路分享](amazon-vc/2026-11-02-126.md)
 - 2026-10-26 [别再用sc思维玩vc！2026亚马逊vc卖家 策略2](amazon-vc/2026-10-26-sc-vc-2026-vc-2.md)
 - 2026-10-26 [亚马逊vc运营技巧 销量预测分析，截图WOC](amazon-vc/2026-10-26-vc-woc.md)
 - 2026-10-26 [亚马逊vc账号没有卖家记号如何注册vc账号的vat](amazon-vc/2026-10-26-vc-vc-vat.md)
