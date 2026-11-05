@@ -8,5 +8,8 @@ AI 在跨境运营里最适合做三件事：**取数、计算、整理**。决�
 | [02 MCP 数据接入](02-MCP数据接入.md) | 如何把第三方数据工具接到 AI，以及安全注意事项 |
 | [03 Skill 编写规范 TRACE](03-Skill编写规范TRACE.md) | 一个 Skill 该有什么、怎么保证不乱编数据 |
 | [04 提示词与质检](04-提示词与质检.md) | 常用提示词与输出质检清单 |
+| [05 @poteto 持续学习心得](poteto/持续学习心得-2026-11-05.md) | Lauren Tan / Grok Bot 可迁移实践（30x、statechart、自检） |
+
+索引与后续笔记见 [poteto/README.md](poteto/README.md)。
 
 **完成标准：** 能把一个重复 3 次以上的分析流程，写成带 TRACE 规范的 Skill，并在真实数据上跑通一次。
