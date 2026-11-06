@@ -1,7 +1,8 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (16)
+## 亚马逊AI (17)
 
+- 2026-11-06 [向 @poteto 学验证分层：形式化再好，也证不了「没 bug」](amazon-ai/2026-11-06-poteto-formal-methods-verification.md)
 - 2026-11-05 [X.com第一个官方grok bot的亚马逊竞品分析skill 关键词流量和广告架构Amazon competitor traffic ads analysis](amazon-ai/2026-11-05-x-com-grok-bot-skill-amazon-competitor-traffic-ads-analysis.md)
 - 2026-11-05 [向 @poteto 学怎么带 Agent：30x 发码之前，先把跑道修好](amazon-ai/2026-11-05-poteto-agent-30x.md)
 - 2026-11-05 [Grok+bot+workflow怎么实现? 思路](amazon-ai/2026-11-05-grok-bot-workflow.md)
