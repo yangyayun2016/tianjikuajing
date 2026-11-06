@@ -1,6 +1,6 @@
 {
  "space_id": "7592104357470981323",
- "generated": "2026-11-03T10:38:53+08:00",
+ "generated": "2026-11-06T10:12:51+08:00",
  "nodes": [
   {
    "node_token": "YrlvwdFYDiSEalkRU7Vc3BkfnBt",
@@ -2963,6 +2963,16 @@
    "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
   },
   {
+   "node_token": "JeuPwyl9Gik5FIkK3HpcH1dRn9c",
+   "obj_token": "E6UadTvveornbOxrorscHl7Wnzf",
+   "type": "docx",
+   "title": "@poteto 持续学习心得（2026-11-05）",
+   "path": "VI 亚马逊AI/@poteto 持续学习心得（2026-11-05）.md",
+   "obj_edit_time": "1793875026",
+   "depth": 1,
+   "parent": "LfHow87W7iJDaekBEmkcoqpanBc"
+  },
+  {
    "node_token": "Mi84wQ9xviUlO8kd9ricEWKQnWX",
    "obj_token": "LlNEdwQe3ouwOSx7aeScY5oxnSf",
    "type": "docx",
@@ -3286,9 +3296,9 @@
    "node_token": "M9WewAQrlioUtvkjTTVc3d9ZnZc",
    "obj_token": "QyeOdkQ1ooy4CBxxT5Ec79Zqnlh",
    "type": "docx",
-   "title": "VOC学习：如何借鉴到Amazon Rufus深度洞察--Rufus AI问答洞察报告 dino",
-   "path": "VOC学习/VOC学习：如何借鉴到Amazon Rufus深度洞察--Rufus AI问答洞察报告 dino.md",
-   "obj_edit_time": "1793632258",
+   "title": "VOC学习：如何借鉴到Amazon AI 360深度洞察--Alexa Rufus AI问答洞察报告 dino",
+   "path": "VOC学习/VOC学习：如何借鉴到Amazon AI 360深度洞察--Alexa Rufus AI问答洞察报告 dino.md",
+   "obj_edit_time": "1793681024",
    "depth": 1,
    "parent": "FpapwzdLtitzqMkTDDMc1CNcnzb"
   },
