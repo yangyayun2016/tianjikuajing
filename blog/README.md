@@ -103,8 +103,9 @@
 - 2026-08-19 [FAQ:请教一下各位大佬，知不知道欧洲vc的cm值是怎么计算的？有没有公式可以参考的呢？](amazon-vc/2026-08-19-faq-vc-cm.md)
 - 2026-08-19 [FAQ:我想问一下vc做了btr没在约定时间卖完，罚款了，asin是被冻结的状态滞销了一年了，现在已经陆续退回给我们了，这种情况，vc会把之前付款的cost给倒扣回去吗](amazon-vc/2026-08-19-faq-vc-btr-asin-vc-cost.md)
 
-## 亚马逊广告 (18)
+## 亚马逊广告 (19)
 
+- 2026-11-06 [广告策略与框架的底层逻辑 初稿](amazon-ads/2026-11-06-141.md)
 - 2026-11-05 [亚马逊广告新功能， 全流域广告 Full-Funnel Campaigns ，全解析②](amazon-ads/2026-11-05-full-funnel-campaigns.md)
 - 2026-11-05 [亚马逊AI广告平台总结｜全流域广告 Full-Funnel Campaigns 全解析③](amazon-ads/2026-11-05-ai-full-funnel-campaigns.md)
 - 2026-10-23 [亚马逊广告新功能， 全流域广告 Full-Funnel Campaigns ，全解析①](amazon-ads/2026-10-23-full-funnel-campaigns.md)
