@@ -53,8 +53,9 @@
 - 2026-08-20 [Hello!第三次发帖！亚马逊关键词广告市场曝光量的计算方法](amazon-sc/2026-08-20-hello-32.md)
 - 2026-08-20 [第一章 亚马逊a9算法全解析-·- 亚马逊高阶训练营笔记分享](amazon-sc/2026-08-20-a9.md)
 
-## 亚马逊选品 (6)
+## 亚马逊选品 (7)
 
+- 2026-11-13 [Ai选品 手搓亚马逊顶级产品开发工具（亲测非常好用）](amazon-selection/2026-11-13-ai.md)
 - 2026-11-02 [Voc结构化分析 研究和学习（第一版） 进行详细分析拆解， 每一个细节内容， 需要学习](amazon-selection/2026-11-02-voc.md)
 - 2026-09-18 [Overview: Mobile Gaming #8f8e14b1](amazon-selection/2026-09-18-overview-mobile-gaming-8f8e14b1.md)
 - 2026-09-18 [“细分市场转化率区间模型” 如何判断一个细分市场转化率](amazon-selection/2026-09-18-107.md)
@@ -103,8 +104,9 @@
 - 2026-08-19 [FAQ:请教一下各位大佬，知不知道欧洲vc的cm值是怎么计算的？有没有公式可以参考的呢？](amazon-vc/2026-08-19-faq-vc-cm.md)
 - 2026-08-19 [FAQ:我想问一下vc做了btr没在约定时间卖完，罚款了，asin是被冻结的状态滞销了一年了，现在已经陆续退回给我们了，这种情况，vc会把之前付款的cost给倒扣回去吗](amazon-vc/2026-08-19-faq-vc-btr-asin-vc-cost.md)
 
-## 亚马逊广告 (19)
+## 亚马逊广告 (20)
 
+- 2026-11-10 [2026年亚马逊广告最新变化 分析](amazon-ads/2026-11-10-143.md)
 - 2026-11-06 [广告策略与框架的底层逻辑 初稿](amazon-ads/2026-11-06-141.md)
 - 2026-11-05 [亚马逊广告新功能， 全流域广告 Full-Funnel Campaigns ，全解析②](amazon-ads/2026-11-05-full-funnel-campaigns.md)
 - 2026-11-05 [亚马逊AI广告平台总结｜全流域广告 Full-Funnel Campaigns 全解析③](amazon-ads/2026-11-05-ai-full-funnel-campaigns.md)
