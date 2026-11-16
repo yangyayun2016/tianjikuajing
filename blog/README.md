@@ -22,7 +22,7 @@
 
 ## 亚马逊SC (30)
 
-- 2026-11-05 [心得--和James聊天感想 需要完整落地的框架，多进行思维碰撞，](amazon-sc/2026-11-05-james.md)
+- 2026-11-05 [心得--和James聊天感想 需要完整落地的框架，多进行思维碰撞，广告策略与框架的底层逻辑](amazon-sc/2026-11-05-james.md)
 - 2026-11-05 [测试grok+bot+workflow怎么实现grok+bot+workflow怎么实现](amazon-sc/2026-11-05-grok-bot-workflow-grok-bot-workflow.md)
 - 2026-10-19 [亚马逊最新着陆页：Contextual Landing Page（上下文语意相关着陆页）](amazon-sc/2026-10-19-contextual-landing-page.md)
 - 2026-10-16 [如果遇到nwd(无批发分销)怎么办？受到了亚马逊的 nwd 限制如何处理，完整策略](amazon-sc/2026-10-16-nwd-nwd.md)
