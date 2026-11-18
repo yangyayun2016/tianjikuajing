@@ -3,7 +3,7 @@ title: "天机跨境沙龙Dify培训资料"
 feishu_url: https://my.feishu.cn/wiki/X33Lwet0qiqTyikmJqzcwFWLnLd
 obj_type: docx
 obj_token: I7zddU7QHonY96xHbgpc00RUnpb
-updated: 2026-09-29T18:33:46+08:00
+updated: 2026-11-18T16:28:40+08:00
 ---
 
 # 天机跨境沙龙Dify培训资料
