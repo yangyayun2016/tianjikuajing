@@ -1,7 +1,8 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (17)
+## 亚马逊AI (18)
 
+- 2026-11-19 [读《用 Airflow 编排 AI 流水线》：AI 原型怎样变成可编排的流水线](amazon-ai/2026-11-19-orchestrating-ai-pipelines-with-airflow.md)
 - 2026-11-06 [向 @poteto 学验证分层：形式化再好，也证不了「没 bug」](amazon-ai/2026-11-06-poteto-formal-methods-verification.md)
 - 2026-11-05 [X.com第一个官方grok bot的亚马逊竞品分析skill 关键词流量和广告架构Amazon competitor traffic ads analysis](amazon-ai/2026-11-05-x-com-grok-bot-skill-amazon-competitor-traffic-ads-analysis.md)
 - 2026-11-05 [向 @poteto 学怎么带 Agent：30x 发码之前，先把跑道修好](amazon-ai/2026-11-05-poteto-agent-30x.md)
@@ -53,8 +54,9 @@
 - 2026-08-20 [Hello!第三次发帖！亚马逊关键词广告市场曝光量的计算方法](amazon-sc/2026-08-20-hello-32.md)
 - 2026-08-20 [第一章 亚马逊a9算法全解析-·- 亚马逊高阶训练营笔记分享](amazon-sc/2026-08-20-a9.md)
 
-## 亚马逊选品 (7)
+## 亚马逊选品 (8)
 
+- 2026-11-19 [竞品报告写完不等于讲得清：用飞书方向模板审查 HTML 报告，还要补哪四块](amazon-selection/2026-11-19-competitor-report-template-optimization.md)
 - 2026-11-13 [Ai选品 手搓亚马逊顶级产品开发工具（亲测非常好用）](amazon-selection/2026-11-13-ai.md)
 - 2026-11-02 [Voc结构化分析 研究和学习（第一版） 进行详细分析拆解， 每一个细节内容， 需要学习](amazon-selection/2026-11-02-voc.md)
 - 2026-09-18 [Overview: Mobile Gaming #8f8e14b1](amazon-selection/2026-09-18-overview-mobile-gaming-8f8e14b1.md)
