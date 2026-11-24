@@ -1,7 +1,8 @@
 # 天机跨境博客文章索引
 
-## 亚马逊AI (18)
+## 亚马逊AI (19)
 
+- 2026-11-23 [LangGraph 快速入门实战指南：从图工作流到多 Agent 协作](amazon-ai/2026-11-23-langgraph-quick-start.md)
 - 2026-11-19 [读《用 Airflow 编排 AI 流水线》：AI 原型怎样变成可编排的流水线](amazon-ai/2026-11-19-orchestrating-ai-pipelines-with-airflow.md)
 - 2026-11-06 [向 @poteto 学验证分层：形式化再好，也证不了「没 bug」](amazon-ai/2026-11-06-poteto-formal-methods-verification.md)
 - 2026-11-05 [X.com第一个官方grok bot的亚马逊竞品分析skill 关键词流量和广告架构Amazon competitor traffic ads analysis](amazon-ai/2026-11-05-x-com-grok-bot-skill-amazon-competitor-traffic-ads-analysis.md)
